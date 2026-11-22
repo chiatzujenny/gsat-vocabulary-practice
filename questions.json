@@ -1,0 +1,230 @@
+[
+  {
+    "question": "When the director resigned, Maya agreed to _____ responsibility for the unfinished project.",
+    "options": [
+      "decorate",
+      "shoulder",
+      "translate",
+      "borrow"
+    ],
+    "answer": "shoulder",
+    "explanation": "shoulder 作動詞是承擔，常接 responsibility 或 burden。不能只記肩膀的意思。其他選項不表承擔責任。",
+    "category": "詞義遷移"
+  },
+  {
+    "question": "Several errors in the experiment have _____ serious doubts about the reliability of its results.",
+    "options": [
+      "lifted",
+      "raised",
+      "grown",
+      "risen"
+    ],
+    "answer": "raised",
+    "explanation": "raise doubts 指引起疑慮。lift 偏移動物體；grow 不作此搭配；rise 是不及物動詞。",
+    "category": "搭配精確"
+  },
+  {
+    "question": "The new wing of the museum _____ a collection of instruments that once belonged to local musicians.",
+    "options": [
+      "rents",
+      "borrows",
+      "houses",
+      "occupies"
+    ],
+    "answer": "houses",
+    "explanation": "house 作動詞是容納、收藏。主詞是館舍，受詞是館藏；occupy 的主受詞關係通常相反。",
+    "category": "詞義遷移"
+  },
+  {
+    "question": "The mayor was asked to explain rising bus fares, but her speech never _____ the issue.",
+    "options": [
+      "mailed",
+      "measured",
+      "addressed",
+      "furnished"
+    ],
+    "answer": "addressed",
+    "explanation": "address an issue 是處理或談論議題，與郵寄地址無關。先看受詞 issue。",
+    "category": "詞義遷移"
+  },
+  {
+    "question": "The plan met with _____ opposition from residents, who organized protests and refused to accept it.",
+    "options": [
+      "fierce",
+      "rough",
+      "tall",
+      "steep"
+    ],
+    "answer": "fierce",
+    "explanation": "fierce opposition 是強烈反對。rough 常指粗糙或艱難；steep 常搭坡度或增幅；tall 描述高度。",
+    "category": "抽象搭配"
+  },
+  {
+    "question": "The judge decided that the newly discovered evidence was strong enough to _____ a further investigation.",
+    "options": [
+      "warrant",
+      "confirm",
+      "reward",
+      "decorate"
+    ],
+    "answer": "warrant",
+    "explanation": "warrant 作動詞是使有必要、有理由。confirm 是確認某事為真；reward 是獎賞；decorate 是裝飾。",
+    "category": "詞義遷移"
+  },
+  {
+    "question": "The team underestimated the _____ of work involved and had to hire three more assistants.",
+    "options": [
+      "number",
+      "height",
+      "volume",
+      "length"
+    ],
+    "answer": "volume",
+    "explanation": "a volume of work 指工作量。work 此處不可數，不用 number；height 與 length 也不表示此處的工作總量。",
+    "category": "抽象搭配"
+  },
+  {
+    "question": "Although she doubts the plan will succeed, the manager is willing to _____ the possibility that she is wrong.",
+    "options": [
+      "entertain",
+      "enjoy",
+      "amuse",
+      "delight"
+    ],
+    "answer": "entertain",
+    "explanation": "entertain a possibility 指考慮一種可能性。其餘選項偏娛樂或愉快，不能套用此搭配。",
+    "category": "詞義遷移"
+  },
+  {
+    "question": "After falsely accusing his classmate of cheating, Leo offered a _____ apology and admitted his mistake.",
+    "options": [
+      "sincere",
+      "seasonal",
+      "physical",
+      "literal"
+    ],
+    "answer": "sincere",
+    "explanation": "sincere apology 是真誠道歉。其他選項是字面的、身體的、季節性的，都不合這個語境。",
+    "category": "抽象搭配"
+  },
+  {
+    "question": "The witness gave the police a detailed _____ of what she had seen outside the station.",
+    "options": [
+      "deposit",
+      "account",
+      "bill",
+      "score"
+    ],
+    "answer": "account",
+    "explanation": "an account of an event 是事件敘述。account 不只有銀行帳戶的意思。",
+    "category": "詞義遷移"
+  },
+  {
+    "question": "The reports seem to disagree, but the _____ contradiction disappears once their different definitions are explained.",
+    "options": [
+      "edible",
+      "audible",
+      "portable",
+      "apparent"
+    ],
+    "answer": "apparent",
+    "explanation": "apparent contradiction 指表面上的矛盾，後句說釐清定義後便消失。其餘是可聽見、可食用、可攜帶。",
+    "category": "語境限制"
+  },
+  {
+    "question": "To avoid a conflict of interest, committee members must _____ from voting on projects proposed by their relatives.",
+    "options": [
+      "abstain",
+      "depart",
+      "escape",
+      "retire"
+    ],
+    "answer": "abstain",
+    "explanation": "abstain from voting 是迴避或放棄投票。retire 退休，escape 逃脫，depart 離開，皆不合此正式搭配。",
+    "category": "搭配與介系詞"
+  },
+  {
+    "question": "Every repair _____ written permission from the building owner before work can begin.",
+    "options": [
+      "harvests",
+      "collects",
+      "serves",
+      "requires"
+    ],
+    "answer": "requires",
+    "explanation": "require permission 指需要許可。先看 repair 與 permission 的關係，再選可表必要條件的動詞。",
+    "category": "語意角色"
+  },
+  {
+    "question": "The reviewer _____ the guidebook for its clear explanations but criticized its outdated maps.",
+    "options": [
+      "praised",
+      "raised",
+      "arose",
+      "rose"
+    ],
+    "answer": "praised",
+    "explanation": "praise A for B 是因 B 稱讚 A。criticized 的對比提示前半為正面評價；raise、rise、arise 均無此義。",
+    "category": "語境與搭配"
+  },
+  {
+    "question": "The engineer proposed a _____ approach that no one in the laboratory had tried before.",
+    "options": [
+      "routine",
+      "conventional",
+      "novel",
+      "periodic"
+    ],
+    "answer": "novel",
+    "explanation": "novel 作形容詞是新穎的。routine、conventional 與從未試過衝突；periodic 表週期性的。",
+    "category": "詞性與多義"
+  },
+  {
+    "question": "Since only one side has presented its evidence, the teacher decided to _____ judgment until she had heard both students.",
+    "options": [
+      "conserve",
+      "preserve",
+      "reserve",
+      "deserve"
+    ],
+    "answer": "reserve",
+    "explanation": "reserve judgment 指暫緩判斷；preserve 保存，conserve 節約或保護，deserve 值得。",
+    "category": "搭配精確"
+  },
+  {
+    "question": "Popularity does not necessarily _____ accuracy. A widely shared claim could still lack evidence.",
+    "options": [
+      "replace",
+      "borrow",
+      "interrupt",
+      "guarantee"
+    ],
+    "answer": "guarantee",
+    "explanation": "很多人轉傳不保證真實；guarantee accuracy 合語意。其餘為打斷、取代、借用。",
+    "category": "語境與搭配"
+  },
+  {
+    "question": "The teacher asked students to _____ between direct observations and personal opinions.",
+    "options": [
+      "participate",
+      "distinguish",
+      "persuade",
+      "emphasize"
+    ],
+    "answer": "distinguish",
+    "explanation": "distinguish between A and B 表區分。emphasize 是強調，persuade 是說服，participate 是參與。對應 114 第 13 題的語意角色判斷。",
+    "category": "語意角色"
+  },
+  {
+    "question": "The students became more careful about evidence. The teacher praised this _____ shift in their approach.",
+    "options": [
+      "edible",
+      "crowded",
+      "significant",
+      "tall"
+    ],
+    "answer": "significant",
+    "explanation": "significant shift 指重要轉變；edible 指可食用，tall、crowded 也不合這裡的抽象變化。",
+    "category": "抽象搭配"
+  }
+]
