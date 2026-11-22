@@ -226,5 +226,977 @@
     "answer": "significant",
     "explanation": "significant shift 指重要轉變；edible 指可食用，tall、crowded 也不合這裡的抽象變化。",
     "category": "抽象搭配"
+  },
+  {
+    "question": "The school will _____ a new recycling program next semester to reduce waste.",
+    "options": [
+      "launch",
+      "fold",
+      "erase",
+      "sink"
+    ],
+    "answer": "launch",
+    "explanation": "launch a program 指推動或啟動計畫；其他選項分別是摺疊、擦除、下沉。",
+    "category": "詞義與搭配"
+  },
+  {
+    "question": "The scientist refused to draw a conclusion until she had collected _____ evidence.",
+    "options": [
+      "sufficient",
+      "distant",
+      "hollow",
+      "temporary"
+    ],
+    "answer": "sufficient",
+    "explanation": "sufficient evidence 是充分證據；語境強調證據足夠才下結論。",
+    "category": "語境判斷"
+  },
+  {
+    "question": "Because the road was blocked by fallen trees, drivers had to take an _____ route.",
+    "options": [
+      "alternative",
+      "absolute",
+      "ordinary",
+      "invisible"
+    ],
+    "answer": "alternative",
+    "explanation": "alternative route 指替代路線；道路受阻，所以需要另尋路線。",
+    "category": "語境判斷"
+  },
+  {
+    "question": "The report _____ that regular exercise can improve both physical and mental health.",
+    "options": [
+      "indicates",
+      "hesitates",
+      "withdraws",
+      "wanders"
+    ],
+    "answer": "indicates",
+    "explanation": "indicate 表示或指出；報告指出一項發現。",
+    "category": "語意角色"
+  },
+  {
+    "question": "The company promised to _____ the damaged laptop or return the customer's money.",
+    "options": [
+      "replace",
+      "postpone",
+      "occupy",
+      "persuade"
+    ],
+    "answer": "replace",
+    "explanation": "replace 指更換；公司承諾換掉損壞的筆電或退款。",
+    "category": "語境判斷"
+  },
+  {
+    "question": "Before sharing a news story, readers should _____ whether its source is trustworthy.",
+    "options": [
+      "verify",
+      "decorate",
+      "inherit",
+      "surrender"
+    ],
+    "answer": "verify",
+    "explanation": "verify 是查證；分享前應確認消息來源是否可信。",
+    "category": "語境判斷"
+  },
+  {
+    "question": "The student apologized for her mistake and promised to take _____ for it.",
+    "options": [
+      "responsibility",
+      "temperature",
+      "advantage",
+      "attendance"
+    ],
+    "answer": "responsibility",
+    "explanation": "take responsibility for 表示對某事負責；take advantage of 則是利用。",
+    "category": "搭配與介系詞"
+  },
+  {
+    "question": "The new rule is intended to _____ students from using their phones during the exam.",
+    "options": [
+      "prevent",
+      "enable",
+      "remind",
+      "convince"
+    ],
+    "answer": "prevent",
+    "explanation": "prevent A from V-ing 表示阻止 A 做某事；enable 接 to V。",
+    "category": "搭配與介系詞"
+  },
+  {
+    "question": "The museum offers free admission to children, making art more _____ to young visitors.",
+    "options": [
+      "accessible",
+      "fragile",
+      "reluctant",
+      "punctual"
+    ],
+    "answer": "accessible",
+    "explanation": "accessible 指容易取得或接觸的；免費入場讓兒童更容易接觸藝術。",
+    "category": "語境判斷"
+  },
+  {
+    "question": "The hikers were advised to _____ plenty of water because the weather would be hot and dry.",
+    "options": [
+      "carry",
+      "consume",
+      "scatter",
+      "abandon"
+    ],
+    "answer": "carry",
+    "explanation": "carry 指攜帶；炎熱乾燥的天氣需要帶足飲水。",
+    "category": "語境判斷"
+  },
+  {
+    "question": "The manager rejected the proposal because its estimated cost was far beyond the available _____.",
+    "options": [
+      "budget",
+      "accent",
+      "shadow",
+      "gesture"
+    ],
+    "answer": "budget",
+    "explanation": "budget 是預算；估計成本超過可用預算。",
+    "category": "語境判斷"
+  },
+  {
+    "question": "The teacher encouraged students to _____ questions instead of accepting every claim without thought.",
+    "options": [
+      "raise",
+      "rise",
+      "arise",
+      "arouse"
+    ],
+    "answer": "raise",
+    "explanation": "raise questions 是提出問題；rise、arise 為不及物動詞。",
+    "category": "易混淆字"
+  },
+  {
+    "question": "Although the two paintings look similar at first, a closer look _____ several differences.",
+    "options": [
+      "reveals",
+      "conceals",
+      "forbids",
+      "imitates"
+    ],
+    "answer": "reveals",
+    "explanation": "reveal 是顯露；仔細觀察會發現差異，與 conceal 隱藏相反。",
+    "category": "語境判斷"
+  },
+  {
+    "question": "The government introduced a tax on plastic bags in an effort to _____ their use.",
+    "options": [
+      "reduce",
+      "resume",
+      "restore",
+      "retain"
+    ],
+    "answer": "reduce",
+    "explanation": "reduce 是減少；課稅目的在降低塑膠袋使用量。",
+    "category": "語境判斷"
+  },
+  {
+    "question": "The author supports her argument with examples rather than making a claim without _____.",
+    "options": [
+      "evidence",
+      "patience",
+      "ceremony",
+      "permission"
+    ],
+    "answer": "evidence",
+    "explanation": "evidence 是證據；例子可支持論點。",
+    "category": "語境判斷"
+  },
+  {
+    "question": "The athlete's rapid _____ from injury surprised even her doctor.",
+    "options": [
+      "recovery",
+      "discovery",
+      "delivery",
+      "departure"
+    ],
+    "answer": "recovery",
+    "explanation": "recovery from injury 指傷後復原；discovery 是發現。",
+    "category": "搭配與介系詞"
+  },
+  {
+    "question": "The team needs someone who can work well under _____ when a deadline is near.",
+    "options": [
+      "pressure",
+      "pleasure",
+      "treasure",
+      "leisure"
+    ],
+    "answer": "pressure",
+    "explanation": "work under pressure 是在壓力下工作；deadline 提供線索。",
+    "category": "易混淆字"
+  },
+  {
+    "question": "The witness's description was not _____ with the video, so the police examined both again.",
+    "options": [
+      "consistent",
+      "generous",
+      "familiar",
+      "patient"
+    ],
+    "answer": "consistent",
+    "explanation": "consistent with 是與……一致；描述和影片不一致，因而重新檢查。",
+    "category": "搭配與介系詞"
+  },
+  {
+    "question": "The doctor advised him to cut _____ on sugar rather than stop eating all carbohydrates.",
+    "options": [
+      "down",
+      "off",
+      "out",
+      "through"
+    ],
+    "answer": "down",
+    "explanation": "cut down on 表示減少攝取；cut out 常指完全去除。",
+    "category": "片語搭配"
+  },
+  {
+    "question": "The researchers hope their findings will contribute _____ the development of better treatments.",
+    "options": [
+      "to",
+      "at",
+      "from",
+      "against"
+    ],
+    "answer": "to",
+    "explanation": "contribute to 是有助於；to 後可接名詞或動名詞。",
+    "category": "搭配與介系詞"
+  },
+  {
+    "question": "The school canceled outdoor activities _____ to the approaching typhoon.",
+    "options": [
+      "due",
+      "according",
+      "similar",
+      "opposed"
+    ],
+    "answer": "due",
+    "explanation": "due to 表示由於；颱風接近是取消活動的原因。",
+    "category": "搭配與介系詞"
+  },
+  {
+    "question": "The volunteers distributed food and blankets to families _____ by the earthquake.",
+    "options": [
+      "affected",
+      "invented",
+      "translated",
+      "transported"
+    ],
+    "answer": "affected",
+    "explanation": "affected by 表示受到……影響；地震影響家庭，志工提供物資。",
+    "category": "語境判斷"
+  },
+  {
+    "question": "The professor asked students to _____ the advantages of the policy against its possible risks.",
+    "options": [
+      "weigh",
+      "pour",
+      "weave",
+      "drag"
+    ],
+    "answer": "weigh",
+    "explanation": "weigh A against B 表示權衡 A 和 B；此處比較優點與風險。",
+    "category": "詞義遷移"
+  },
+  {
+    "question": "After months of debate, the committee finally _____ an agreement on the project.",
+    "options": [
+      "reached",
+      "caught",
+      "arrived",
+      "touched"
+    ],
+    "answer": "reached",
+    "explanation": "reach an agreement 是達成協議；arrive 需用 at an agreement。",
+    "category": "搭配精確"
+  },
+  {
+    "question": "The old bridge is no longer safe, so officials plan to _____ it with a stronger one.",
+    "options": [
+      "replace",
+      "exchange",
+      "remove",
+      "exclude"
+    ],
+    "answer": "replace",
+    "explanation": "replace A with B 表示用 B 取代 A；橋要換成更堅固的橋。",
+    "category": "搭配與介系詞"
+  },
+  {
+    "question": "Her explanation was so _____ that even the youngest students understood the instructions.",
+    "options": [
+      "clear",
+      "vague",
+      "bitter",
+      "remote"
+    ],
+    "answer": "clear",
+    "explanation": "clear 表示清楚易懂；後句說最年幼的學生也理解。",
+    "category": "語境判斷"
+  },
+  {
+    "question": "Rather than blame others, the leader admitted that the failure was partly her _____.",
+    "options": [
+      "fault",
+      "scene",
+      "event",
+      "device"
+    ],
+    "answer": "fault",
+    "explanation": "fault 指過錯；admitted 和 blame 暗示承認自己的責任。",
+    "category": "語境判斷"
+  },
+  {
+    "question": "The city planted more trees to provide _____ for people walking in the summer heat.",
+    "options": [
+      "shade",
+      "signal",
+      "noise",
+      "fuel"
+    ],
+    "answer": "shade",
+    "explanation": "shade 是遮蔭；樹木可讓行人在夏日避開陽光。",
+    "category": "語境判斷"
+  },
+  {
+    "question": "The book's popularity has _____ steadily since a famous actor recommended it online.",
+    "options": [
+      "increased",
+      "vanished",
+      "hesitated",
+      "recovered"
+    ],
+    "answer": "increased",
+    "explanation": "increased steadily 是持續增加；名人推薦後書的受歡迎程度上升。",
+    "category": "語境判斷"
+  },
+  {
+    "question": "The school has limited funds, so it must set _____ and decide which projects matter most.",
+    "options": [
+      "priorities",
+      "boundaries",
+      "proverbs",
+      "rumors"
+    ],
+    "answer": "priorities",
+    "explanation": "set priorities 指排定優先順序；經費有限時要決定哪些計畫最重要。",
+    "category": "抽象搭配"
+  },
+  {
+    "question": "The company will _____ applicants based on their skills and experience, not their age.",
+    "options": [
+      "evaluate",
+      "decorate",
+      "export",
+      "interrupt"
+    ],
+    "answer": "evaluate",
+    "explanation": "evaluate 是評估；依技能和經驗評估應徵者。",
+    "category": "語意角色"
+  },
+  {
+    "question": "The storm caused a power _____, leaving the entire neighborhood without electricity.",
+    "options": [
+      "outage",
+      "output",
+      "outline",
+      "outcome"
+    ],
+    "answer": "outage",
+    "explanation": "power outage 是停電；後句 without electricity 直接提示。",
+    "category": "抽象搭配"
+  },
+  {
+    "question": "The coach praised the player for her _____, as she kept practicing despite repeated failures.",
+    "options": [
+      "persistence",
+      "preference",
+      "permission",
+      "prediction"
+    ],
+    "answer": "persistence",
+    "explanation": "persistence 是堅持；多次失敗仍持續練習。",
+    "category": "語境判斷"
+  },
+  {
+    "question": "Many species are at risk because their natural _____ are being destroyed by development.",
+    "options": [
+      "habitats",
+      "habits",
+      "climates",
+      "hobbies"
+    ],
+    "answer": "habitats",
+    "explanation": "habitat 是棲地；開發破壞物種的自然棲地。habits 是習慣。",
+    "category": "易混淆字"
+  },
+  {
+    "question": "The police warned residents to be _____ of messages asking for passwords or bank details.",
+    "options": [
+      "suspicious",
+      "suitable",
+      "grateful",
+      "capable"
+    ],
+    "answer": "suspicious",
+    "explanation": "be suspicious of 表示對……抱持懷疑；要求密碼的訊息可能有問題。",
+    "category": "搭配與介系詞"
+  },
+  {
+    "question": "The results of a small survey cannot necessarily be _____ to the whole population.",
+    "options": [
+      "applied",
+      "occupied",
+      "reacted",
+      "referred"
+    ],
+    "answer": "applied",
+    "explanation": "apply A to B 表示將 A 應用於 B；小型調查結果不一定適用於全體。",
+    "category": "搭配與介系詞"
+  },
+  {
+    "question": "The student _____ her opinion after reading new evidence that challenged her original view.",
+    "options": [
+      "revised",
+      "recycled",
+      "repeated",
+      "resembled"
+    ],
+    "answer": "revised",
+    "explanation": "revise an opinion 指修正看法；新證據挑戰原本觀點。",
+    "category": "語境判斷"
+  },
+  {
+    "question": "Passengers are requested to _____ their seat belts until the plane has come to a complete stop.",
+    "options": [
+      "fasten",
+      "loosen",
+      "unfold",
+      "polish"
+    ],
+    "answer": "fasten",
+    "explanation": "fasten a seat belt 指繫緊安全帶；飛機停妥前應保持繫緊。",
+    "category": "搭配精確"
+  },
+  {
+    "question": "The restaurant is known for using _____ ingredients grown by nearby farmers.",
+    "options": [
+      "local",
+      "remote",
+      "artificial",
+      "foreign"
+    ],
+    "answer": "local",
+    "explanation": "local 指當地的；nearby farmers 提供明確線索。",
+    "category": "語境判斷"
+  },
+  {
+    "question": "The new policy will take _____ on January 1, so the old rules remain in place until then.",
+    "options": [
+      "effect",
+      "effort",
+      "charge",
+      "place"
+    ],
+    "answer": "effect",
+    "explanation": "take effect 是生效；take place 是發生，不能用來表示規定生效。",
+    "category": "片語搭配"
+  },
+  {
+    "question": "The teacher asked students to _____ the main idea of the article in one sentence.",
+    "options": [
+      "summarize",
+      "expand",
+      "postpone",
+      "disguise"
+    ],
+    "answer": "summarize",
+    "explanation": "summarize 是摘要；用一句話說明文章主旨。",
+    "category": "語境判斷"
+  },
+  {
+    "question": "The product is expensive, but its _____ makes it last much longer than cheaper alternatives.",
+    "options": [
+      "durability",
+      "curiosity",
+      "popularity",
+      "frequency"
+    ],
+    "answer": "durability",
+    "explanation": "durability 是耐用性；能使用較久是線索。",
+    "category": "語境判斷"
+  },
+  {
+    "question": "The government must balance economic growth _____ the need to protect the environment.",
+    "options": [
+      "against",
+      "from",
+      "into",
+      "under"
+    ],
+    "answer": "against",
+    "explanation": "balance A against B 表示權衡 A 與 B。",
+    "category": "搭配與介系詞"
+  },
+  {
+    "question": "The student's answer was _____ correct, but it did not address every part of the question.",
+    "options": [
+      "partly",
+      "rarely",
+      "formerly",
+      "suddenly"
+    ],
+    "answer": "partly",
+    "explanation": "partly 表示部分地；後句指出未回答所有部分。",
+    "category": "語境判斷"
+  },
+  {
+    "question": "The fire alarm went off, and everyone was asked to _____ the building immediately.",
+    "options": [
+      "evacuate",
+      "occupy",
+      "construct",
+      "decorate"
+    ],
+    "answer": "evacuate",
+    "explanation": "evacuate the building 是撤離大樓；警報響起時應立即離開。",
+    "category": "語境判斷"
+  },
+  {
+    "question": "It is difficult to _____ the long-term effects of a new technology before it is widely used.",
+    "options": [
+      "predict",
+      "purchase",
+      "praise",
+      "postpone"
+    ],
+    "answer": "predict",
+    "explanation": "predict 指預測；科技尚未廣泛使用時很難預測長期影響。",
+    "category": "語境判斷"
+  },
+  {
+    "question": "The speaker used a familiar example to make the abstract concept easier to _____.",
+    "options": [
+      "grasp",
+      "grind",
+      "gather",
+      "guard"
+    ],
+    "answer": "grasp",
+    "explanation": "grasp 可指理解；熟悉的例子有助於理解抽象概念。",
+    "category": "詞義遷移"
+  },
+  {
+    "question": "The charity relies _____ donations from the public to fund its services.",
+    "options": [
+      "on",
+      "at",
+      "for",
+      "with"
+    ],
+    "answer": "on",
+    "explanation": "rely on 表示依靠；慈善機構依賴公眾捐款。",
+    "category": "搭配與介系詞"
+  },
+  {
+    "question": "The test results _____ widely among students, suggesting that some need more support than others.",
+    "options": [
+      "varied",
+      "vanished",
+      "resigned",
+      "hesitated"
+    ],
+    "answer": "varied",
+    "explanation": "vary 表示不同、有變化；成績差異大，因此需求不同。",
+    "category": "語境判斷"
+  },
+  {
+    "question": "The lawyer advised her client to read the contract carefully before _____ it.",
+    "options": [
+      "signing",
+      "folding",
+      "burying",
+      "spilling"
+    ],
+    "answer": "signing",
+    "explanation": "sign a contract 是簽署合約；簽名前應仔細閱讀。",
+    "category": "搭配精確"
+  },
+  {
+    "question": "The plan sounds appealing, but we need to consider whether it is _____ with our limited resources.",
+    "options": [
+      "feasible",
+      "edible",
+      "visible",
+      "flexible"
+    ],
+    "answer": "feasible",
+    "explanation": "feasible 是可行的；應評估有限資源是否足以實現計畫。",
+    "category": "語境判斷"
+  },
+  {
+    "question": "The researchers found a _____ between sleep duration and concentration, but this alone did not prove cause and effect.",
+    "options": [
+      "connection",
+      "collision",
+      "collection",
+      "permission"
+    ],
+    "answer": "connection",
+    "explanation": "connection 指關聯；有關聯不代表已證明因果。",
+    "category": "語境判斷"
+  },
+  {
+    "question": "The guide told visitors to _____ from touching the ancient paintings.",
+    "options": [
+      "refrain",
+      "recover",
+      "result",
+      "remove"
+    ],
+    "answer": "refrain",
+    "explanation": "refrain from V-ing 是避免做某事；此處指不要觸摸古畫。",
+    "category": "搭配與介系詞"
+  },
+  {
+    "question": "The customer asked for a _____ after discovering that the tickets had been charged twice.",
+    "options": [
+      "refund",
+      "rehearsal",
+      "reservation",
+      "reputation"
+    ],
+    "answer": "refund",
+    "explanation": "refund 是退款；票款重複收取時可要求退款。",
+    "category": "語境判斷"
+  },
+  {
+    "question": "The speech _____ attention to the difficulties faced by migrant workers.",
+    "options": [
+      "drew",
+      "dragged",
+      "painted",
+      "borrowed"
+    ],
+    "answer": "drew",
+    "explanation": "draw attention to 表示使人注意；此處為過去式 drew。",
+    "category": "詞義遷移"
+  },
+  {
+    "question": "The teacher's feedback helped the student identify the _____ in her argument and improve it.",
+    "options": [
+      "weakness",
+      "wealth",
+      "witness",
+      "weather"
+    ],
+    "answer": "weakness",
+    "explanation": "weakness 指弱點；回饋協助找出論點不足之處。",
+    "category": "易混淆字"
+  },
+  {
+    "question": "The medicine should be stored out of children's _____ to prevent accidental poisoning.",
+    "options": [
+      "reach",
+      "sight",
+      "range",
+      "control"
+    ],
+    "answer": "reach",
+    "explanation": "out of children's reach 是放在兒童拿不到的地方；避免誤食。",
+    "category": "搭配精確"
+  },
+  {
+    "question": "The artist's work was _____ by her childhood memories of the sea.",
+    "options": [
+      "inspired",
+      "insured",
+      "inserted",
+      "inspected"
+    ],
+    "answer": "inspired",
+    "explanation": "inspire 表示啟發；童年海洋記憶啟發藝術創作。",
+    "category": "易混淆字"
+  },
+  {
+    "question": "The committee postponed the vote _____ more information about the proposal became available.",
+    "options": [
+      "until",
+      "unless",
+      "although",
+      "whereas"
+    ],
+    "answer": "until",
+    "explanation": "until 表示直到；委員會延後投票，等候更多資料。",
+    "category": "語境判斷"
+  },
+  {
+    "question": "The company apologized for the delay and assured customers that their orders would be sent _____.",
+    "options": [
+      "promptly",
+      "barely",
+      "formerly",
+      "randomly"
+    ],
+    "answer": "promptly",
+    "explanation": "promptly 是迅速地；道歉後承諾盡快寄出訂單。",
+    "category": "語境判斷"
+  },
+  {
+    "question": "The campaign aims to raise public _____ of the importance of mental health.",
+    "options": [
+      "awareness",
+      "distance",
+      "absence",
+      "resistance"
+    ],
+    "answer": "awareness",
+    "explanation": "raise awareness of 表示提升對……的認識。",
+    "category": "搭配精確"
+  },
+  {
+    "question": "The boy was _____ to admit that he had broken the window because he feared punishment.",
+    "options": [
+      "reluctant",
+      "eager",
+      "grateful",
+      "qualified"
+    ],
+    "answer": "reluctant",
+    "explanation": "reluctant 是不願意的；害怕受罰使他不願承認。",
+    "category": "語境判斷"
+  },
+  {
+    "question": "The editor suggested that the writer _____ unnecessary details to make the article more concise.",
+    "options": [
+      "remove",
+      "reveal",
+      "require",
+      "restore"
+    ],
+    "answer": "remove",
+    "explanation": "remove 是移除；刪去不必要細節可使文章精簡。",
+    "category": "語境判斷"
+  },
+  {
+    "question": "The new evidence _____ the theory, but more experiments are needed before it can be accepted.",
+    "options": [
+      "supports",
+      "prohibits",
+      "invents",
+      "ignores"
+    ],
+    "answer": "supports",
+    "explanation": "support a theory 指支持理論；仍需更多實驗才能接受。",
+    "category": "語意角色"
+  },
+  {
+    "question": "During the drought, residents were asked to _____ water by taking shorter showers.",
+    "options": [
+      "conserve",
+      "consume",
+      "pollute",
+      "scatter"
+    ],
+    "answer": "conserve",
+    "explanation": "conserve 是節約；縮短淋浴時間可節省用水。",
+    "category": "易混淆字"
+  },
+  {
+    "question": "The interviewer asked each candidate the same questions to ensure a _____ comparison.",
+    "options": [
+      "fair",
+      "bitter",
+      "distant",
+      "fragile"
+    ],
+    "answer": "fair",
+    "explanation": "fair comparison 是公平比較；相同問題有助公平評估。",
+    "category": "語境判斷"
+  },
+  {
+    "question": "The company issued a public statement to _____ the misunderstanding caused by its advertisement.",
+    "options": [
+      "clarify",
+      "classify",
+      "multiply",
+      "occupy"
+    ],
+    "answer": "clarify",
+    "explanation": "clarify 是釐清；聲明用來解釋廣告造成的誤會。",
+    "category": "易混淆字"
+  },
+  {
+    "question": "The rain was so heavy that the river overflowed its banks and _____ nearby roads.",
+    "options": [
+      "flooded",
+      "polished",
+      "folded",
+      "measured"
+    ],
+    "answer": "flooded",
+    "explanation": "flood 指淹沒；河水氾濫淹沒附近道路。",
+    "category": "語境判斷"
+  },
+  {
+    "question": "The teacher asked the class to _____ a solution that would meet everyone's needs.",
+    "options": [
+      "propose",
+      "suppose",
+      "expose",
+      "oppose"
+    ],
+    "answer": "propose",
+    "explanation": "propose a solution 是提出解決方案；oppose 是反對。",
+    "category": "易混淆字"
+  },
+  {
+    "question": "Although the device is small, it is _____ of storing thousands of photographs.",
+    "options": [
+      "capable",
+      "aware",
+      "afraid",
+      "fond"
+    ],
+    "answer": "capable",
+    "explanation": "be capable of V-ing 是有能力做某事；裝置能儲存大量照片。",
+    "category": "搭配與介系詞"
+  },
+  {
+    "question": "The film is _____ on a true story, although some characters were invented by the writer.",
+    "options": [
+      "based",
+      "depended",
+      "focused",
+      "insisted"
+    ],
+    "answer": "based",
+    "explanation": "be based on 表示以……為基礎；部分角色仍可能虛構。",
+    "category": "搭配與介系詞"
+  },
+  {
+    "question": "The team made several _____ to the original design after testing the first model.",
+    "options": [
+      "adjustments",
+      "invitations",
+      "accidents",
+      "compliments"
+    ],
+    "answer": "adjustments",
+    "explanation": "make adjustments to 表示調整；測試模型後修改設計。",
+    "category": "抽象搭配"
+  },
+  {
+    "question": "The teacher reminded the students that a person's _____ is private and should not be shared without permission.",
+    "options": [
+      "password",
+      "schedule",
+      "opinion",
+      "nickname"
+    ],
+    "answer": "password",
+    "explanation": "password 是密碼；不應未經同意分享。",
+    "category": "語境判斷"
+  },
+  {
+    "question": "Because the evidence was _____, the jury could not reach a confident conclusion.",
+    "options": [
+      "inconclusive",
+      "convincing",
+      "abundant",
+      "precise"
+    ],
+    "answer": "inconclusive",
+    "explanation": "inconclusive 指無法確定結論的；陪審團因此難以確信判斷。",
+    "category": "語境判斷"
+  },
+  {
+    "question": "The library extended its opening hours in _____ to requests from students preparing for exams.",
+    "options": [
+      "response",
+      "contrast",
+      "addition",
+      "opposition"
+    ],
+    "answer": "response",
+    "explanation": "in response to 表示回應；圖書館因學生要求而延長時間。",
+    "category": "片語搭配"
+  },
+  {
+    "question": "The project was delayed because the team _____ the amount of time needed to complete it.",
+    "options": [
+      "underestimated",
+      "underlined",
+      "undertook",
+      "understood"
+    ],
+    "answer": "underestimated",
+    "explanation": "underestimate 是低估；低估所需時間導致計畫延遲。",
+    "category": "易混淆字"
+  },
+  {
+    "question": "The principal emphasized that all students should be treated with _____, regardless of their background.",
+    "options": [
+      "respect",
+      "departure",
+      "expense",
+      "hesitation"
+    ],
+    "answer": "respect",
+    "explanation": "treat someone with respect 是尊重地對待某人；不因背景不同而差別待遇。",
+    "category": "搭配精確"
+  },
+  {
+    "question": "The scientist repeated the experiment to see whether the original results could be _____.",
+    "options": [
+      "reproduced",
+      "borrowed",
+      "forgiven",
+      "translated"
+    ],
+    "answer": "reproduced",
+    "explanation": "reproduce results 指重現結果；重複實驗可檢驗結果是否一致。",
+    "category": "語境判斷"
+  },
+  {
+    "question": "The company must _____ with safety regulations before selling the product.",
+    "options": [
+      "comply",
+      "compete",
+      "compare",
+      "complain"
+    ],
+    "answer": "comply",
+    "explanation": "comply with 表示遵守；產品上市前須符合安全規範。",
+    "category": "搭配與介系詞"
+  },
+  {
+    "question": "The teacher warned that copying an essay from the internet would be considered _____.",
+    "options": [
+      "plagiarism",
+      "volunteer",
+      "transport",
+      "equipment"
+    ],
+    "answer": "plagiarism",
+    "explanation": "plagiarism 是抄襲；從網路複製文章當成自己的作品屬抄襲。",
+    "category": "語境判斷"
+  },
+  {
+    "question": "The two sides had different goals, so reaching a _____ required each to give up something.",
+    "options": [
+      "compromise",
+      "compliment",
+      "competition",
+      "complaint"
+    ],
+    "answer": "compromise",
+    "explanation": "compromise 是妥協；雙方各讓一步才能達成共識。",
+    "category": "易混淆字"
   }
 ]
