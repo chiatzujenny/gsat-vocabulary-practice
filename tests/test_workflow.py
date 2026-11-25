@@ -253,6 +253,7 @@ class WorkflowTests(unittest.TestCase):
             self.assertEqual(len(self.store.list_section_runs(sid)), len(SECTIONS))
             app.radio[0].set_value('練習進度').run()
             self.assertEqual(len(app.progress), len(SECTIONS))
+            self.assertFalse(any('每回' in element.value for element in app.caption))
 
 
 if __name__ == '__main__':

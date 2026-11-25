@@ -278,12 +278,12 @@ if page == '練習進度':
         st.error('目前無法讀取練習進度，請稍後再試。')
         st.stop()
     st.caption('各題型可自由練習；進度表示目前題庫中已完成的不重複題數，不等同熟練度。')
-    for label, amount in SECTIONS.items():
+    for label in SECTIONS:
         info = summarize(label, history, legacy)
         st.markdown(f"### {label}")
         ratio = info['seen'] / info['total'] if info['total'] else 0
-        st.progress(ratio, text=f"題庫覆蓋率 {ratio:.0%} · {info['seen']} / {info['total']} 題")
-        summary = f"完成 {info['rounds']} 回 · 每回 {amount} 題"
+        st.progress(ratio, text=f"練習進度 {ratio:.0%}")
+        summary = f"完成 {info['rounds']} 回"
         if info['average'] is not None:
             summary += f" · 平均得分率 {info['average']:.0%}"
         if info['duration'] is not None:
