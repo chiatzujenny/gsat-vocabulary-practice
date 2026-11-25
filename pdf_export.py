@@ -1,4 +1,5 @@
 """Create a downloadable explanation PDF with embedded Traditional Chinese font."""
+PDF_EXPORT_VERSION = 2
 from html import escape
 from io import BytesIO
 from pathlib import Path
@@ -13,6 +14,7 @@ from reportlab.pdfbase.ttfonts import TTFont
 from reportlab.platypus import SimpleDocTemplate, Paragraph, Spacer
 
 from quiz_engine import note_for
+from grading import response_text
 
 FONT = "JennyNotoTC"
 if FONT not in pdfmetrics.getRegisteredFontNames():
@@ -60,10 +62,14 @@ def create_pdf(section, groups, responses, duration):
             idx = offset
             chosen = responses[idx]
             para(f'第 {idx+1} 題　{q["question"]}', heading)
-            para('選項：' + '　／　'.join(q['options']))
-            para(f'你的答案：{chosen}　｜　正確答案：{q["answer"]}　｜　' + ('答對' if chosen == q['answer'] else '答錯'))
+            if q.get('options'):
+                para('選項：' + '　／　'.join(q['options']))
+            grade = q.get('_grade')
+            result = ('得分：' + f"{grade['points']:g}/{grade['max_points']:g}" +
+                      ('（學生自評，待教師覆核）' if grade.get('self_assessed') else '')) if grade else ('答對' if chosen == q['answer'] else '答錯')
+            para(f'你的答案：{response_text(chosen)}　｜　參考答案：{response_text(q["answer"])}　｜　{result}')
             para('中文解析：' + q['explanation'])
-            words = q['options'] if not group['shared'] and section in ('詞彙題', '綜合測驗') else [q['answer']]
+            words = q.get('options', []) if not group['shared'] and section in ('詞彙題', '綜合測驗') else ([q['answer']] if isinstance(q['answer'], str) else [])
             if group['shared'] and section == '篇章結構':
                 words = []
             for word in words:

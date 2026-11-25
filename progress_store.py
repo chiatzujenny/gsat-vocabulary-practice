@@ -1,4 +1,5 @@
 """Persistent quiz attempts; connection credentials are supplied by the host."""
+PROGRESS_STORE_VERSION = 2
 
 import hashlib
 import json
@@ -136,18 +137,23 @@ class ProgressStore:
             if not exists:
                 raise
 
-    def list_attempts(self):
+    def list_attempts(self, student_id=None):
+        statement = select(attempts).order_by(attempts.c.submitted_at.desc())
+        if student_id is not None:
+            statement = statement.where(attempts.c.student_id == student_id)
         with self.engine.connect() as connection:
-            rows = connection.execute(select(attempts).order_by(attempts.c.submitted_at.desc())).mappings()
+            rows = connection.execute(statement).mappings()
             return [dict(row, answers=json.loads(row["answers_json"])) for row in rows]
 
     def save_section(self, attempt_id, student_id, student_name, section, questions, responses, duration_seconds):
-        details = [{"question": q["question"], "selected": responses[i],
-                    "answer": q["answer"], "correct": responses[i] == q["answer"],
+        details = [{"question_id": q.get("id", ""), "question": q["question"], "selected": responses[i],
+                    "answer": q["answer"], "correct": q.get("_grade", {}).get("correct", responses[i] == q["answer"]),
                     "category": q.get("category", section),
                     "group_name": q.get("group_name", ""),
                     "passage": q.get("passage", ""),
-                    "options": q.get("options", [])} for i, q in enumerate(questions)]
+                    "options": q.get("options", []),
+                    "type": q.get("type", "single"),
+                    "grading": q.get("_grade")} for i, q in enumerate(questions)]
         row = dict(attempt_id=attempt_id, student_id=student_id, student_name=student_name,
                    submitted_at=datetime.now(timezone.utc).isoformat(timespec="seconds"),
                    section=section, score=sum(x["correct"] for x in details), total=len(details),

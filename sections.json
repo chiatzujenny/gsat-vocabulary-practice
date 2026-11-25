@@ -1,847 +1,60 @@
 [
   {
-    "kind": "綜合測驗",
-    "name": "社區冰箱",
-    "passage": "In one neighborhood, a brightly painted refrigerator stands outside a small grocery store. Anyone may leave extra food in it, and anyone who needs food may take some. The idea [1] when a shop owner noticed that good bread and vegetables were often thrown away at the end of the day. She wondered whether the food could be put to better use. The owner invited local residents to discuss how the idea might work.\n\nAt first, some residents worried about safety. To address these concerns, volunteers [2] clear rules and consistently followed them: fresh food must be labeled, and the fridge is checked every morning. The project has not solved every problem, but it has encouraged people to share resources and talk to neighbors they had never met before. Besides reducing food waste, it has created a stronger sense of community. The fridge also shows that a small idea can grow when many people support it. As one volunteer explained, the project depends [3] trust. People are more willing to contribute [4] they know how the food will be handled. The organizers hope to [5] the program to other neighborhoods.",
-    "questions": [
-      {
-        "question": "第 1 格",
-        "options": [
-          "arose",
-          "vanished",
-          "disappeared",
-          "declined"
-        ],
-        "answer": "arose",
-        "explanation": "arose 表「產生」，後文說店主注意到食物浪費而萌生想法；其餘表示消失或減少。",
-        "category": "語境理解"
-      },
-      {
-        "question": "第 2 格",
-        "options": [
-          "introduced",
-          "ignored",
-          "abandoned",
-          "violated"
-        ],
-        "answer": "introduced",
-        "explanation": "introduced 表推行；後文 consistently followed them 表明志工引入並遵守規則。",
-        "category": "語境理解"
-      },
-      {
-        "question": "第 3 格",
-        "options": [
-          "on",
-          "at",
-          "from",
-          "with"
-        ],
-        "answer": "on",
-        "explanation": "depend on 為固定搭配，表示依靠。",
-        "category": "語境理解"
-      },
-      {
-        "question": "第 4 格",
-        "options": [
-          "when",
-          "although",
-          "unless",
-          "before"
-        ],
-        "answer": "when",
-        "explanation": "當人們知道食物如何處理時，更願意提供食物。",
-        "category": "語境理解"
-      },
-      {
-        "question": "第 5 格",
-        "options": [
-          "expand",
-          "cancel",
-          "hide",
-          "interrupt"
-        ],
-        "answer": "expand",
-        "explanation": "expand the program 指擴大計畫至其他社區。",
-        "category": "語境理解"
-      }
-    ],
-    "shared": false,
-    "terms": [
-      "resource",
-      "volunteer",
-      "contribute",
-      "expand"
-    ]
-  },
-  {
-    "kind": "綜合測驗",
-    "name": "城市夜空",
-    "passage": "Many people who live in cities have never seen a sky full of stars. This is partly because artificial light from buildings and streets spreads into the night sky. The glow can make even bright stars difficult to see. Scientists call this effect light pollution.\n\nLight at night is useful for safety, but too much of it can affect animals and waste energy. Some birds, for example, become confused by bright buildings during migration. To address the problem, several cities have begun changing the way they use outdoor lights. They point lamps downward and turn off unnecessary lights after midnight. These measures do not require streets to become completely dark. [1], they make sure that light goes where it is needed. A local group also invites residents to observe the sky before and after the changes. The group hopes that the experience will [2] awareness of light pollution. It reminds people that an action intended for one purpose can affect other things in ways people did not foresee; it can have [3] effects. By using light more carefully, cities can protect wildlife [4] saving energy. Even small changes may make a [5] over time.",
-    "questions": [
-      {
-        "question": "第 1 格",
-        "options": [
-          "Instead",
-          "Otherwise",
-          "Similarly",
-          "Therefore"
-        ],
-        "answer": "Instead",
-        "explanation": "前句說措施不是讓街道全暗；instead 表示相反地，是讓光照向需要的地方。",
-        "category": "語境理解"
-      },
-      {
-        "question": "第 2 格",
-        "options": [
-          "raise",
-          "rise",
-          "arise",
-          "lift"
-        ],
-        "answer": "raise",
-        "explanation": "raise awareness 是提高意識；rise 和 arise 不直接接受詞。",
-        "category": "語境理解"
-      },
-      {
-        "question": "第 3 格",
-        "options": [
-          "unexpected",
-          "identical",
-          "temporary",
-          "visible"
-        ],
-        "answer": "unexpected",
-        "explanation": "did not foresee（未預見）提示 unexpected（未預期的）；visible 指看得見的，不表示未預期。",
-        "category": "語境理解"
-      },
-      {
-        "question": "第 4 格",
-        "options": [
-          "while",
-          "unless",
-          "despite",
-          "because"
-        ],
-        "answer": "while",
-        "explanation": "while saving energy 表示同時節省能源。",
-        "category": "語境理解"
-      },
-      {
-        "question": "第 5 格",
-        "options": [
-          "difference",
-          "distance",
-          "promise",
-          "journey"
-        ],
-        "answer": "difference",
-        "explanation": "make a difference 指產生影響。",
-        "category": "語境理解"
-      }
-    ],
-    "shared": false,
-    "terms": [
-      "artificial",
-      "migration",
-      "awareness",
-      "difference"
-    ]
-  },
-  {
-    "kind": "綜合測驗",
-    "name": "修理咖啡館",
-    "passage": "When a lamp stops working or a jacket loses a button, buying a replacement may seem easier than fixing it. A repair café offers another option. At these events, people bring broken household items and work with volunteers who have repair skills. They do not simply hand over an object and leave. Instead, they sit beside the volunteer, ask questions, and learn how the repair is done.\n\nThe movement began with a concern about waste, but its benefits go beyond keeping things out of landfills. People also learn practical skills and meet others in their community. Not every item can be repaired, of course. A volunteer must first check [1] the object can be handled safely. If a repair is possible, the owner may gain the [2] to try a simple repair at home next time. Organizers stress that the goal is not to blame people for replacing things. Rather, they want to make repair a more [3] choice. The events also help participants form connections with one another. By sharing tools and knowledge, neighbors can reduce waste [4] building useful connections. The events also challenge the belief that a broken object has no [5].",
-    "questions": [
-      {
-        "question": "第 1 格",
-        "options": [
-          "whether",
-          "unless",
-          "although",
-          "because"
-        ],
-        "answer": "whether",
-        "explanation": "check whether 表示確認是否可以安全處理。",
-        "category": "語境理解"
-      },
-      {
-        "question": "第 2 格",
-        "options": [
-          "confidence",
-          "conflict",
-          "damage",
-          "silence"
-        ],
-        "answer": "confidence",
-        "explanation": "學會修理可增加下次自己動手的信心。",
-        "category": "語境理解"
-      },
-      {
-        "question": "第 3 格",
-        "options": [
-          "practical",
-          "harmful",
-          "distant",
-          "accidental"
-        ],
-        "answer": "practical",
-        "explanation": "共享工具與知識可讓修理成為實際可行的選擇。",
-        "category": "語境理解"
-      },
-      {
-        "question": "第 4 格",
-        "options": [
-          "while",
-          "unless",
-          "without",
-          "despite"
-        ],
-        "answer": "while",
-        "explanation": "while building 表示在減少廢棄物的同時建立聯繫。",
-        "category": "語境理解"
-      },
-      {
-        "question": "第 5 格",
-        "options": [
-          "value",
-          "weight",
-          "shape",
-          "color"
-        ],
-        "answer": "value",
-        "explanation": "文章挑戰損壞物品沒有價值的想法。",
-        "category": "語境理解"
-      }
-    ],
-    "shared": false,
-    "terms": [
-      "replacement",
-      "practical",
-      "confidence",
-      "value"
-    ]
-  },
-  {
-    "kind": "綜合測驗",
-    "name": "休息與學習",
-    "passage": "A student preparing for an exam may feel that every minute away from a desk is wasted. Research on attention, however, suggests that working without a break is not always the best approach. After a long period of concentration, people may become less able to notice mistakes or remember what they have read. A short break can give the mind a chance to recover.\n\nThe kind of break matters. Scrolling through a stream of messages may continue to demand attention, while a brief walk or a quiet stretch can provide a change of activity. Researchers do not suggest that there is one schedule that works for everyone. Students need to [1] different routines and notice which ones help them return to work. A break should be long enough to refresh the mind but not so long that it is hard to [2] studying. It is also important to plan breaks [3] advance rather than wait until exhaustion makes concentration impossible. This approach treats rest as part of learning, [4] as a reward that must be earned. In the long run, a balanced routine may be more [5] for retaining information than an attempt to study without stopping.",
-    "questions": [
-      {
-        "question": "第 1 格",
-        "options": [
-          "try",
-          "refuse",
-          "hide",
-          "erase"
-        ],
-        "answer": "try",
-        "explanation": "try different routines 指嘗試不同作息，找出最適合自己的方式。",
-        "category": "語境理解"
-      },
-      {
-        "question": "第 2 格",
-        "options": [
-          "resume",
-          "avoid",
-          "delay",
-          "forget"
-        ],
-        "answer": "resume",
-        "explanation": "resume studying 指休息後恢復讀書。",
-        "category": "語境理解"
-      },
-      {
-        "question": "第 3 格",
-        "options": [
-          "in",
-          "on",
-          "with",
-          "by"
-        ],
-        "answer": "in",
-        "explanation": "in advance 是事先；事先規劃休息時間。",
-        "category": "語境理解"
-      },
-      {
-        "question": "第 4 格",
-        "options": [
-          "rather than",
-          "because of",
-          "in addition to",
-          "as well as"
-        ],
-        "answer": "rather than",
-        "explanation": "rather than as a reward 表示把休息視為學習的一部分，而非獎勵。",
-        "category": "語境理解"
-      },
-      {
-        "question": "第 5 格",
-        "options": [
-          "effective",
-          "exhausting",
-          "stressful",
-          "demanding"
-        ],
-        "answer": "effective",
-        "explanation": "for retaining information 提示學習效果；effective 是有效的，其餘表示令人疲憊、有壓力或費力。",
-        "category": "語境理解"
-      }
-    ],
-    "shared": false,
-    "terms": [
-      "concentration",
-      "recover",
-      "resume",
-      "effective"
-    ]
-  },
-  {
-    "kind": "文意選填",
-    "name": "校園菜園",
-    "passage": "A school turned an unused corner of its grounds into a vegetable garden. The project began with a simple [1]: students wanted to learn where food comes from. With help from teachers and local farmers, they cleared the space and prepared the soil. At first, the students were [2] about whether the plants would survive the summer heat. They learned to water the roots rather than the leaves and to [3] the condition of the soil by recording its moisture each day.\n\nThe garden soon became more than a place to grow food. In science class, students [4] how sunlight affects plant growth. In language class, they wrote about the challenges they had [5]. Some crops failed, but the failures gave them a chance to [6] their methods by changing how they cared for the plants. When vegetables were ready, students shared the harvest with a nearby community kitchen. The experience helped them [7] the work required to produce food and encouraged them to waste less. It also showed them that progress is not always [8]; plants grow at different speeds and need regular care. The school hopes the garden will [9] future classes to ask questions, work together, and develop a stronger [10] with the natural world.",
-    "questions": [
-      {
-        "question": "第 1 格",
-        "options": [],
-        "answer": "idea",
-        "explanation": "simple idea 指簡單的想法，後文說明學生想了解食物來源。",
-        "category": "語境理解"
-      },
-      {
-        "question": "第 2 格",
-        "options": [],
-        "answer": "uncertain",
-        "explanation": "uncertain about 表示對植物能否存活沒有把握。",
-        "category": "語境理解"
-      },
-      {
-        "question": "第 3 格",
-        "options": [],
-        "answer": "monitor",
-        "explanation": "monitor the condition 指觀察並追蹤土壤狀況。",
-        "category": "語境理解"
-      },
-      {
-        "question": "第 4 格",
-        "options": [],
-        "answer": "investigated",
-        "explanation": "investigated 為過去式，表示研究日照如何影響植物。",
-        "category": "語境理解"
-      },
-      {
-        "question": "第 5 格",
-        "options": [],
-        "answer": "faced",
-        "explanation": "face challenges 是面對挑戰；had faced 為過去完成式。",
-        "category": "語境理解"
-      },
-      {
-        "question": "第 6 格",
-        "options": [],
-        "answer": "adjust",
-        "explanation": "adjust methods 指調整方法。",
-        "category": "語境理解"
-      },
-      {
-        "question": "第 7 格",
-        "options": [],
-        "answer": "appreciate",
-        "explanation": "appreciate 在此表示體會生產食物所需的付出。",
-        "category": "語境理解"
-      },
-      {
-        "question": "第 8 格",
-        "options": [],
-        "answer": "immediate",
-        "explanation": "植物生長需要時間，因此進展並非立刻出現。",
-        "category": "語境理解"
-      },
-      {
-        "question": "第 9 格",
-        "options": [],
-        "answer": "inspire",
-        "explanation": "inspire future classes to ask 表示啟發未來的學生提問。",
-        "category": "語境理解"
-      },
-      {
-        "question": "第 10 格",
-        "options": [],
-        "answer": "connection",
-        "explanation": "a connection with the natural world 是與自然世界的連結。",
-        "category": "語境理解"
-      }
-    ],
-    "shared": true,
-    "terms": [
-      "monitor",
-      "adjust",
-      "appreciate",
-      "immediate",
-      "inspire"
-    ]
-  },
-  {
-    "kind": "文意選填",
-    "name": "圖書館借用物品",
-    "passage": "Libraries are changing in response to the needs of their communities. One library recently began lending tools, board games, and musical instruments as well as books. The idea is to give people [1] to useful objects that they may need only occasionally. Buying a drill for a single home project, for example, can be expensive and [2], especially if it is used only once and then left unused.\n\nBefore launching the program, librarians asked residents what items would be most [3]. They also considered how librarians could [4] the collection and keep track of loans and returns. Each borrower receives clear instructions and agrees to return an item by a certain date. Volunteers inspect the objects after each use, and damaged items are [5] when possible.\n\nThe program has produced some unexpected benefits. People who borrow a board game may invite neighbors to play, while someone trying an instrument may [6] a new interest. The library also offers short workshops so beginners can use the tools with greater [7]. Not every requested item can be included: the staff must balance cost, safety, and [8] space. Still, the collection demonstrates how sharing can [9] individual needs while reducing unnecessary purchases. The library plans to gather feedback and make [10] as the program develops.",
-    "questions": [
-      {
-        "question": "第 1 格",
-        "options": [],
-        "answer": "access",
-        "explanation": "access to 指使用或取得……的機會。",
-        "category": "語境理解"
-      },
-      {
-        "question": "第 2 格",
-        "options": [],
-        "answer": "wasteful",
-        "explanation": "只用一次就購買，可能昂貴又浪費。",
-        "category": "語境理解"
-      },
-      {
-        "question": "第 3 格",
-        "options": [],
-        "answer": "useful",
-        "explanation": "圖書館詢問居民哪些物品最有用。",
-        "category": "語境理解"
-      },
-      {
-        "question": "第 4 格",
-        "options": [],
-        "answer": "manage",
-        "explanation": "manage the collection 指管理館藏；track loans and returns 提示館員須管理借還。",
-        "category": "語境理解"
-      },
-      {
-        "question": "第 5 格",
-        "options": [],
-        "answer": "repaired",
-        "explanation": "damaged items are repaired 是受損物品被修理的被動語態。",
-        "category": "語境理解"
-      },
-      {
-        "question": "第 6 格",
-        "options": [],
-        "answer": "discover",
-        "explanation": "discover a new interest 指發現新的興趣。",
-        "category": "語境理解"
-      },
-      {
-        "question": "第 7 格",
-        "options": [],
-        "answer": "confidence",
-        "explanation": "with greater confidence 表示更有信心地使用工具。",
-        "category": "語境理解"
-      },
-      {
-        "question": "第 8 格",
-        "options": [],
-        "answer": "limited",
-        "explanation": "館方必須衡量成本、安全與有限空間。",
-        "category": "語境理解"
-      },
-      {
-        "question": "第 9 格",
-        "options": [],
-        "answer": "meet",
-        "explanation": "meet needs 是滿足需求。",
-        "category": "語境理解"
-      },
-      {
-        "question": "第 10 格",
-        "options": [],
-        "answer": "adjustments",
-        "explanation": "make adjustments 是進行調整。",
-        "category": "語境理解"
-      }
-    ],
-    "shared": true,
-    "terms": [
-      "access",
-      "wasteful",
-      "manage",
-      "confidence",
-      "adjustments"
-    ]
-  },
-  {
-    "kind": "篇章結構",
-    "name": "校園雨水回收",
-    "passage": "A school wanted to reduce the amount of water it used to care for its plants. Teachers and students began by observing where rainwater flowed during storms. [1] They noticed that much of it ran off the roof and into a drain.\n\nThe group installed a tank below a roof pipe. [2] A screen keeps leaves from entering the tank, and a tap makes it easy to fill watering cans.\n\nAt first, some students thought the tank would supply enough water throughout the year. [3] During dry weeks, the garden still needed water from the tap.\n\nThe project became a useful lesson in measurement. Students recorded rainfall and compared it with the amount of water used in the garden. [4]\n\nThe students also considered how the system should be maintained. After a storm, they checked the screen and removed fallen leaves so that water could enter the tank. They placed a label on the tap to remind everyone that the collected water was for plants, not for drinking. At the end of the term, each group suggested one improvement and explained how it might affect the garden. They shared these suggestions with the next class responsible for the garden.",
-    "questions": [
-      {
-        "question": "第 1 格",
-        "options": [
-          "They recorded where the rainwater went.",
-          "Rain from the roof now flows into this container.",
-          "However, the amount collected depended on the weather.",
-          "These records helped them understand both the benefits and limits of the system.",
-          "The collected water was stored separately for students to drink."
-        ],
-        "answer": "They recorded where the rainwater went.",
-        "explanation": "記錄雨水流向呼應前句的觀察；後句接著說明雨水從屋頂流入排水口。",
-        "category": "語境理解"
-      },
-      {
-        "question": "第 2 格",
-        "options": [
-          "They recorded where the rainwater went.",
-          "Rain from the roof now flows into this container.",
-          "However, the amount collected depended on the weather.",
-          "These records helped them understand both the benefits and limits of the system.",
-          "The collected water was stored separately for students to drink."
-        ],
-        "answer": "Rain from the roof now flows into this container.",
-        "explanation": "this container 指前句安裝的水槽；後句接著介紹濾網與水龍頭。",
-        "category": "語境理解"
-      },
-      {
-        "question": "第 3 格",
-        "options": [
-          "They recorded where the rainwater went.",
-          "Rain from the roof now flows into this container.",
-          "However, the amount collected depended on the weather.",
-          "These records helped them understand both the benefits and limits of the system.",
-          "The collected water was stored separately for students to drink."
-        ],
-        "answer": "However, the amount collected depended on the weather.",
-        "explanation": "前句預期全年夠用，however 引出雨量取決於天氣，後句乾旱時仍需自來水呼應此轉折。",
-        "category": "語境理解"
-      },
-      {
-        "question": "第 4 格",
-        "options": [
-          "They recorded where the rainwater went.",
-          "Rain from the roof now flows into this container.",
-          "However, the amount collected depended on the weather.",
-          "These records helped them understand both the benefits and limits of the system.",
-          "The collected water was stored separately for students to drink."
-        ],
-        "answer": "These records helped them understand both the benefits and limits of the system.",
-        "explanation": "these records 指前句記錄並比較的數據；因此能看出雨水系統的效益與限制。",
-        "category": "語境理解"
-      }
-    ],
-    "shared": true,
-    "terms": [
-      "observe",
-      "resource",
-      "collects"
-    ]
-  },
-  {
-    "kind": "篇章結構",
-    "name": "公共空間的座椅",
-    "passage": "A city redesigned a busy public square after asking residents how they used it. Many people passed through the square, but few stayed for long. [1] The answers pointed to a shortage of comfortable places to sit.\n\nThe design team first placed temporary chairs around the square. [2] Some preferred seats in the shade, while others chose sunny spots near the trees.\n\nThe team used these observations to plan permanent seating. [3] This arrangement gave visitors more choices throughout the day.\n\nAfter the changes, people began using the square for short conversations, reading, and rest. [4] The project showed that small design choices can influence how a public space is shared.\n\nThe project team also considered people whose needs had not appeared in the first survey. Some visitors wanted enough room to move a wheelchair beside a bench. Others preferred a seat with a back that made sitting and standing easier. These comments did not lead to one perfect design, but they helped the team think about the variety of people who might use the square. Residents were encouraged to keep sharing observations after the new seats were installed.",
-    "questions": [
-      {
-        "question": "第 1 格",
-        "options": [
-          "The team asked visitors what might encourage them to spend more time there.",
-          "They watched where people moved the chairs and sat.",
-          "Seats were placed in both shaded and sunny areas.",
-          "The square became a place to pause as well as a route to other destinations.",
-          "After the trial, all the temporary chairs were removed and no seating was installed."
-        ],
-        "answer": "The team asked visitors what might encourage them to spend more time there.",
-        "explanation": "前句人們只是經過，後句提到訪客回答座位不足；中間應為詢問如何讓人願意停留。",
-        "category": "語境理解"
-      },
-      {
-        "question": "第 2 格",
-        "options": [
-          "The team asked visitors what might encourage them to spend more time there.",
-          "They watched where people moved the chairs and sat.",
-          "Seats were placed in both shaded and sunny areas.",
-          "The square became a place to pause as well as a route to other destinations.",
-          "After the trial, all the temporary chairs were removed and no seating was installed."
-        ],
-        "answer": "They watched where people moved the chairs and sat.",
-        "explanation": "前句放置臨時椅，後句說人們偏好的位置；應先觀察人們如何移動及使用椅子。",
-        "category": "語境理解"
-      },
-      {
-        "question": "第 3 格",
-        "options": [
-          "The team asked visitors what might encourage them to spend more time there.",
-          "They watched where people moved the chairs and sat.",
-          "Seats were placed in both shaded and sunny areas.",
-          "The square became a place to pause as well as a route to other destinations.",
-          "After the trial, all the temporary chairs were removed and no seating was installed."
-        ],
-        "answer": "Seats were placed in both shaded and sunny areas.",
-        "explanation": "後句 this arrangement 指陰影與陽光處皆設座位的安排，呼應不同偏好。",
-        "category": "語境理解"
-      },
-      {
-        "question": "第 4 格",
-        "options": [
-          "The team asked visitors what might encourage them to spend more time there.",
-          "They watched where people moved the chairs and sat.",
-          "Seats were placed in both shaded and sunny areas.",
-          "The square became a place to pause as well as a route to other destinations.",
-          "After the trial, all the temporary chairs were removed and no seating was installed."
-        ],
-        "answer": "The square became a place to pause as well as a route to other destinations.",
-        "explanation": "前句說人們開始交談、閱讀與休息；因此廣場不再只是通行路線，也是停留空間。",
-        "category": "語境理解"
-      }
-    ],
-    "shared": true,
-    "terms": [
-      "observe",
-      "feedback",
-      "accessible"
-    ]
-  },
-  {
-    "kind": "篇章結構",
-    "name": "校園聲景",
-    "passage": "A class began a project to study the sounds of its neighborhood. Students first made a list of noises they heard on the way to school. [1] They included birdsong, traffic, conversations, and construction work.\n\nNext, the class recorded sounds at several locations and times. [2] A quiet street in the morning, for example, became much busier after school.\n\nThe students discussed which sounds they enjoyed and which made it difficult to concentrate. [3] This difference reminded them that the same sound can have different meanings for different listeners.\n\nFinally, they presented a map of their recordings to the school community. [4] Rather than simply labeling every sound as good or bad, they encouraged people to listen more carefully.\n\nThe class also talked about the limits of a sound recording. A recording captures a moment, but it cannot show everything happening nearby. Students wrote short notes describing the time, the location, and the activities they observed. When they compared recordings later, the notes helped them understand why a particular place sounded different on two occasions. The project also gave students a record they could compare with future observations.",
-    "questions": [
-      {
-        "question": "第 1 格",
-        "options": [
-          "The list contained both natural and human-made sounds.",
-          "This allowed them to compare how a place changed during the day.",
-          "They found that classmates did not always agree.",
-          "The map helped others discover sounds they had not noticed before.",
-          "However, the final map contained only photographs and no recordings."
-        ],
-        "answer": "The list contained both natural and human-made sounds.",
-        "explanation": "前句列聲音清單，後句舉鳥鳴、交通及談話；清單包含自然與人為聲音。",
-        "category": "語境理解"
-      },
-      {
-        "question": "第 2 格",
-        "options": [
-          "The list contained both natural and human-made sounds.",
-          "This allowed them to compare how a place changed during the day.",
-          "They found that classmates did not always agree.",
-          "The map helped others discover sounds they had not noticed before.",
-          "However, the final map contained only photographs and no recordings."
-        ],
-        "answer": "This allowed them to compare how a place changed during the day.",
-        "explanation": "前句在不同地點和時間錄音；後句以早晚街道聲音不同為例，說明可比較一天中的變化。",
-        "category": "語境理解"
-      },
-      {
-        "question": "第 3 格",
-        "options": [
-          "The list contained both natural and human-made sounds.",
-          "This allowed them to compare how a place changed during the day.",
-          "They found that classmates did not always agree.",
-          "The map helped others discover sounds they had not noticed before.",
-          "However, the final map contained only photographs and no recordings."
-        ],
-        "answer": "They found that classmates did not always agree.",
-        "explanation": "後句 this difference 指同學對聲音喜好及影響的看法不一致。",
-        "category": "語境理解"
-      },
-      {
-        "question": "第 4 格",
-        "options": [
-          "The list contained both natural and human-made sounds.",
-          "This allowed them to compare how a place changed during the day.",
-          "They found that classmates did not always agree.",
-          "The map helped others discover sounds they had not noticed before.",
-          "However, the final map contained only photographs and no recordings."
-        ],
-        "answer": "The map helped others discover sounds they had not noticed before.",
-        "explanation": "前句向社區展示聲音地圖，後句鼓勵仔細聆聽；地圖幫助人注意平時忽略的聲音。",
-        "category": "語境理解"
-      }
-    ],
-    "shared": true,
-    "terms": [
-      "observe",
-      "compare",
-      "interpret"
-    ]
-  },
-  {
-    "kind": "篇章結構",
-    "name": "閱讀與記憶",
-    "passage": "A teacher asked students to compare two ways of reviewing an article. One group reread it several times, while another group read it once and then tried to explain its main points without looking. [1]\n\nAt first, rereading felt easier. The words were familiar, so students thought they knew the article well. [2] They sometimes discovered gaps in their understanding when they tried to explain it.\n\nThe exercise did not mean that rereading has no value. [3] But recalling information without looking can reveal what needs more attention.\n\nThe teacher encouraged students to use both methods. [4] Then they could test themselves again after a short break.\n\nStudents also noticed that successful recall required more than repeating a single word from the article. To explain an idea clearly, they needed to connect supporting details with the main point. When an explanation was incomplete, they returned to the passage to check it. The goal was to make their understanding more accurate, rather than to compete over who could remember the most words. The class could then decide which ideas needed another review.",
-    "questions": [
-      {
-        "question": "第 1 格",
-        "options": [
-          "Both groups later discussed what they remembered.",
-          "The second group found the task more demanding.",
-          "For example, a reader may reread a difficult paragraph to clarify its meaning.",
-          "They could first review the text and then attempt to recall its ideas.",
-          "As a result, neither group was allowed to read the article more than once."
-        ],
-        "answer": "Both groups later discussed what they remembered.",
-        "explanation": "前句比較兩組不同複習方式，空格引出兩組之後討論記得哪些內容。",
-        "category": "語境理解"
-      },
-      {
-        "question": "第 2 格",
-        "options": [
-          "Both groups later discussed what they remembered.",
-          "The second group found the task more demanding.",
-          "For example, a reader may reread a difficult paragraph to clarify its meaning.",
-          "They could first review the text and then attempt to recall its ideas.",
-          "As a result, neither group was allowed to read the article more than once."
-        ],
-        "answer": "The second group found the task more demanding.",
-        "explanation": "前句說重讀感覺較容易；另一組嘗試回想時更吃力，後句也說明回想時會發現理解缺口。",
-        "category": "語境理解"
-      },
-      {
-        "question": "第 3 格",
-        "options": [
-          "Both groups later discussed what they remembered.",
-          "The second group found the task more demanding.",
-          "For example, a reader may reread a difficult paragraph to clarify its meaning.",
-          "They could first review the text and then attempt to recall its ideas.",
-          "As a result, neither group was allowed to read the article more than once."
-        ],
-        "answer": "For example, a reader may reread a difficult paragraph to clarify its meaning.",
-        "explanation": "前句指出重讀並非完全沒有價值；重讀困難段落有助釐清意思，後句再轉到回想的作用。",
-        "category": "語境理解"
-      },
-      {
-        "question": "第 4 格",
-        "options": [
-          "Both groups later discussed what they remembered.",
-          "The second group found the task more demanding.",
-          "For example, a reader may reread a difficult paragraph to clarify its meaning.",
-          "They could first review the text and then attempt to recall its ideas.",
-          "As a result, neither group was allowed to read the article more than once."
-        ],
-        "answer": "They could first review the text and then attempt to recall its ideas.",
-        "explanation": "老師建議結合兩種方法：先複習文章、再嘗試回想；後句 then 表示休息後再次測試。",
-        "category": "語境理解"
-      }
-    ],
-    "shared": true,
-    "terms": [
-      "compare",
-      "concentration",
-      "summarize"
-    ]
-  },
-  {
-    "kind": "篇章結構",
-    "name": "共享交通工具",
-    "passage": "A town introduced shared bicycles to help residents make short trips. Users could unlock a bicycle at one station and return it at another. [1] This made the service useful for people who did not own a bicycle.\n\nSoon, however, some stations filled up while others had no bicycles available. [2] As a result, a person arriving at an empty station could not begin a trip.\n\nThe town collected information about when and where bicycles were used. [3] Workers then moved bicycles between stations at busy times.\n\nThe service improved, but the town continued to invite feedback. [4] Residents suggested clearer signs and safer routes between stations.\n\nStaff members also learned that demand changed with the weather and with events in town. A weekend market, for example, could attract riders to an area that was usually quiet. Information from previous trips was helpful, but it did not predict every situation. The town therefore combined the data with reports from people who used the bicycles regularly. Together, these sources helped the town respond to riders’ changing needs.",
-    "questions": [
-      {
-        "question": "第 1 格",
-        "options": [
-          "People paid only for the time they used it.",
-          "The number of bicycles was not evenly distributed.",
-          "The data helped staff predict where bicycles would be needed.",
-          "The town wanted to learn about problems that the numbers alone could not show.",
-          "The town therefore removed all bicycles from the shared system."
-        ],
-        "answer": "People paid only for the time they used it.",
-        "explanation": "前句描述在不同站借還共享單車；此處補充按使用時間付費，後句解釋對未擁車者的好處。",
-        "category": "語境理解"
-      },
-      {
-        "question": "第 2 格",
-        "options": [
-          "People paid only for the time they used it.",
-          "The number of bicycles was not evenly distributed.",
-          "The data helped staff predict where bicycles would be needed.",
-          "The town wanted to learn about problems that the numbers alone could not show.",
-          "The town therefore removed all bicycles from the shared system."
-        ],
-        "answer": "The number of bicycles was not evenly distributed.",
-        "explanation": "前句指出有些站滿車、有些沒車；此句概括車輛分配不均，後句解釋空站造成的問題。",
-        "category": "語境理解"
-      },
-      {
-        "question": "第 3 格",
-        "options": [
-          "People paid only for the time they used it.",
-          "The number of bicycles was not evenly distributed.",
-          "The data helped staff predict where bicycles would be needed.",
-          "The town wanted to learn about problems that the numbers alone could not show.",
-          "The town therefore removed all bicycles from the shared system."
-        ],
-        "answer": "The data helped staff predict where bicycles would be needed.",
-        "explanation": "前句蒐集使用時間與地點資料；這些資料幫助預測需求，後句因此能安排調度。",
-        "category": "語境理解"
-      },
-      {
-        "question": "第 4 格",
-        "options": [
-          "People paid only for the time they used it.",
-          "The number of bicycles was not evenly distributed.",
-          "The data helped staff predict where bicycles would be needed.",
-          "The town wanted to learn about problems that the numbers alone could not show.",
-          "The town therefore removed all bicycles from the shared system."
-        ],
-        "answer": "The town wanted to learn about problems that the numbers alone could not show.",
-        "explanation": "前句表示持續徵求意見；數字無法呈現所有問題，後句舉居民提出路線與標示建議。",
-        "category": "語境理解"
-      }
-    ],
-    "shared": true,
-    "terms": [
-      "predict",
-      "available",
-      "feedback"
-    ]
-  },
-  {
     "kind": "閱讀測驗",
     "name": "海龜與光線",
-    "passage": "On some beaches, young sea turtles face a surprising problem as soon as they hatch. They usually move toward the brighter horizon over the ocean. Artificial lights behind the beach can confuse them, leading them toward roads or buildings instead of the water.\n\nA coastal community decided to reduce this risk without leaving residents in complete darkness. Businesses replaced some outdoor lights with lamps that directed light downward. During nesting season, volunteers also explained to visitors why curtains should be closed at night. The group recorded the number of young turtles found away from the shore.\n\nAfter the changes, fewer lost turtles were reported, although the volunteers noted that weather and the number of nests also affected the figures. The project therefore did not prove that lighting was the only factor. It did show that residents, businesses, and researchers could work together to make the beach safer while gathering information for future decisions.\n\nThe volunteers planned to continue the count in later nesting seasons. Repeated observations could help them see whether the pattern remained similar and whether further changes were needed. They also encouraged visitors to report lost turtles rather than move the animals without guidance.",
+    "passage": "On a beach near a small coastal town, volunteers gather during the sea turtle nesting season. Their job is not to help every young turtle reach the ocean. Most turtles can find their way without human assistance. The volunteers mainly watch for situations in which the animals may be in danger and record what they observe. By comparing observations from different nights, the group hopes to understand which conditions seem to cause the greatest difficulty.\n\nOne concern is artificial light. When young turtles hatch, they generally move toward the brighter horizon over the water. Bright lights behind the beach can make them disoriented: instead of heading toward the ocean, they may crawl toward a road, a parking area, or a building. The volunteers do not assume that every turtle away from the water has been affected by lighting. Weather, the location of a nest, and obstacles on the sand may also influence a turtle's path.\n\nThe town therefore tried several changes without making the area completely dark. Some businesses replaced lamps with designs that directed light downward. Hotels encouraged guests to close curtains at night, and signs asked visitors to avoid using bright lights near nests. The group also worked with residents who were concerned about safety. They discussed where lighting was needed and how it could be directed toward walking areas rather than the beach.\n\nAfter the changes, volunteers reported fewer young turtles away from the shore. This was encouraging, but the group treated the result with caution. The number of nests was different each year, and storms sometimes changed the shape of the beach. A simple comparison of totals could not establish that the lighting changes alone caused the decline. To gather stronger evidence, the volunteers planned to continue using similar routes and recording methods in future seasons.\n\nThe project shows why solving an environmental problem can involve both action and careful observation. Residents did not wait for perfect information before reducing unnecessary light, but they also did not treat one season's results as a final answer. Their continuing records may help the community decide which measures deserve further attention.",
     "questions": [
       {
-        "question": "What problem do young turtles face?",
+        "question": "What is the main purpose of the passage?",
         "options": [
-          "Artificial lights may lead them away from the sea.",
-          "They cannot distinguish a dark horizon from a bright one.",
-          "Outdoor lighting prevents adults from laying any eggs.",
-          "They must find food before leaving their nests."
+          "To describe a community’s effort to reduce a danger to young turtles and assess its results.",
+          "To compare the effectiveness of turtle-protection projects in several different towns.",
+          "To argue that coastal communities should wait for complete certainty before acting.",
+          "To explain how businesses can eliminate the need for outdoor lighting."
         ],
-        "answer": "Artificial lights may lead them away from the sea.",
-        "explanation": "第一段說人工燈光可能誤導幼龜走向道路或建築，而非海洋。",
-        "category": "語境理解"
+        "answer": "To describe a community’s effort to reduce a danger to young turtles and assess its results.",
+        "explanation": "全文描述社區降低燈光對幼龜的干擾，並觀察結果及謹慎解讀其他變因；文章也考量行人安全，沒有主張完全取消照明或等待完全確定才採取行動。",
+        "category": "閱讀理解",
+        "id": "reading-v2-01-01"
       },
       {
-        "question": "Why did businesses change some lamps?",
+        "question": "The word “disoriented” in the second paragraph is closest in meaning to ______.",
         "options": [
-          "To direct light where it was needed.",
-          "To make the beach brighter than the ocean.",
-          "To eliminate the need for volunteers during nesting season.",
-          "To allow visitors to observe every nest at night."
+          "unable to tell which direction to go",
+          "able to recognize the direction of the brightest light",
+          "unable to see because the turtles have closed their eyes",
+          "protected from obstacles while moving toward the ocean"
         ],
-        "answer": "To direct light where it was needed.",
-        "explanation": "第二段指出燈具改為朝下照明，以降低對幼龜的影響。",
-        "category": "語境理解"
+        "answer": "unable to tell which direction to go",
+        "explanation": "第二段在破折號後解釋幼龜沒有朝海洋移動，反而爬向道路或建築；因此 disoriented 是迷失方向。",
+        "category": "閱讀理解",
+        "id": "reading-v2-01-02"
       },
       {
-        "question": "Why were volunteers careful about the results?",
+        "question": "Why did the group avoid claiming that lighting changes alone caused the decline?",
         "options": [
-          "Other factors could also affect the figures.",
-          "The team had compared only the cost of the lamps.",
-          "The volunteers had counted adult turtles instead of young ones.",
-          "The changes had been made before anyone noticed the problem."
+          "Other conditions varied between the observation periods.",
+          "They had no record of young turtles before the changes were made.",
+          "They knew that the same number of nests appeared every season.",
+          "They had tested only one lighting change while holding every other condition constant."
         ],
-        "answer": "Other factors could also affect the figures.",
-        "explanation": "第三段說天氣和巢穴數量也會影響數據，不能認定燈光是唯一因素。",
-        "category": "語境理解"
+        "answer": "Other conditions varied between the observation periods.",
+        "explanation": "倒數第二段指出巢穴數及風暴造成的海灘形狀不同，這些因素可能影響結果，因此不能單憑前後數量證明照明是唯一原因。",
+        "category": "閱讀理解",
+        "id": "reading-v2-01-03"
       },
       {
-        "question": "What is the main idea of the passage?",
+        "question": "What can be inferred about the town’s approach to outdoor lighting?",
         "options": [
-          "A community explored ways to make a beach safer for young turtles.",
-          "Scientists showed that weather was the only influence on turtle survival.",
-          "A coastal town replaced its beaches with protected indoor nesting areas.",
-          "Businesses decided that outdoor lighting must be removed entirely."
+          "It sought to protect turtles while considering people’s need for safe walking areas.",
+          "It considered walking-area lighting unnecessary whenever turtles were present.",
+          "It chose residents’ safety over protecting turtles and made no changes to lights.",
+          "It focused on lighting alone and did not discuss residents’ concerns."
         ],
-        "answer": "A community explored ways to make a beach safer for young turtles.",
-        "explanation": "全文描述社區採取減少燈光干擾的措施並持續觀察；由於天氣和巢穴數量也影響結果，不能宣稱已證明照明改變是數據改善的唯一原因。",
-        "category": "語境理解"
+        "answer": "It sought to protect turtles while considering people’s need for safe walking areas.",
+        "explanation": "第三段同時提到減少照向海灘的光及居民行走安全；末段也說居民沒有等到完全確定才採取行動。",
+        "category": "閱讀理解",
+        "id": "reading-v2-01-04"
       }
     ],
     "shared": false,
@@ -852,61 +65,66 @@
       "hatch",
       "horizon",
       "volunteers",
-      "observations"
+      "observations",
+      "disoriented"
     ]
   },
   {
     "kind": "閱讀測驗",
     "name": "修復城市溪流",
-    "passage": "A small stream once ran through the center of a growing town. Over time, parts of it were covered by roads and buildings. Rainwater entered underground pipes and moved quickly toward a larger river. After heavy storms, the pipes sometimes could not carry all the water, and nearby streets flooded.\n\nThe town later uncovered one section of the stream and created a park around it. Plants along the banks slow the flow of rainwater and provide habitats for insects and birds. The new park also gives residents a place to walk and observe nature.\n\nThe project was not a complete solution to flooding. Engineers continued to improve pipes in other areas, and the town warned that unusually intense storms could still cause damage. Nevertheless, the stream project showed how managing water and improving public space could be considered together.\n\nResidents were invited to walk along a path beside the water and read signs about the project. These signs explained why plants had been chosen for the banks and why the stream could not remove all risk during a major storm.",
+    "passage": "A stream once crossed the center of a growing town. As roads and buildings spread, several sections were covered, and rainwater was directed through underground pipes. For many years this arrangement seemed practical: the land above the pipes could be used for traffic and development, while water continued toward a larger river. During intense storms, however, the pipes sometimes could not carry the sudden flow. Water backed up, and nearby streets flooded.\n\nWhen the town began looking for solutions, engineers considered replacing the pipes with larger ones. Residents, meanwhile, asked whether the hidden stream could become a resource for the community. They wanted a place to walk and a way to bring nature back into an area dominated by pavement. Neither group expected one project to solve every flooding problem, but they agreed that the two goals could be considered together.\n\nThe town uncovered a section of the stream and created a narrow park beside it. Plants along the banks were chosen to hold soil in place and slow some of the rainwater moving across the ground. They also provided habitats for birds and insects. A path and information signs allowed visitors to see how the stream changed after rainfall. Residents were invited to help report blocked drains and damaged plants, giving maintenance teams additional information.\n\nThe new park did not replace the entire underground system. In other neighborhoods, workers continued to maintain and improve pipes. During an unusually severe storm, the stream could still rise beyond its banks. The town therefore kept its warning system and explained that the park reduced some pressure on drainage but could not guarantee protection from every flood.\n\nAfter the project opened, the town collected comments from residents as well as observations about water levels. Some people valued the chance to walk near water; others wanted better signs or more shaded seating. These responses helped planners understand the park as a shared public space, not merely an engineering device. The experience also demonstrated that environmental design works best when its limits are explained honestly and different kinds of local knowledge are included.",
     "questions": [
       {
-        "question": "Why did streets sometimes flood?",
+        "question": "Which statement best expresses the main idea?",
         "options": [
-          "The underground pipes could not carry all the stormwater.",
-          "The newly planted trees blocked the entrances to the park.",
-          "Rainwater was stored in a tank rather than directed to a river.",
-          "The town removed its underground pipes before heavy storms."
+          "A town combined water management with a public space while recognizing the project’s limits.",
+          "A town replaced every underground pipe with an open stream and stopped all flooding.",
+          "A town chose an engineering solution after residents rejected access to nature.",
+          "A town restored a stream mainly to create space for more road traffic."
         ],
-        "answer": "The underground pipes could not carry all the stormwater.",
-        "explanation": "第一段說暴雨時管線有時無法容納全部雨水。",
-        "category": "語境理解"
+        "answer": "A town combined water management with a public space while recognizing the project’s limits.",
+        "explanation": "全文說明城鎮把溪流治理與公共空間結合，同時保留其他排水措施並承認仍有洪水風險。",
+        "category": "閱讀理解",
+        "id": "reading-v2-02-01"
       },
       {
-        "question": "What do plants along the banks do?",
+        "question": "What does the word “resource” in the second paragraph suggest about the stream?",
         "options": [
-          "They slow water and provide habitats.",
-          "They redirect all the water into underground storage tanks.",
-          "They remove the need to maintain nearby pipes.",
-          "They prevent water from entering the stream at all."
+          "It could offer useful benefits to the community.",
+          "It could provide enough money to replace every drainage pipe in town.",
+          "It could create land for new roads once the remaining stream was covered.",
+          "It could provide drinking water for every household in the town."
         ],
-        "answer": "They slow water and provide habitats.",
-        "explanation": "第二段明確說植物減緩水流並提供棲地。",
-        "category": "語境理解"
+        "answer": "It could offer useful benefits to the community.",
+        "explanation": "居民希望溪流帶來步行與接觸自然的空間，因此 resource 指能為社區帶來幫助的資源。",
+        "category": "閱讀理解",
+        "id": "reading-v2-02-02"
       },
       {
-        "question": "What does the passage say about flooding after the project?",
+        "question": "Why did the town keep its flood-warning system?",
         "options": [
-          "Other improvements were still needed.",
-          "Flooding could occur only outside the town.",
-          "The stream had replaced all other flood-control measures.",
-          "The project had completely solved the problem in every area."
+          "Even after the project, severe storms could still cause flooding.",
+          "It wanted to warn residents whenever the new walking path was closed for maintenance.",
+          "It expected the warning system alone to prevent water from rising beyond the banks.",
+          "It found that the park had caused all of the town’s underground pipes to fail."
         ],
-        "answer": "Other improvements were still needed.",
-        "explanation": "第三段指出這不是完整解方，其他地區仍須改善管線。",
-        "category": "語境理解"
+        "answer": "Even after the project, severe storms could still cause flooding.",
+        "explanation": "第四段說特別嚴重的暴雨仍可能使溪水漫出，因此保留警示制度。",
+        "category": "閱讀理解",
+        "id": "reading-v2-02-03"
       },
       {
-        "question": "What does the project illustrate?",
+        "question": "What can be inferred from the residents’ comments after the park opened?",
         "options": [
-          "Water management and public space can be planned together.",
-          "A park is useful only if it eliminates all flood risk.",
-          "Natural habitats should be separated from public recreation.",
-          "Flooding can be addressed only by covering streams."
+          "A useful design must also consider how people experience the space.",
+          "Residents considered water-level measurements more important than all other information.",
+          "Residents agreed that shaded seating mattered more than access to the stream.",
+          "Planners could rely on engineering observations without considering visitors’ experiences."
         ],
-        "answer": "Water management and public space can be planned together.",
-        "explanation": "結尾說明治水與改善公共空間可一同考量。",
-        "category": "語境理解"
+        "answer": "A useful design must also consider how people experience the space.",
+        "explanation": "最後一段提到步行、遮蔭及標示等不同需求；可推知規劃除工程數據，也要考慮使用者的感受。",
+        "category": "閱讀理解",
+        "id": "reading-v2-02-04"
       }
     ],
     "shared": false,
@@ -922,55 +140,59 @@
   {
     "kind": "閱讀測驗",
     "name": "博物館與觸覺",
-    "passage": "A museum is often a place where visitors are told not to touch objects. One museum wanted to make part of its collection more accessible to people with visual disabilities, so it created models that visitors could explore by touch. The models were made from copies rather than the original objects, which still needed protection.\n\nDesigners worked with visitors who had different levels of vision. Early models included very small details, but some participants found these difficult to recognize by touch. The team adjusted the size and texture of several features. Short audio descriptions were added to provide context, rather than simply naming each object.\n\nThe museum learned that accessibility is not a single feature added at the end of a project. It requires listening to users, testing ideas, and making changes. The models now benefit a wide range of visitors, including children and people who prefer to learn through their hands.\n\nStaff members continue to collect comments from visitors and use them to improve future displays. They also explain why touching the models is encouraged while the original objects must remain protected. This distinction helps visitors understand both access and conservation.",
+    "passage": "At many museums, signs remind visitors not to touch the objects on display. The rule protects delicate materials, but it can also make a collection difficult to explore for people with visual disabilities. One museum began asking whether there was a way to offer a different experience without putting its original objects at risk.\n\nThe staff decided to create copies of selected objects that visitors could examine with their hands. A model could suggest the shape of a piece of pottery or the structure of a carved decoration, while the original remained protected behind glass. The museum did not expect the copies to communicate everything about the originals. Instead, it treated them as one part of a larger visit that could include sound, conversation, and written information.\n\nBefore the models were finished, the design team invited people with different levels of vision to test them. Early versions contained tiny details that looked impressive but were difficult to identify by touch. Some participants could feel that a surface was uneven without understanding which features mattered. In response, the designers adjusted the size and texture of several parts. They also added short audio descriptions explaining how each object was used and why it was important.\n\nThe first round of feedback did not produce a single solution that worked equally well for everyone. Some visitors wanted a brief explanation before touching a model; others preferred to explore first and ask questions afterward. Rather than force everyone through the same sequence, the museum allowed visitors to choose how to combine the models and audio material. Staff members learned to describe the display clearly while giving people time to explore independently.\n\nThe project made the collection more accessible, but it also changed how the museum thought about design. Accessibility was not a feature to add only after all other decisions had been made. It required inviting users into the process, listening to different experiences, and being willing to adjust the design. The models now serve a wider audience, including children and visitors who learn well through touch. At the same time, the museum continues to explain why access to copies and conservation of originals are both important.",
     "questions": [
       {
-        "question": "Why were copies used for the models?",
+        "question": "What is the passage mainly about?",
         "options": [
-          "The original objects needed protection.",
-          "The original objects were too large to be displayed in any form.",
-          "Visitors had asked to take the original objects home.",
-          "The museum wanted to replace its entire collection permanently."
+          "How a museum developed a more accessible experience through testing and feedback.",
+          "How a museum made every original object safe to touch during a visit.",
+          "How a museum replaced physical displays with a collection of audio recordings.",
+          "How a museum selected objects for sale after studying visitor preferences."
         ],
-        "answer": "The original objects needed protection.",
-        "explanation": "第一段指出原件仍需要保護，因此使用複製品。",
-        "category": "語境理解"
+        "answer": "How a museum developed a more accessible experience through testing and feedback.",
+        "explanation": "全文聚焦博物館如何透過複製模型、使用者測試與回饋設計更易使用的參觀方式，並繼續保護原件。",
+        "category": "閱讀理解",
+        "id": "reading-v2-03-01"
       },
       {
-        "question": "What did the designers change after testing?",
+        "question": "Why did the designers change some features of the early models?",
         "options": [
-          "The size and texture of some details.",
-          "The time visitors were allowed to spend in the museum.",
-          "The number of original objects in the collection.",
-          "The language of every audio description in the building."
+          "Some details were difficult for participants to recognize by touch.",
+          "Participants said the written information included too many dates.",
+          "The models had become damaged while the original objects remained intact.",
+          "The designers discovered that the originals were unsafe to display behind glass."
         ],
-        "answer": "The size and texture of some details.",
-        "explanation": "第二段說團隊調整部分細節的大小與質地。",
-        "category": "語境理解"
+        "answer": "Some details were difficult for participants to recognize by touch.",
+        "explanation": "第三段指出部分微小細節看起來精緻，但參與者不易透過觸摸辨識；因此團隊調整大小與質地。",
+        "category": "閱讀理解",
+        "id": "reading-v2-03-02"
       },
       {
-        "question": "What role did audio descriptions play?",
+        "question": "What does “them” in the second paragraph refer to?",
         "options": [
-          "They provided context for the models.",
-          "They described only how the copies were manufactured.",
-          "They gave visitors instructions for repairing objects.",
-          "They replaced the need for visitors to handle the models."
+          "The copies of selected objects.",
+          "The visitors with different levels of vision who helped test the display.",
+          "The signs that reminded people not to touch objects.",
+          "The members of staff responsible for protecting the collection."
         ],
-        "answer": "They provided context for the models.",
-        "explanation": "文中說聲音描述提供背景脈絡，不只是說出物件名稱。",
-        "category": "語境理解"
+        "answer": "The copies of selected objects.",
+        "explanation": "them 出現在 “treated them as one part of a larger visit”，前一句與前文討論的對象是複製模型。",
+        "category": "閱讀理解",
+        "id": "reading-v2-03-03"
       },
       {
-        "question": "What lesson did the museum learn?",
+        "question": "What can be inferred from the museum’s response to visitors’ feedback?",
         "options": [
-          "Accessibility improves through listening and testing.",
-          "Accessibility is best considered only after a display is finished.",
-          "A model designed for one audience cannot help other visitors.",
-          "A single standard design can meet every visitor's needs."
+          "Offering different ways to explore can help meet differing needs.",
+          "A single sequence of audio and touch should be required for all visitors.",
+          "Protecting original objects should be treated as more important than access for visitors.",
+          "Designers can determine visitors’ needs without inviting them to test early models."
         ],
-        "answer": "Accessibility improves through listening and testing.",
-        "explanation": "第三段強調無障礙設計需要傾聽、測試及調整。",
-        "category": "語境理解"
+        "answer": "Offering different ways to explore can help meet differing needs.",
+        "explanation": "第四段顯示訪客偏好的順序不同，博物館讓人自行選擇，因此可推知彈性方式有助回應不同需求。",
+        "category": "閱讀理解",
+        "id": "reading-v2-03-04"
       }
     ],
     "shared": false,
@@ -987,55 +209,59 @@
   {
     "kind": "閱讀測驗",
     "name": "市集中的可重複容器",
-    "passage": "At a weekend market, many customers buy food from several stalls. Even when each purchase seems small, the packaging can add up. A group of vendors began a trial in which customers could borrow reusable containers and return them at a collection point.\n\nThe organizers knew that convenience would matter. They placed return boxes near the exits and provided signs explaining how the system worked. At the end of each day, containers were collected, washed, and checked before being used again. Customers could also bring their own containers if they preferred.\n\nDuring the first month, the organizers counted both the number of containers borrowed and the number returned. A high return rate suggested that the system was convenient enough for many visitors, but it did not reveal why some containers were missing. The team therefore asked customers for feedback before deciding how to improve the next trial.\n\nThe vendors also discussed how much water and energy were needed to clean the containers. They recognized that reusing an object is most useful when the entire process is considered, including collection, washing, transport, and the number of times each container is used.",
+    "passage": "At a busy weekend market, a customer may buy a drink, a snack, and lunch from three different vendors. Each purchase can come in its own disposable container. Even when the amount of packaging for one meal seems small, the total can be substantial by the end of the day. A group of stallholders began asking whether a shared system could make some of that packaging unnecessary.\n\nThe vendors designed a trial using reusable containers. Customers could borrow a container when buying food and return it at a collection point before leaving the market. Those who preferred to bring their own containers could still do so. The trial was limited to certain stalls, allowing the organizers to discover problems before asking the whole market to participate.\n\nConvenience was a major concern. If customers had to walk far out of their way to return an item, even people who liked the idea might forget to return it or decide not to use the borrowing system. Organizers therefore placed return boxes near the exits and used signs to explain which containers belonged in them. At the end of the day, workers collected, washed, and checked the returned containers. A damaged container was removed rather than sent back to a stall.\n\nDuring the first month, organizers recorded how many containers were borrowed and how many came back. The return rate was high, which suggested that the system was convenient for many visitors. Yet the numbers alone could not explain every choice. Some missing containers might have been taken home by mistake; others might have been put in the wrong bin. To investigate, the team asked customers for feedback and invited vendors to describe busy periods when the system was harder to manage.\n\nThe organizers also avoided assuming that reuse is automatically better in every situation. Washing and transporting containers require water and energy, and a container used only once would be a wasteful choice. They planned to monitor how often containers were used and how they were cleaned. By considering the whole process, the market could improve the service and make a more informed decision about whether to expand it.",
     "questions": [
       {
-        "question": "What was the purpose of the trial?",
+        "question": "What is the main purpose of the passage?",
         "options": [
-          "To reduce packaging through reusable containers.",
-          "To encourage customers to buy only from a single stall.",
-          "To replace food vendors with collection stations.",
-          "To measure how many visitors brought their own shopping bags."
+          "To explain a market’s reusable-container trial and the questions raised by its results.",
+          "To explain why the market required every vendor to adopt a permanent borrowing system.",
+          "To compare the environmental costs of several markets that used different containers.",
+          "To argue that reusable containers never involve washing or transport costs."
         ],
-        "answer": "To reduce packaging through reusable containers.",
-        "explanation": "第一段說借用可重複使用的容器，是為減少累積的包裝。",
-        "category": "語境理解"
+        "answer": "To explain a market’s reusable-container trial and the questions raised by its results.",
+        "explanation": "全文介紹市集容器借還試辦、便利性、回收數據及清洗運輸成本；未證明重用完全沒有環境成本。",
+        "category": "閱讀理解",
+        "id": "reading-v2-04-01"
       },
       {
-        "question": "Why were return boxes placed near the exits?",
+        "question": "Why were collection boxes placed near the exits?",
         "options": [
-          "To make returning containers convenient.",
-          "To make customers return containers before buying food.",
-          "To keep clean containers separate from market entrances.",
-          "To encourage vendors to sell containers at the exits."
+          "To make returning containers easier for customers.",
+          "To let vendors inspect the containers before customers used them at their stalls.",
+          "To collect only containers brought from customers’ homes.",
+          "To reduce the number of customers who could leave the market at one time."
         ],
-        "answer": "To make returning containers convenient.",
-        "explanation": "第二段強調方便性，出口附近的回收箱讓歸還更容易。",
-        "category": "語境理解"
+        "answer": "To make returning containers easier for customers.",
+        "explanation": "第三段先說如果歸還不便，顧客可能忘記或不願使用；因此在出口放回收箱以方便歸還。",
+        "category": "閱讀理解",
+        "id": "reading-v2-04-02"
       },
       {
-        "question": "What happened to returned containers?",
+        "question": "The word “wasteful” in the last paragraph is closest in meaning to ______.",
         "options": [
-          "They were washed and checked before reuse.",
-          "They were returned to the same customer for personal storage.",
-          "They were counted and then placed directly back at stalls without cleaning.",
-          "They were discarded whenever they had been used once."
+          "using more resources than necessary",
+          "requiring careful planning before an item is shared",
+          "using a container repeatedly for its intended purpose",
+          "making it convenient to return an item after use"
         ],
-        "answer": "They were washed and checked before reuse.",
-        "explanation": "第二段明確說容器會被收集、清洗與檢查。",
-        "category": "語境理解"
+        "answer": "using more resources than necessary",
+        "explanation": "最後一段指出清洗與運輸需要資源；容器只用一次就不再使用會造成浪費，故 wasteful 指不必要地耗費資源。",
+        "category": "閱讀理解",
+        "id": "reading-v2-04-03"
       },
       {
-        "question": "Why did the organizers ask for feedback?",
+        "question": "Which conclusion is best supported by the last two paragraphs?",
         "options": [
-          "The counts alone could not explain missing containers.",
-          "The counts showed exactly why some containers were missing.",
-          "The organizers had not recorded how many containers were returned.",
-          "The organizers wanted to replace the counts with customer guesses."
+          "Return counts are useful, but additional information is needed to judge and improve the system.",
+          "The difference between borrowing and return counts identifies why each container was missing.",
+          "Customer feedback matters only when the return rate is low.",
+          "The number of returns is enough to establish the full environmental effect of reuse."
         ],
-        "answer": "The counts alone could not explain missing containers.",
-        "explanation": "第三段指出數字無法說明部分容器未歸還的原因。",
-        "category": "語境理解"
+        "answer": "Return counts are useful, but additional information is needed to judge and improve the system.",
+        "explanation": "回收數字不能解釋所有未歸還原因；團隊還需顧客與攤販回饋，並追蹤清洗、運輸與使用次數。",
+        "category": "閱讀理解",
+        "id": "reading-v2-04-04"
       }
     ],
     "shared": false,
@@ -1052,55 +278,59 @@
   {
     "kind": "閱讀測驗",
     "name": "候鳥觀察",
-    "passage": "Every autumn, volunteers visit a coastal wetland to count migrating birds. The count takes place on the same weekend each year, and groups follow agreed routes. This does not mean that every bird is counted. Some hide among plants, while others arrive before or after the observation period.\n\nThe value of the project lies partly in its consistency. By using similar methods over time, researchers can look for changes that deserve further study. If a species appears less often, for example, the result may raise a question about habitat conditions. It does not, by itself, explain the cause.\n\nVolunteers also record weather and water levels. These details help researchers interpret the counts, since a storm or a change in water depth may affect where birds gather. The project gives local people a way to contribute useful observations while learning about a place they share with wildlife.\n\nAfter each count, the groups compare notes and discuss any differences in their observations. Experienced volunteers help newer participants identify birds, but uncertain sightings are marked rather than treated as definite. This practice makes the limits of the information clearer to everyone who uses it.",
+    "passage": "Every autumn, volunteers visit a coastal wetland to count migrating birds. The migration brings a variety of species to the area each year. Small groups follow agreed routes on the same weekend each year, using notes and photographs to record the species they see. The work begins early, when some areas are quiet enough for observers to hear birds calling among the plants. The count gives local residents a chance to learn about a place they share with wildlife, while providing information that researchers can examine over time.\n\nNo one claims that the volunteers count every bird. Some birds hide in tall plants, and others arrive before or after the observation period. A volunteer may also see an unfamiliar bird too briefly to identify it with confidence. In that case, the sighting is marked as uncertain rather than added to the total for a particular species. Experienced participants help newer observers, but a careful record of uncertainty is considered more useful than a confident guess.\n\nThe value of the project lies partly in its consistency. If groups use similar routes and record information in similar ways each year, researchers can compare the results more meaningfully. A lower count for a species may suggest a question worth investigating, such as whether habitat conditions have changed. It does not, by itself, prove that the species has disappeared or identify the cause of a change.\n\nVolunteers also note the weather and water level on the day of the count. A storm can affect when people can observe, while a change in water depth may influence where birds gather. These details help researchers interpret the numbers, although they cannot account for every possible influence. After the count, groups compare notes and check reports that seem unusual.\n\nThe wetland project therefore serves two purposes. It builds a growing record of observations, and it helps residents understand how scientific information is collected. Its strongest lesson may be that useful evidence often includes limits. Knowing what was not seen, what could not be identified, and what changed in the environment can be as important as reporting a final number.",
     "questions": [
       {
-        "question": "Why might the count miss some birds?",
+        "question": "What is the passage mainly about?",
         "options": [
-          "Some birds hide or arrive outside the observation period.",
-          "Birds remain at the wetland only during the observation weekend.",
-          "Volunteers change their routes every time they see a bird.",
-          "The researchers count only birds that migrate during storms."
+          "How a community bird count gathers useful observations while acknowledging its limits.",
+          "How volunteers use a single annual count to identify the exact cause of every population change.",
+          "Why researchers can avoid recording uncertainty if experienced observers take part.",
+          "How a community changes the timing of its count every year to capture all migrating birds."
         ],
-        "answer": "Some birds hide or arrive outside the observation period.",
-        "explanation": "第一段說有些鳥躲在植物中，或在觀察時間前後到達。",
-        "category": "語境理解"
+        "answer": "How a community bird count gathers useful observations while acknowledging its limits.",
+        "explanation": "全文說明社區定期記錄候鳥、維持方法一致並標記不確定結果，以便研究者使用資料且理解限制。",
+        "category": "閱讀理解",
+        "id": "reading-v2-05-01"
       },
       {
-        "question": "Why do groups use similar methods each year?",
+        "question": "Why are some sightings marked as uncertain?",
         "options": [
-          "To make changes over time easier to examine.",
-          "To ensure that weather has the same effect every year.",
-          "To identify the cause of every change without further research.",
-          "To count exactly the same individual birds each year."
+          "The observer did not have enough evidence to identify the bird confidently.",
+          "The bird belonged to a rare species, and all rare birds had to be marked uncertain.",
+          "The volunteers wanted uncertain sightings counted for several different species.",
+          "The observers had agreed to leave out every sighting supported by a photograph."
         ],
-        "answer": "To make changes over time easier to examine.",
-        "explanation": "第二段指出方法一致有助研究者觀察隨時間的變化。",
-        "category": "語境理解"
+        "answer": "The observer did not have enough evidence to identify the bird confidently.",
+        "explanation": "第二段指出有時鳥類出現時間太短，無法有把握地辨識；標記不確定比猜測更可靠。",
+        "category": "閱讀理解",
+        "id": "reading-v2-05-02"
       },
       {
-        "question": "What can a lower count suggest?",
+        "question": "What does “It” refer to in “It does not, by itself, prove…” in the third paragraph?",
         "options": [
-          "A question worth investigating further.",
-          "A definite decrease caused by habitat loss.",
-          "Proof that birds have stopped migrating along the coast.",
-          "Evidence that water levels no longer influence the count."
+          "A lower count for a species.",
+          "A photograph taken by an experienced participant.",
+          "The observation weekend chosen by the volunteers.",
+          "The route followed by each group through the wetland."
         ],
-        "answer": "A question worth investigating further.",
-        "explanation": "較低數量可引出值得研究的問題，但不能單獨證明原因。",
-        "category": "語境理解"
+        "answer": "A lower count for a species.",
+        "explanation": "前一句主詞是「某物種的數量較低」，It 承接該結果，說明此數據本身不能證明物種消失或確定原因。",
+        "category": "閱讀理解",
+        "id": "reading-v2-05-03"
       },
       {
-        "question": "Why are weather and water levels recorded?",
+        "question": "Which inference is supported by the discussion of weather and water levels?",
         "options": [
-          "They may help explain where birds gather.",
-          "They allow researchers to predict the exact number of birds.",
-          "They establish whether a particular bird is old or young.",
-          "They eliminate the need to compare observations between groups."
+          "A count is easier to interpret when researchers also consider observation conditions.",
+          "Weather records can establish the cause of every difference in the annual count.",
+          "Similar observation methods make water-level records unnecessary.",
+          "Researchers can interpret the counts without considering where the birds gather."
         ],
-        "answer": "They may help explain where birds gather.",
-        "explanation": "第三段說天氣與水深可能影響鳥類聚集地點，有助解讀結果。",
-        "category": "語境理解"
+        "answer": "A count is easier to interpret when researchers also consider observation conditions.",
+        "explanation": "第四段說天氣及水深會影響觀察與鳥類聚集地點，有助解讀數據；同時明言無法解釋全部影響。",
+        "category": "閱讀理解",
+        "id": "reading-v2-05-04"
       }
     ],
     "shared": false,
@@ -1112,6 +342,1235 @@
       "consistency",
       "habitat",
       "uncertain"
+    ]
+  },
+  {
+    "kind": "綜合測驗",
+    "name": "社區冰箱",
+    "passage": "Many people imagine that reducing food waste requires expensive equipment or a complicated system. A neighborhood refrigerator, [1], suggests that a much simpler idea can also make a difference. The fridge stands outside a grocery store, where anyone may leave extra food and anyone who needs it may take some. The project began after the store owner noticed that bread and vegetables were regularly being thrown away even though they were still safe to eat.\n\nBefore the refrigerator opened, residents raised questions about food safety. In response, volunteers created a labeling system that lets them [2] how long each item has been stored. They also check the contents every morning and remove anything that no longer meets the rules. If neighbors [3] how the food was handled, they might be reluctant to contribute. Clear information therefore helps build the confidence needed to share.\n\nThe program's success [4] both trust and regular checks: without either, it could not continue. The fridge alone cannot eliminate all food waste. It is, [5], a useful starting point for conversations about how a community can use resources more carefully.",
+    "questions": [
+      {
+        "question": "第 1 格",
+        "options": [
+          "however",
+          "therefore",
+          "similarly",
+          "in conclusion"
+        ],
+        "answer": "however",
+        "explanation": "前句認為減少浪費需要昂貴設備，後句卻以簡單的社區冰箱形成對比，故用 however。therefore 表結果；similarly 表相似；in conclusion 表總結，皆不符合此處的轉折。",
+        "category": "語境與篇章",
+        "id": "cloze-v2-01-01"
+      },
+      {
+        "question": "第 2 格",
+        "options": [
+          "monitor",
+          "predict",
+          "assume",
+          "conceal"
+        ],
+        "answer": "monitor",
+        "explanation": "標籤記錄食物放入的時間，使志工能 monitor（追蹤）存放多久。predict 是預測、assume 是假設、conceal 是隱藏，均非依標籤持續查看。",
+        "category": "語境與篇章",
+        "id": "cloze-v2-01-02"
+      },
+      {
+        "question": "第 3 格",
+        "options": [
+          "did not know",
+          "knew",
+          "understood",
+          "were aware of"
+        ],
+        "answer": "did not know",
+        "explanation": "後句說清楚資訊能建立分享所需的信心，故此處假設人們「不知道」食物如何處理，可能不願提供。knew、understood、were aware of 都表示知道，與這個邏輯相反。",
+        "category": "語境與篇章",
+        "id": "cloze-v2-01-03"
+      },
+      {
+        "question": "第 4 格",
+        "options": [
+          "depends on",
+          "results in",
+          "consists of",
+          "accounts for"
+        ],
+        "answer": "depends on",
+        "explanation": "後句說缺少信任或檢查便無法繼續，表示成功 depends on（取決於）兩者。results in 是導致，consists of 是由……構成，accounts for 是解釋或占比，皆不表此處的必要條件。",
+        "category": "語境與篇章",
+        "id": "cloze-v2-01-04"
+      },
+      {
+        "question": "第 5 格",
+        "options": [
+          "nevertheless",
+          "consequently",
+          "in other words",
+          "for example"
+        ],
+        "answer": "nevertheless",
+        "explanation": "冰箱無法解決所有浪費，「仍然」是有用起點，nevertheless 表讓步轉折。consequently 表結果；in other words 表換言之；for example 表舉例，皆不表示此處的讓步。",
+        "category": "語境與篇章",
+        "id": "cloze-v2-01-05"
+      }
+    ],
+    "shared": false,
+    "terms": [
+      "resource",
+      "monitor",
+      "depend",
+      "nevertheless"
+    ]
+  },
+  {
+    "kind": "綜合測驗",
+    "name": "城市夜空",
+    "passage": "In many cities, a cloudless night does not guarantee a clear view of the stars. Light from buildings and streetlamps [1] through the atmosphere, brightening the sky and making stars harder to see. This glow, known as light pollution, can be seen far beyond the places where the lights were installed.\n\nOutdoor lighting serves a useful purpose, particularly along roads and paths. The problem arises when light is directed above the area that actually needs it. Some cities have therefore changed their lamps and turned off unnecessary lights after midnight. These measures are intended not to leave streets completely dark [2] to direct light where people need it. They may also benefit birds [3] rely on natural light to find their way during migration.\n\nResidents can help evaluate such efforts. A local group invites people to record the number of stars visible from the same place at different times. Its members know that cloud cover and other conditions can affect the result, so they do not treat a single observation as proof. Instead, they compare observations made under similar conditions. Early results [4] that the changes may help, but further evidence is needed. A carefully designed lighting plan can thus protect wildlife [5] making public spaces safer and more energy-efficient.",
+    "questions": [
+      {
+        "question": "第 1 格",
+        "options": [
+          "scatters",
+          "disappears",
+          "settles",
+          "freezes"
+        ],
+        "answer": "scatters",
+        "explanation": "人造光在大氣中散射並使天空變亮，scatters 與後半句一致。disappears 是消失，settles 是沉降，freezes 是凍結，均不能解釋光如何使天空變亮。",
+        "category": "語境與篇章",
+        "id": "cloze-v2-02-01"
+      },
+      {
+        "question": "第 2 格",
+        "options": [
+          "but rather",
+          "as well as",
+          "so as",
+          "unless"
+        ],
+        "answer": "but rather",
+        "explanation": "not to A but rather to B 表「不是為了 A，而是為了 B」；as well as 表並列，so as 後需接 to，unless 引條件，皆不符合句型。",
+        "category": "語境與篇章",
+        "id": "cloze-v2-02-02"
+      },
+      {
+        "question": "第 3 格",
+        "options": [
+          "that",
+          "what",
+          "where",
+          "whose"
+        ],
+        "answer": "that",
+        "explanation": "that 引導關係子句並指代 birds，在子句中作 rely 的主詞。what 不能這樣接在先行詞後；where 表地點；whose 後須接名詞。",
+        "category": "語境與篇章",
+        "id": "cloze-v2-02-03"
+      },
+      {
+        "question": "第 4 格",
+        "options": [
+          "suggest",
+          "guarantee",
+          "disprove",
+          "overlook"
+        ],
+        "answer": "suggest",
+        "explanation": "早期結果 suggest（顯示）改變可能有效，但仍需更多證據；guarantee 表保證過於確定，disprove 是否定，overlook 是忽略，皆與後文不符。",
+        "category": "語境與篇章",
+        "id": "cloze-v2-02-04"
+      },
+      {
+        "question": "第 5 格",
+        "options": [
+          "while",
+          "unless",
+          "despite",
+          "because"
+        ],
+        "answer": "while",
+        "explanation": "while making ... 表同時使公共空間更安全、省能；unless 和 because 不能直接接這個 -ing 結構，despite 雖可接 -ing，但表示讓步，與兩項並行效果不符。",
+        "category": "語境與篇章",
+        "id": "cloze-v2-02-05"
+      }
+    ],
+    "shared": false,
+    "terms": [
+      "artificial",
+      "scatters",
+      "migration",
+      "suggest",
+      "evidence"
+    ]
+  },
+  {
+    "kind": "綜合測驗",
+    "name": "修理咖啡館",
+    "passage": "When a lamp stops working or a jacket loses a button, replacing it may appear easier than repairing it. A repair café offers another possibility. People bring broken household items to a community event and work with volunteers who have practical skills. At an ordinary repair shop, customers might leave an object at a counter and return later. Rather than simply [1] an object for someone else to fix, visitors sit beside a volunteer and learn how the repair is done.\n\nThe events were created partly to reduce waste, but the organizers soon noticed another benefit. A person who learns how to replace a button may feel more confident about trying a similar task later. Volunteers explain techniques [2] participants can use at home, while owners sometimes share skills of their own. The exchange of knowledge can be as valuable as the repaired item itself.\n\nNot every object can be fixed safely. A volunteer first examines it and discusses the risks with its owner. [3] a repair proves impossible, the volunteer still explains why, allowing the owner to make a better-informed decision. The program also [4] access to tools and replacement parts; without them, even an experienced volunteer may be unable to help. Above all, repair cafés encourage people to [5] whether an item could be repaired before buying a new one.",
+    "questions": [
+      {
+        "question": "第 1 格",
+        "options": [
+          "handing over",
+          "taking apart",
+          "setting aside",
+          "putting away"
+        ],
+        "answer": "handing over",
+        "explanation": "hand over 是交給別人；題幹說不是把物品交出後就離開，而是坐在志工旁學習。take apart 是拆開，set aside 是擱置，put away 是收好，皆不表示把物品交給他人修理。",
+        "category": "語境與篇章",
+        "id": "cloze-v2-03-01"
+      },
+      {
+        "question": "第 2 格",
+        "options": [
+          "that",
+          "where",
+          "whose",
+          "what"
+        ],
+        "answer": "that",
+        "explanation": "that 指代 techniques，並在 participants can use ___ at home 中作 use 的受詞。where 指地點；whose 後接名詞；what 不能直接接在已有先行詞 techniques 後。",
+        "category": "語境與篇章",
+        "id": "cloze-v2-03-02"
+      },
+      {
+        "question": "第 3 格",
+        "options": [
+          "Even when",
+          "As if",
+          "So that",
+          "Unless"
+        ],
+        "answer": "Even when",
+        "explanation": "句意為「即使無法修好，志工仍會說明原因」，因此用 Even when 表讓步；Unless 表除非，不能表達此關係，其他選項也不符合上下文。",
+        "category": "語境與篇章",
+        "id": "cloze-v2-03-03"
+      },
+      {
+        "question": "第 4 格",
+        "options": [
+          "relies on",
+          "gives rise to",
+          "rules out",
+          "makes up for"
+        ],
+        "answer": "relies on",
+        "explanation": "後句說缺乏工具或零件就可能無法修理，表示計畫 relies on（依靠）取得工具與零件。gives rise to 是引起，rules out 是排除，makes up for 是彌補，均不表必要的依賴關係。",
+        "category": "語境與篇章",
+        "id": "cloze-v2-03-04"
+      },
+      {
+        "question": "第 5 格",
+        "options": [
+          "consider",
+          "assume",
+          "insist",
+          "ignore"
+        ],
+        "answer": "consider",
+        "explanation": "consider whether 表考慮是否可以修理；assume 與 insist 不採此 whether 結構，ignore whether 雖可作語法結構，但表示忽略能否修理，與文章目的相反。",
+        "category": "語境與篇章",
+        "id": "cloze-v2-03-05"
+      }
+    ],
+    "shared": false,
+    "terms": [
+      "replacement",
+      "practical",
+      "handing over",
+      "relies on",
+      "consider"
+    ]
+  },
+  {
+    "kind": "綜合測驗",
+    "name": "休息與學習",
+    "passage": "A student preparing for an exam may [1] that every minute away from a desk is wasted. Yet research on attention suggests that working without a break is not always the most effective approach. After a long period of concentration, attention may [2], making it harder to notice errors or remember what has just been read.\n\nA short break gives the mind a chance to recover, but the activity chosen for that break matters. Checking a stream of messages may continue to [3] attention, whereas a brief walk or a quiet stretch offers a change of activity. Researchers do not suggest that one schedule works for every student. Instead, learners can try different routines and observe which ones help them return to work with greater focus.\n\nIt may help to prepare a schedule before beginning to study. By planning breaks [4], students can stop before exhaustion makes concentration difficult. A break should be long enough to be refreshing but not so long that it becomes hard to resume studying. In this way, rest need not be treated as wasted time; [5], it can be seen as part of a balanced learning routine.",
+    "questions": [
+      {
+        "question": "第 1 格",
+        "options": [
+          "assume",
+          "demonstrate",
+          "confirm",
+          "establish"
+        ],
+        "answer": "assume",
+        "explanation": "學生可能 assume（以為）離開書桌就是浪費時間，但後句說研究指出這個想法不一定正確；demonstrate、confirm、establish 均表示證明或確立，暗示已有證據，與文章描述的假設不符。",
+        "category": "語境與篇章",
+        "id": "cloze-v2-04-01"
+      },
+      {
+        "question": "第 2 格",
+        "options": [
+          "decline",
+          "recover",
+          "spread",
+          "improve"
+        ],
+        "answer": "decline",
+        "explanation": "後句說更難發現錯誤、記住內容，顯示注意力 decline（下降）。recover 與 improve 表恢復或改善，spread 表擴散，均不符。",
+        "category": "語境與篇章",
+        "id": "cloze-v2-04-02"
+      },
+      {
+        "question": "第 3 格",
+        "options": [
+          "demand",
+          "release",
+          "supply",
+          "recover"
+        ],
+        "answer": "demand",
+        "explanation": "查看訊息可能繼續 demand（需要）注意力，與走路換活動形成對比。release 是釋放，supply 是供應，recover 是恢復，皆不符合「活動需要注意力」的語意角色。",
+        "category": "語境與篇章",
+        "id": "cloze-v2-04-03"
+      },
+      {
+        "question": "第 4 格",
+        "options": [
+          "in advance",
+          "on occasion",
+          "at random",
+          "in return"
+        ],
+        "answer": "in advance",
+        "explanation": "前句說在讀書前準備時間表，因此 in advance（事先）規劃休息最合適。on occasion 是偶爾，at random 是隨機，in return 是作為回報，皆未表達事先規劃。",
+        "category": "語境與篇章",
+        "id": "cloze-v2-04-04"
+      },
+      {
+        "question": "第 5 格",
+        "options": [
+          "instead",
+          "otherwise",
+          "likewise",
+          "for example"
+        ],
+        "answer": "instead",
+        "explanation": "不是將休息視為浪費時間，而是視為學習的一部分，instead 表替代觀點。otherwise 是否則，likewise 是同樣地，for example 是舉例，皆不表此處的取代關係。",
+        "category": "語境與篇章",
+        "id": "cloze-v2-04-05"
+      }
+    ],
+    "shared": false,
+    "terms": [
+      "concentration",
+      "decline",
+      "demand",
+      "in advance",
+      "resume"
+    ]
+  },
+  {
+    "kind": "文意選填",
+    "name": "城市樹蔭與高溫",
+    "passage": "On a hot afternoon, two neighborhoods in the same city may feel strikingly different. A street lined with mature trees can remain cooler than an exposed parking area only a few blocks away. Such differences matter because repeated [1] to extreme heat can place a heavy burden on the body, especially when the temperature remains high at night. Yet people do not all have the same [2] to shaded public spaces. A resident without a private garden, for example, may depend on a nearby park or bus shelter for a place to rest.\n\nTo understand the problem, a city team mapped trees, buildings, and surface temperatures. The map revealed that tree cover was [3]: some districts had broad areas of shade, while others had very few trees. The team also considered who used each area. Older adults and people with health conditions can be particularly [4] during a heat wave, so the locations of clinics and housing for older residents were included in the study.\n\nThe city then selected several sites for a trial. Staff will [5] temperatures at the same locations several times a day throughout the summer, recording changes as conditions vary. After the season, researchers will [6] the overall effectiveness of the trial by comparing its results with the goals set at the beginning. For example, did the new planting reduce heat where people actually waited for buses?\n\nPlanting alone, however, is not enough. Young trees need water and regular care; otherwise, the city may struggle to [7] them through dry summers. The team also plans to [8] its designs when local feedback reveals a problem. If a new bench receives little shade in the afternoon, for instance, its position may be changed. Portable covers can offer [9] protection while trees are growing, but officials hope the trees themselves will provide more [10] benefits for future residents. The project therefore treats shade not as a decoration but as part of a city's response to heat.",
+    "shared": true,
+    "terms": [
+      "exposure",
+      "access",
+      "vulnerable",
+      "evaluate",
+      "lasting"
+    ],
+    "questions": [
+      {
+        "question": "第 1 格",
+        "options": [],
+        "answer": "exposure",
+        "explanation": "repeated 與 to extreme heat 描述反覆暴露在高溫下，exposure to 表「暴露於」。access to 也接 to，但指取得或使用的機會，與熱對身體造成負擔的脈絡不合。",
+        "category": "語境理解",
+        "id": "wordcloze-v2-01-01"
+      },
+      {
+        "question": "第 2 格",
+        "options": [],
+        "answer": "access",
+        "explanation": "have access to shade 表「能使用遮蔭處」；後句說居民依靠公園或候車亭休息。exposure to 指暴露於某環境，並不強調使用資源的機會。",
+        "category": "語境理解",
+        "id": "wordcloze-v2-01-02"
+      },
+      {
+        "question": "第 3 格",
+        "options": [],
+        "answer": "uneven",
+        "explanation": "冒號後對比某些地區樹蔭很多、另一些很少，顯示分布不均。uneven 是不均勻的；vulnerable 指易受傷害，不描述此處的分布差異。",
+        "category": "語境理解",
+        "id": "wordcloze-v2-01-03"
+      },
+      {
+        "question": "第 4 格",
+        "options": [],
+        "answer": "vulnerable",
+        "explanation": "前後提及熱浪、年長者與身體狀況，指出這些人特別容易受到傷害。vulnerable 是易受影響的；uneven 指不均勻。",
+        "category": "語境理解",
+        "id": "wordcloze-v2-01-04"
+      },
+      {
+        "question": "第 5 格",
+        "options": [],
+        "answer": "monitor",
+        "explanation": "後句說在整個夏天、每天數次記錄溫度及其變化，表示持續監測。monitor 著重追蹤；evaluate 則著重評估成果或價值。",
+        "category": "語境理解",
+        "id": "wordcloze-v2-01-05"
+      },
+      {
+        "question": "第 6 格",
+        "options": [],
+        "answer": "evaluate",
+        "explanation": "after the season 與 comparing results with goals 表示在試驗後評估是否達成目標。evaluate 指評估；monitor 側重過程中的持續監測。",
+        "category": "語境理解",
+        "id": "wordcloze-v2-01-06"
+      },
+      {
+        "question": "第 7 格",
+        "options": [],
+        "answer": "maintain",
+        "explanation": "前句說幼樹需澆水和定期照料，否則難以讓樹木維持良好狀態。maintain 是維護；adapt 是依需要調整，不是照顧樹木的適當動詞。",
+        "category": "語境理解",
+        "id": "wordcloze-v2-01-07"
+      },
+      {
+        "question": "第 8 格",
+        "options": [],
+        "answer": "adapt",
+        "explanation": "feedback reveals a problem 以及後句移動座椅，說明團隊因問題而調整設計。adapt 是調整以適應；maintain 是維持原狀或維護。",
+        "category": "語境理解",
+        "id": "wordcloze-v2-01-08"
+      },
+      {
+        "question": "第 9 格",
+        "options": [],
+        "answer": "temporary",
+        "explanation": "while trees are growing 暗示可攜式遮棚只是樹木長大之前的暫時措施。temporary 是暫時的；lasting 指長久持續的。",
+        "category": "語境理解",
+        "id": "wordcloze-v2-01-09"
+      },
+      {
+        "question": "第 10 格",
+        "options": [],
+        "answer": "lasting",
+        "explanation": "對比前句樹木生長期間使用的臨時遮棚，future residents 提示樹木的好處希望持續較久。lasting 是長久的，與 temporary 形成對照。",
+        "category": "語境理解",
+        "id": "wordcloze-v2-01-10"
+      }
+    ]
+  },
+  {
+    "kind": "文意選填",
+    "name": "食品日期與浪費",
+    "passage": "Many people look at the date printed on a food package and assume that the product becomes unsafe the following day. As a result, households may throw away food that is still suitable to eat, contributing to food [1]. At the same time, ignoring signs of spoilage can create a genuine health [2]. Reducing waste therefore does not mean treating every food item as safe for an unlimited time.\n\nOne useful first step is to [3] between a quality date and a safety-related instruction. Depending on local rules and the product, a date may refer to the period during which the producer expects the best flavor or texture. It does not always [4] that the food will become dangerous immediately afterward. Consumers still need to follow storage instructions and consider the condition of the product. The meaning of labels can differ, so local guidance should not be replaced by a single general rule.\n\nIn one community project, volunteers worked with stores to make products approaching their quality date more [5] to shoppers through a clearly marked section. Before the project began, the organizers considered the [6] reduction in waste: how much might be saved if most of those products were sold or used. They could not know the result in advance, so they had to [7] it using previous sales figures and several assumptions.\n\nAt the end of the trial, the team measured the [8] reduction by weighing the food that had not been sold and comparing it with an earlier period. The measured figure was lower than the original forecast, but it showed where the plan could improve. For some foods, appropriate storage or freezing could help [9] quality for longer; for others, quick distribution was more suitable. The project also found that clearer instructions helped shoppers recognize which kinds of waste were [10] without encouraging them to take unnecessary safety risks. Its central lesson was to pair careful decisions with reliable information, not to dismiss all date labels.",
+    "shared": true,
+    "terms": [
+      "distinguish",
+      "potential",
+      "estimate",
+      "actual",
+      "preserve"
+    ],
+    "questions": [
+      {
+        "question": "第 1 格",
+        "options": [],
+        "answer": "waste",
+        "explanation": "throw away food 指丟棄食物，因此對應 food waste（食物浪費）。risk 指風險，雖可與 food 組合，但後文第 2 格討論變質造成的健康風險。",
+        "category": "語境理解",
+        "id": "wordcloze-v2-02-01"
+      },
+      {
+        "question": "第 2 格",
+        "options": [],
+        "answer": "risk",
+        "explanation": "ignoring signs of spoilage 提示忽視變質跡象可能造成健康風險；health risk 為常見搭配。waste 是浪費，不是此處的健康後果。",
+        "category": "語境理解",
+        "id": "wordcloze-v2-02-02"
+      },
+      {
+        "question": "第 3 格",
+        "options": [],
+        "answer": "distinguish",
+        "explanation": "distinguish between A and B 指區分兩者；文章接著比較品質日期與安全指示。indicate 是指出，不能構成此處的 distinguish between 結構。",
+        "category": "語境理解",
+        "id": "wordcloze-v2-02-03"
+      },
+      {
+        "question": "第 4 格",
+        "options": [],
+        "answer": "indicate",
+        "explanation": "前文解釋品質日期可能關乎風味，後句說該日期不一定表示食物立即危險。indicate that 指顯示或表示；distinguish 著重區分。",
+        "category": "語境理解",
+        "id": "wordcloze-v2-02-04"
+      },
+      {
+        "question": "第 5 格",
+        "options": [],
+        "answer": "available",
+        "explanation": "to shoppers 與 clearly marked section 說明將接近日期的商品提供給購物者。available to 表可供某人取得；avoidable 是可避免的。",
+        "category": "語境理解",
+        "id": "wordcloze-v2-02-05"
+      },
+      {
+        "question": "第 6 格",
+        "options": [],
+        "answer": "potential",
+        "explanation": "before the project began 及 if most ... were sold 提示尚未發生、以假設計算的潛在減量。potential 與 actual 不同，後者指實際測得的結果。",
+        "category": "語境理解",
+        "id": "wordcloze-v2-02-06"
+      },
+      {
+        "question": "第 7 格",
+        "options": [],
+        "answer": "estimate",
+        "explanation": "could not know ... in advance 及 using previous sales figures and assumptions 指在事前根據資料估計。estimate 是估算；indicate 是顯示，不能表達這項計算。",
+        "category": "語境理解",
+        "id": "wordcloze-v2-02-07"
+      },
+      {
+        "question": "第 8 格",
+        "options": [],
+        "answer": "actual",
+        "explanation": "end of the trial 與 measured figure 提示這是試驗後實際測量的減量。actual 指實際的；potential 指預估可能達到的。",
+        "category": "語境理解",
+        "id": "wordcloze-v2-02-08"
+      },
+      {
+        "question": "第 9 格",
+        "options": [],
+        "answer": "preserve",
+        "explanation": "appropriate storage or freezing 有助較長時間保有品質；preserve quality 是保存品質。estimate 是估計，不表示保留品質。",
+        "category": "語境理解",
+        "id": "wordcloze-v2-02-09"
+      },
+      {
+        "question": "第 10 格",
+        "options": [],
+        "answer": "avoidable",
+        "explanation": "clearer instructions 幫助辨認可避免的浪費，同時不鼓勵不安全做法。avoidable 指可避免的；available 指可取得的，兩者字形相近但語意不同。",
+        "category": "語境理解",
+        "id": "wordcloze-v2-02-10"
+      }
+    ]
+  },
+  {
+    "kind": "篇章結構",
+    "name": "校園雨水回收",
+    "passage": "A school wanted to use less tap water in its garden, but teachers did not want the plants to receive less care. A group of students began by watching what happened during storms. They saw water run down a roof, enter a drain, and leave the school grounds. [1] Rather than immediately buying equipment, they spent several weeks noting how often it rained and how much water the garden used.\n\nTheir plan was to collect rain from the roof in a tank beside the garden. A pipe directed the water into the tank, and gravity carried it to a tap; the system used no electric pump. A screen kept leaves from entering, while a cover reduced the chance that insects would gather in the water. Students could then fill watering cans from the tap when the soil was dry. The arrangement seemed simple, but its usefulness changed with the weather.\n\nAt first, some students expected the tank to meet the garden's needs throughout the year. [2] During a rainy month, it often filled quickly. During a long dry spell, however, the garden could require water even when the tank was nearly empty. The group therefore kept the ordinary tap as a backup and began measuring both the rain collected and the water used.\n\nSafety raised a different question. The collected water was suitable for plants, but the school had not treated it for drinking. [3] To prevent confusion, students placed clear signs near the tank and explained the rule to each new class that helped in the garden.\n\nAt the end of the term, the students compared their measurements. [4] They found that the tank could reduce the use of tap water in some seasons, although its contribution varied from month to month. Their final report recommended keeping the system, maintaining the screen, and reviewing the records each year rather than assuming the tank would always perform in the same way.",
+    "questions": [
+      {
+        "question": "第 1 格",
+        "options": [
+          "This observation led them to ask whether some of that water could be saved.",
+          "They soon discovered that collecting rain did not guarantee a steady supply.",
+          "The distinction became especially important when younger pupils began helping in the garden.",
+          "Those records helped them assess both the benefits and the limits of the system.",
+          "After repairing the electric pump, the group measured how much power it used."
+        ],
+        "answer": "This observation led them to ask whether some of that water could be saved.",
+        "explanation": "前句觀察雨水流入排水口，選項中的 This observation 承接該現象，並引出下文調查與收集雨水的構想。",
+        "category": "篇章結構",
+        "id": "structure-v2-01-01"
+      },
+      {
+        "question": "第 2 格",
+        "options": [
+          "This observation led them to ask whether some of that water could be saved.",
+          "They soon discovered that collecting rain did not guarantee a steady supply.",
+          "The distinction became especially important when younger pupils began helping in the garden.",
+          "Those records helped them assess both the benefits and the limits of the system.",
+          "After repairing the electric pump, the group measured how much power it used."
+        ],
+        "answer": "They soon discovered that collecting rain did not guarantee a steady supply.",
+        "explanation": "前句預期全年足夠，選項的 did not guarantee 形成轉折；後面的雨季水滿與乾季水少具體說明供水不穩定。",
+        "category": "篇章結構",
+        "id": "structure-v2-01-02"
+      },
+      {
+        "question": "第 3 格",
+        "options": [
+          "This observation led them to ask whether some of that water could be saved.",
+          "They soon discovered that collecting rain did not guarantee a steady supply.",
+          "The distinction became especially important when younger pupils began helping in the garden.",
+          "Those records helped them assess both the benefits and the limits of the system.",
+          "After repairing the electric pump, the group measured how much power it used."
+        ],
+        "answer": "The distinction became especially important when younger pupils began helping in the garden.",
+        "explanation": "前句區分可澆植物與未處理供人飲用；The distinction 指這項差別，後句設置標示避免學生誤用。",
+        "category": "篇章結構",
+        "id": "structure-v2-01-03"
+      },
+      {
+        "question": "第 4 格",
+        "options": [
+          "This observation led them to ask whether some of that water could be saved.",
+          "They soon discovered that collecting rain did not guarantee a steady supply.",
+          "The distinction became especially important when younger pupils began helping in the garden.",
+          "Those records helped them assess both the benefits and the limits of the system.",
+          "After repairing the electric pump, the group measured how much power it used."
+        ],
+        "answer": "Those records helped them assess both the benefits and the limits of the system.",
+        "explanation": "前句比較測量數據；Those records 指雨量及用水紀錄，後句接著說明節省效果會隨月份改變的結論。",
+        "category": "篇章結構",
+        "id": "structure-v2-01-04"
+      }
+    ],
+    "shared": true,
+    "terms": [
+      "observation",
+      "gravity",
+      "guarantee",
+      "distinction",
+      "assess",
+      "contribution"
+    ]
+  },
+  {
+    "kind": "篇章結構",
+    "name": "公共空間的座椅",
+    "passage": "A busy square in the center of a town had plenty of visitors, yet most people crossed it without stopping. Planners initially considered adding shops, but they wanted to understand why the existing space was used mainly as a route. They asked residents what might make them spend a few more minutes there. Some mentioned noise, while many said they had nowhere comfortable to sit.\n\nThe team did not begin by installing permanent furniture. Instead, it placed movable chairs around the square for several weeks. [1] Visitors shifted some chairs toward the trees for shade, moved others into the sun, and grouped a few together for conversation. By the end of the trial, the team had a clearer picture of how people used different areas at different times of day.\n\nThe experiment also showed the limits of simply counting occupied chairs. A chair could be empty because it was in an unpleasant location, but it might also be empty because someone could not reach it easily. [2] A wheelchair user, for example, might need enough open space beside a bench, while an older visitor might prefer a seat with a back and arms. Neither need was visible from a count of occupied seats alone.\n\nFor the permanent design, seats were placed in both shaded and sunny locations, with clear paths between them. Some were close enough for groups to talk; others offered a quieter place to read. [3] The arrangement was not intended to make everyone use the square in the same way. It offered alternatives so that more visitors could find a place that suited them.\n\nAfter the changes, people still crossed the square on their way to work or school. Some also used it to meet friends, wait for a bus, or rest. [4] The town continued to ask for comments, since a successful public space must be maintained and adapted as the people using it and their needs change.",
+    "questions": [
+      {
+        "question": "第 1 格",
+        "options": [
+          "They observed where people moved the chairs rather than deciding in advance where everyone should sit.",
+          "These two possible reasons point to different needs that a seat count alone cannot reveal.",
+          "This variety reflected what the team had learned from both observation and conversation.",
+          "In other words, the square became a place to pause as well as a route to other destinations.",
+          "Consequently, the planners chose one standard bench design and placed every seat in the sun."
+        ],
+        "answer": "They observed where people moved the chairs rather than deciding in advance where everyone should sit.",
+        "explanation": "前句擺放可移動的椅子；選項 they 指設計團隊，後句具體列出訪客把椅子移到陰影、陽光及聚談位置的觀察。",
+        "category": "篇章結構",
+        "id": "structure-v2-02-01"
+      },
+      {
+        "question": "第 2 格",
+        "options": [
+          "They observed where people moved the chairs rather than deciding in advance where everyone should sit.",
+          "These two possible reasons point to different needs that a seat count alone cannot reveal.",
+          "This variety reflected what the team had learned from both observation and conversation.",
+          "In other words, the square became a place to pause as well as a route to other destinations.",
+          "Consequently, the planners chose one standard bench design and placed every seat in the sun."
+        ],
+        "answer": "These two possible reasons point to different needs that a seat count alone cannot reveal.",
+        "explanation": "前句解釋空椅可能是位置不好或有人難以抵達；選項概括不同訪客需求，後句以輪椅與需要扶手的訪客為例。",
+        "category": "篇章結構",
+        "id": "structure-v2-02-02"
+      },
+      {
+        "question": "第 3 格",
+        "options": [
+          "They observed where people moved the chairs rather than deciding in advance where everyone should sit.",
+          "These two possible reasons point to different needs that a seat count alone cannot reveal.",
+          "This variety reflected what the team had learned from both observation and conversation.",
+          "In other words, the square became a place to pause as well as a route to other destinations.",
+          "Consequently, the planners chose one standard bench design and placed every seat in the sun."
+        ],
+        "answer": "This variety reflected what the team had learned from both observation and conversation.",
+        "explanation": "前句列出有陰影、陽光、群聚與安靜等不同座位，This variety 回指這些選擇；後句說明並非強迫大家用相同方式使用。",
+        "category": "篇章結構",
+        "id": "structure-v2-02-03"
+      },
+      {
+        "question": "第 4 格",
+        "options": [
+          "They observed where people moved the chairs rather than deciding in advance where everyone should sit.",
+          "These two possible reasons point to different needs that a seat count alone cannot reveal.",
+          "This variety reflected what the team had learned from both observation and conversation.",
+          "In other words, the square became a place to pause as well as a route to other destinations.",
+          "Consequently, the planners chose one standard bench design and placed every seat in the sun."
+        ],
+        "answer": "In other words, the square became a place to pause as well as a route to other destinations.",
+        "explanation": "前句表示人們仍會通過廣場，也會停留；In other words 綜合兩者，後句再轉向未來維護和調整。",
+        "category": "篇章結構",
+        "id": "structure-v2-02-04"
+      }
+    ],
+    "shared": true,
+    "terms": [
+      "resident",
+      "permanent",
+      "occupied",
+      "distinction",
+      "adapt",
+      "variety"
+    ]
+  },
+  {
+    "kind": "篇章結構",
+    "name": "校園聲景",
+    "passage": "Students often walk the same route to school without paying much attention to what they hear. One class decided to change that habit by making a sound map of its neighborhood. Each group chose several places along a route and listed the sounds it noticed: birds, conversations, traffic, and construction work all appeared in the notes. The students were not asked to decide immediately whether each sound was good or bad.\n\nThey returned to the same places at different times and made short recordings. [1] They continued recording at each chosen location, even when it was relatively quiet. A street that seemed quiet early in the morning, for instance, could become crowded and noisy after school. The groups marked these changes on a map, using symbols to show the location and approximate time of each recording. The result was more complicated than a simple list of the loudest places.\n\nThe map helped students compare observations, but a symbol alone could not show what was happening around a recording. [2] A delivery truck passing for a few minutes and a machine operating all afternoon might produce similar sounds in short clips. Students therefore added notes about nearby activities and how long the sounds appeared to continue. Those notes made it easier to discuss the limits of each recording.\n\nWhen the class shared its results, students disagreed about some sounds. Several enjoyed hearing people talk outside a café, while others found the same conversation distracting when they were trying to study. [3] This difference encouraged the class to ask not just how loud a sound was, but also who was listening and what that person was doing.\n\nFinally, the groups presented the map to other students. [4] Instead of assigning one label to every sound, they invited visitors to compare recordings and discuss their own experiences. The project did not eliminate neighborhood noise, but it taught the class to support its opinions with observations and to recognize that a recording captures only one part of a larger situation.",
+    "questions": [
+      {
+        "question": "第 1 格",
+        "options": [
+          "What they heard depended not only on where they listened but also on when they listened.",
+          "Context was needed to understand what had produced the sound and how long it lasted.",
+          "The same café conversation could therefore represent two opposing experiences.",
+          "During the presentation, the groups preserved some of that disagreement rather than offer a single ranking.",
+          "Consequently, the groups decided to make recordings only at the noisiest location."
+        ],
+        "answer": "What they heard depended not only on where they listened but also on when they listened.",
+        "explanation": "前句在同一地點不同時間錄音；選項同時點出 where 和 when，後句以早晚街道差異舉例。",
+        "category": "篇章結構",
+        "id": "structure-v2-03-01"
+      },
+      {
+        "question": "第 2 格",
+        "options": [
+          "What they heard depended not only on where they listened but also on when they listened.",
+          "Context was needed to understand what had produced the sound and how long it lasted.",
+          "The same café conversation could therefore represent two opposing experiences.",
+          "During the presentation, the groups preserved some of that disagreement rather than offer a single ranking.",
+          "Consequently, the groups decided to make recordings only at the noisiest location."
+        ],
+        "answer": "Context was needed to understand what had produced the sound and how long it lasted.",
+        "explanation": "前句說地圖符號無法呈現錄音周遭情況；選項提出需要背景脈絡，後句以卡車短暫經過和機器整日運作比較。",
+        "category": "篇章結構",
+        "id": "structure-v2-03-02"
+      },
+      {
+        "question": "第 3 格",
+        "options": [
+          "What they heard depended not only on where they listened but also on when they listened.",
+          "Context was needed to understand what had produced the sound and how long it lasted.",
+          "The same café conversation could therefore represent two opposing experiences.",
+          "During the presentation, the groups preserved some of that disagreement rather than offer a single ranking.",
+          "Consequently, the groups decided to make recordings only at the noisiest location."
+        ],
+        "answer": "The same café conversation could therefore represent two opposing experiences.",
+        "explanation": "前句有人喜歡咖啡館談話聲、有人覺得分心；選項概括同一聲音對不同聽者的效果，後句 This difference 接續此對比。",
+        "category": "篇章結構",
+        "id": "structure-v2-03-03"
+      },
+      {
+        "question": "第 4 格",
+        "options": [
+          "What they heard depended not only on where they listened but also on when they listened.",
+          "Context was needed to understand what had produced the sound and how long it lasted.",
+          "The same café conversation could therefore represent two opposing experiences.",
+          "During the presentation, the groups preserved some of that disagreement rather than offer a single ranking.",
+          "Consequently, the groups decided to make recordings only at the noisiest location."
+        ],
+        "answer": "During the presentation, the groups preserved some of that disagreement rather than offer a single ranking.",
+        "explanation": "前段指出學生意見不同；選項保留分歧而非單一排名，後句 Instead 對應邀請訪客比較並討論。",
+        "category": "篇章結構",
+        "id": "structure-v2-03-04"
+      }
+    ],
+    "shared": true,
+    "terms": [
+      "observation",
+      "approximate",
+      "context",
+      "distracting",
+      "preserve",
+      "ranking"
+    ]
+  },
+  {
+    "kind": "篇章結構",
+    "name": "閱讀與記憶",
+    "passage": "A teacher noticed that students often judged how well they knew an article by how familiar its sentences looked. To explore that habit, she asked the class to compare two ways of reviewing the same text. One group reread it several times. Another read it once and then tried to explain its main points without looking. The groups later described what each method felt like and checked their explanations against the article.\n\nAt first, rereading seemed comfortable. Students could recognize nearly every sentence, and the repeated words created a sense of confidence. [1] When asked to explain the main argument in their own words, some students could remember individual phrases but had difficulty showing how the ideas were connected. Familiarity with the wording was useful, yet it did not automatically reveal whether the whole argument had been understood.\n\nThe second group faced a less comfortable task. Without the page in front of them, students had to search their memories and decide which details mattered. [2] Some could recall the topic but not the example that supported it. Others remembered a detail but were uncertain about the conclusion. Comparing their attempts with the original text helped them identify exactly what they needed to review.\n\nThis exercise did not mean that rereading was a waste of time. [3] A student who found a gap could return to a difficult paragraph, examine its examples, and then try another explanation. The useful question was not simply which method felt easier, but what each method made visible about the student's understanding.\n\nThe teacher suggested a routine that combined both approaches. Students could review the text, close it, explain an idea from memory, and use any missing links to guide their next review. [4] After a short break, they could test themselves again to see whether the explanation had become clearer. The aim was not to recite every sentence perfectly, but to understand the relationships among the writer's ideas.",
+    "questions": [
+      {
+        "question": "第 1 格",
+        "options": [
+          "Yet this sense of familiarity did not necessarily mean they could explain the argument.",
+          "When members of the second group tried to retrieve an idea, they exposed a different kind of difficulty.",
+          "Rereading still served a purpose when students used it to investigate those gaps.",
+          "Combining the methods turned review into a cycle rather than a choice between two opposing habits.",
+          "The third group then compared the second article with a text it had translated."
+        ],
+        "answer": "Yet this sense of familiarity did not necessarily mean they could explain the argument.",
+        "explanation": "前句說重讀使學生產生信心，Yet 轉折指出熟悉不等於能解釋論點；後句舉記得字句卻難以說明關係的例子。",
+        "category": "篇章結構",
+        "id": "structure-v2-04-01"
+      },
+      {
+        "question": "第 2 格",
+        "options": [
+          "Yet this sense of familiarity did not necessarily mean they could explain the argument.",
+          "When members of the second group tried to retrieve an idea, they exposed a different kind of difficulty.",
+          "Rereading still served a purpose when students used it to investigate those gaps.",
+          "Combining the methods turned review into a cycle rather than a choice between two opposing habits.",
+          "The third group then compared the second article with a text it had translated."
+        ],
+        "answer": "When members of the second group tried to retrieve an idea, they exposed a different kind of difficulty.",
+        "explanation": "前句指出第二組需從記憶提取重點，選項說此舉暴露不同困難；後句列出記得主題但忘了例證等缺口。",
+        "category": "篇章結構",
+        "id": "structure-v2-04-02"
+      },
+      {
+        "question": "第 3 格",
+        "options": [
+          "Yet this sense of familiarity did not necessarily mean they could explain the argument.",
+          "When members of the second group tried to retrieve an idea, they exposed a different kind of difficulty.",
+          "Rereading still served a purpose when students used it to investigate those gaps.",
+          "Combining the methods turned review into a cycle rather than a choice between two opposing habits.",
+          "The third group then compared the second article with a text it had translated."
+        ],
+        "answer": "Rereading still served a purpose when students used it to investigate those gaps.",
+        "explanation": "前句說重讀不是浪費，those gaps 指前段回想發現的理解缺口；後句進一步解釋如何回讀困難段落。",
+        "category": "篇章結構",
+        "id": "structure-v2-04-03"
+      },
+      {
+        "question": "第 4 格",
+        "options": [
+          "Yet this sense of familiarity did not necessarily mean they could explain the argument.",
+          "When members of the second group tried to retrieve an idea, they exposed a different kind of difficulty.",
+          "Rereading still served a purpose when students used it to investigate those gaps.",
+          "Combining the methods turned review into a cycle rather than a choice between two opposing habits.",
+          "The third group then compared the second article with a text it had translated."
+        ],
+        "answer": "Combining the methods turned review into a cycle rather than a choice between two opposing habits.",
+        "explanation": "前句安排「複習—回想—再複習」步驟；選項把它概括為 cycle，後句 after a short break 呼應再次測試。",
+        "category": "篇章結構",
+        "id": "structure-v2-04-04"
+      }
+    ],
+    "shared": true,
+    "terms": [
+      "familiarity",
+      "retrieve",
+      "evidence",
+      "conclusion",
+      "approach",
+      "cycle"
+    ]
+  },
+  {
+    "kind": "篇章結構",
+    "name": "共享交通工具",
+    "passage": "A town introduced shared bicycles to help residents make short trips without buying or storing a bicycle. Users could unlock a bicycle at one station and return it at another, paying for the time they used it. [1] Someone could ride from a residential area to a train station and continue by train, for example, rather than having to bring the bicycle back to the original location.\n\nThe service became popular, but its popularity exposed a practical problem. Some stations filled up while others ran out of bicycles. A rider might find the system useful on one day and arrive at an empty station the next. [2] For the person standing at that station, the total number of bicycles elsewhere in town offered little help. Staff needed a way to decide when and where bicycles should be moved.\n\nThe town began recording when bicycles were taken and returned at each station. [3] Workers then moved bicycles between locations at busy times. The records helped them prepare for regular patterns, such as a morning trip toward the train station. However, they did not predict every event: weather changes or a weekend market could produce demand that looked different from a typical weekday.\n\nThe town therefore continued to invite riders to report their experiences. [4] Some residents said they avoided a station because the road leading to it felt unsafe; others wanted clearer signs showing where a bicycle could be returned. These comments supplied information that could not be read directly from the borrowing totals.\n\nPlanners used both sources when considering improvements. The data showed where shortages occurred, while residents' accounts helped explain obstacles along particular routes. Neither source was complete on its own. Together, they helped the town think more carefully about availability, safety, and the different journeys people hoped to make.",
+    "questions": [
+      {
+        "question": "第 1 格",
+        "options": [
+          "This flexibility mattered most to riders whose trips did not begin and end in the same place.",
+          "A service that was convenient overall could still fail a rider at a particular station.",
+          "Those records helped workers anticipate where bicycles were most likely to be needed.",
+          "Numbers alone, however, could not explain how safe or easy a route felt.",
+          "The second payment plan offered a lower price only to riders returning to their starting point."
+        ],
+        "answer": "This flexibility mattered most to riders whose trips did not begin and end in the same place.",
+        "explanation": "前句說不同站借還，This flexibility 回指該彈性；後句以住家到車站接火車且不必騎回為例。",
+        "category": "篇章結構",
+        "id": "structure-v2-05-01"
+      },
+      {
+        "question": "第 2 格",
+        "options": [
+          "This flexibility mattered most to riders whose trips did not begin and end in the same place.",
+          "A service that was convenient overall could still fail a rider at a particular station.",
+          "Those records helped workers anticipate where bicycles were most likely to be needed.",
+          "Numbers alone, however, could not explain how safe or easy a route felt.",
+          "The second payment plan offered a lower price only to riders returning to their starting point."
+        ],
+        "answer": "A service that was convenient overall could still fail a rider at a particular station.",
+        "explanation": "前句對比平日好用和空站無車，選項指出整體便利仍可能在個別站失效；後句說別處有車對空站使用者無幫助。",
+        "category": "篇章結構",
+        "id": "structure-v2-05-02"
+      },
+      {
+        "question": "第 3 格",
+        "options": [
+          "This flexibility mattered most to riders whose trips did not begin and end in the same place.",
+          "A service that was convenient overall could still fail a rider at a particular station.",
+          "Those records helped workers anticipate where bicycles were most likely to be needed.",
+          "Numbers alone, however, could not explain how safe or easy a route felt.",
+          "The second payment plan offered a lower price only to riders returning to their starting point."
+        ],
+        "answer": "Those records helped workers anticipate where bicycles were most likely to be needed.",
+        "explanation": "前句開始記錄各站借還時間，Those records 回指紀錄；後句工作人員依需求於尖峰移動車輛。",
+        "category": "篇章結構",
+        "id": "structure-v2-05-03"
+      },
+      {
+        "question": "第 4 格",
+        "options": [
+          "This flexibility mattered most to riders whose trips did not begin and end in the same place.",
+          "A service that was convenient overall could still fail a rider at a particular station.",
+          "Those records helped workers anticipate where bicycles were most likely to be needed.",
+          "Numbers alone, however, could not explain how safe or easy a route felt.",
+          "The second payment plan offered a lower price only to riders returning to their starting point."
+        ],
+        "answer": "Numbers alone, however, could not explain how safe or easy a route felt.",
+        "explanation": "前句說繼續徵求使用者回饋，選項指出數字無法說明安全與便利感；後句舉不安全道路和標示問題為例。",
+        "category": "篇章結構",
+        "id": "structure-v2-05-04"
+      }
+    ],
+    "shared": true,
+    "terms": [
+      "availability",
+      "anticipate",
+      "shortage",
+      "flexibility",
+      "route",
+      "feedback"
+    ]
+  },
+  {
+    "kind": "混合題型",
+    "name": "聲音地圖與校園設計",
+    "passage": "When a school decided to redesign its courtyard, students were asked what they noticed about the space. Many mentioned the sound of traffic, yet others remembered birds singing in the morning. A teacher suggested making a sound map before anyone proposed a new design. The map would not describe the place as simply noisy or quiet. Instead, it would show what sounds people heard, where they heard them, and when those sounds changed.\n\nStudents worked in groups for two weeks. They visited four locations at the same times each day, made short recordings, and wrote down activities they could see nearby. They noticed a pattern of changes in sound across the school day. For instance, one corner was quiet before class but filled with conversations after lunch. The group discovered that a single afternoon recording could not represent that location throughout the day.\n\nThe students also asked classmates which places helped them concentrate. Their answers were not identical. Some preferred complete quiet, while others found a low level of conversation comfortable. A few students pointed out that the recordings could miss sounds outside the microphone's range. The class therefore treated the map as a starting point for discussion, not as a perfect measure of everyone's experience.\n\nUsing the map and the interviews, the design team suggested a seating area farther from the road and a separate space where groups could talk. The proposals had to fit the school's limited budget, so not every suggestion could be adopted immediately. Teachers planned to collect more feedback after the changes and compare it with the earlier observations.\n\nThe project changed how the students thought about evidence. Numbers and recordings made certain features easier to notice, but they did not decide on their own what a good courtyard should be. To interpret the information responsibly, the students also had to consider the conditions under which it was collected and the different needs of the people using the space.",
+    "terms": [
+      "courtyard",
+      "pattern",
+      "concentrate",
+      "interpret",
+      "adopt"
+    ],
+    "shared": false,
+    "questions": [
+      {
+        "type": "short",
+        "question": "Complete the summary with ONE word from the passage. The sound map revealed a repeated ______ in how the courtyard sounded during the day.",
+        "options": [],
+        "answer": "pattern",
+        "acceptable_answers": [
+          "pattern"
+        ],
+        "explanation": "第二段直接以 pattern 描述一天中反覆出現的聲音變化；summary 中 a repeated 後需接單數名詞。",
+        "category": "填充與簡答",
+        "id": "mixed-v2-01-01"
+      },
+      {
+        "type": "short",
+        "question": "Complete the sentence using the verb interpret from the passage, changing its form if necessary. Students first collected recordings and later ______ the information in light of users’ different needs.",
+        "options": [],
+        "answer": "interpreted",
+        "acceptable_answers": [
+          "interpreted"
+        ],
+        "explanation": "末段的 interpret 指解讀資訊；題幹 later 與 collected 並列，需過去式 interpreted。",
+        "category": "填充與簡答",
+        "id": "mixed-v2-01-02"
+      },
+      {
+        "type": "multiple",
+        "question": "Which statements are supported by the passage? Select ALL that apply.",
+        "options": [
+          "Students recorded sounds at the same times on different days.",
+          "Every student preferred complete quiet for concentration.",
+          "The class considered limitations of the recording equipment.",
+          "All suggested changes were installed immediately.",
+          "Interviews were used along with the sound map.",
+          "The map was considered sufficient to define a good courtyard without further discussion."
+        ],
+        "answer": [
+          "Students recorded sounds at the same times on different days.",
+          "The class considered limitations of the recording equipment.",
+          "Interviews were used along with the sound map."
+        ],
+        "acceptable_answers": [],
+        "explanation": "文中提到固定時段錄音、麥克風收音範圍有限，並結合訪談；偏好因人而異，預算限制部分建議，地圖也不是唯一決策依據。",
+        "category": "多選與整合",
+        "id": "mixed-v2-01-03"
+      },
+      {
+        "type": "short",
+        "question": "What four-word phrase in the third paragraph describes the level of conversation that some students found comfortable? Copy the phrase without the article “a.”",
+        "options": [],
+        "answer": "low level of conversation",
+        "acceptable_answers": [
+          "low level of conversation"
+        ],
+        "explanation": "第三段寫 some found “a low level of conversation” comfortable；依題幹去掉冠詞 a，保留 low level of conversation。",
+        "category": "填充與簡答",
+        "id": "mixed-v2-01-04"
+      }
+    ]
+  },
+  {
+    "kind": "混合題型",
+    "name": "街區降溫計畫",
+    "passage": "Residents of a neighborhood often complained that a paved square became uncomfortable during summer afternoons. A local group wanted to lower the heat, but members disagreed about what should be done first. Some favored planting trees, while others wanted covered benches or a water fountain. Before choosing, the group organized a small observation project with a nearby school.\n\nStudents measured temperatures at several points in the square over two weeks. They took readings at the same times and noted whether each point was in shade or direct sunlight. The measurements showed differences across the square, but the students were careful not to assume that every difference was caused only by shade. The surface material and the time since watering could also affect a reading. To avoid drawing a premature conclusion, they recorded those conditions beside the numbers.\n\nInterviews added another dimension. Older residents said they needed seats with backs, while parents wanted an open area where children could be seen easily. Some people wanted trees, but they also worried that roots might damage the paving. The town's design team therefore proposed combining several approaches: young trees in suitable spaces, movable chairs, and a shaded structure near the bus stop. Because mature shade would take time to develop, the structure would provide relief sooner.\n\nThe plan was tested for one summer. Students repeated their measurements, and volunteers counted how many people used the seating area. These observations could indicate whether conditions were changing, but they could not determine everyone's reasons for visiting. The group also collected comments from people who used the square at different times of day.\n\nThe results helped the town revise its plan. One design change improved comfort in one place, yet the comments showed that access to water and ease of movement mattered too. Rather than search for a single universal solution, the group learned to combine measurements with local experience, while recognizing that each source of information had limits.",
+    "terms": [
+      "premature",
+      "dimension",
+      "mature",
+      "indicate",
+      "revise"
+    ],
+    "shared": false,
+    "questions": [
+      {
+        "type": "short",
+        "question": "Complete the summary using ONE word from the passage. Recording additional conditions helped students avoid a ______ conclusion about the cause of temperature differences.",
+        "options": [],
+        "answer": "premature",
+        "acceptable_answers": [
+          "premature"
+        ],
+        "explanation": "第二段明說學生記錄其他條件是為避免過早下結論；premature 為形容詞，修飾 conclusion。",
+        "category": "填充與簡答",
+        "id": "mixed-v2-02-01"
+      },
+      {
+        "type": "short",
+        "question": "Complete with the verb revise from the passage, changing its form if necessary. After the trial, the town ______ the plan in response to what it learned.",
+        "options": [],
+        "answer": "revised",
+        "acceptable_answers": [
+          "revised"
+        ],
+        "explanation": "末段表示 town revise its plan；題幹 after the trial 指已完成動作，需過去式 revised。",
+        "category": "填充與簡答",
+        "id": "mixed-v2-02-02"
+      },
+      {
+        "type": "multiple",
+        "question": "Which statements are supported by the passage? Select ALL that apply.",
+        "options": [
+          "The students recorded whether measuring points were shaded.",
+          "The group concluded that shade was the only possible cause of every difference.",
+          "The design included both vegetation and a built source of shade.",
+          "Counts of visitors revealed each person’s reason for visiting.",
+          "Residents’ comments informed changes to the plan.",
+          "All trees provided mature shade as soon as they were planted."
+        ],
+        "answer": [
+          "The students recorded whether measuring points were shaded.",
+          "The design included both vegetation and a built source of shade.",
+          "Residents’ comments informed changes to the plan."
+        ],
+        "acceptable_answers": [],
+        "explanation": "文章記錄遮陰情況，設計結合樹木與遮陰設施，居民意見也促成調整；其他因素可能影響溫差，人數不等於動機，樹木也需要時間長大。",
+        "category": "多選與整合",
+        "id": "mixed-v2-02-03"
+      },
+      {
+        "type": "short",
+        "question": "What two-word phrase in the fourth paragraph refers to the observations taken again during the summer trial? Copy the phrase after the word “repeated.”",
+        "options": [],
+        "answer": "their measurements",
+        "acceptable_answers": [
+          "their measurements"
+        ],
+        "explanation": "第四段寫 students repeated their measurements；題幹已提供 repeated，填入 their measurements。",
+        "category": "填充與簡答",
+        "id": "mixed-v2-02-04"
+      }
+    ]
+  },
+  {
+    "kind": "混合題型",
+    "name": "圖書館借用工具的選擇",
+    "passage": "A town library once offered only books and magazines. As residents began asking about other ways to learn, librarians considered lending tools for simple repairs. A drill or a sewing machine might be used only a few times a year by one household, yet many households could benefit from sharing the same item. The idea sounded straightforward, but the library had to decide what a responsible lending service would involve.\n\nStaff members began by asking residents which objects they needed and whether they had experience using them. The answers showed interest in a wide range of equipment, from hand tools to sewing machines. The librarians could not buy every item on the list. They evaluated each request by considering cost, storage space, the chance of damage, and the instructions a beginner would need.\n\nFor the first trial, the library selected a small group of items and prepared short guides. Borrowers had to agree to return each object on time, and volunteers inspected it between loans. If an item was damaged, staff checked whether it could be repaired safely. The library also organized demonstrations because access to equipment alone did not guarantee that people would feel confident using it.\n\nAfter three months, the most frequently borrowed tool was not the one staff had predicted. The figures showed demand, but they did not explain whether people avoided other objects because those objects were unnecessary or because the instructions were unclear. To investigate, the librarians invited borrowers and people who had not borrowed anything to share their experiences. Several participants suggested clearer photographs, and one workshop was moved to a more convenient time.\n\nThe library continued to revise the collection after the trial. It did not treat a low borrowing count as automatic proof that an item lacked value. The staff recognized that a useful service requires more than supplying objects: people must be able to understand, reach, and safely use what is available.",
+    "terms": [
+      "evaluated",
+      "inspect",
+      "guarantee",
+      "demand",
+      "revise"
+    ],
+    "shared": false,
+    "questions": [
+      {
+        "type": "short",
+        "question": "Complete with ONE word from the passage. The staff ______ each request by considering cost, storage, possible damage, and instructions.",
+        "options": [],
+        "answer": "evaluated",
+        "acceptable_answers": [
+          "evaluated"
+        ],
+        "explanation": "第二段用 evaluated 說明館員考量各項條件後評估需求；題幹為過去事件，填 evaluated。",
+        "category": "填充與簡答",
+        "id": "mixed-v2-03-01"
+      },
+      {
+        "type": "short",
+        "question": "Complete with ONE word from the passage, changing its form if necessary. The organizers offered demonstrations because lending an item did not ______ that a borrower could use it confidently.",
+        "options": [],
+        "answer": "guarantee",
+        "acceptable_answers": [
+          "guarantee"
+        ],
+        "explanation": "第三段說 access alone did not guarantee 信心；did not 後接原形 guarantee。",
+        "category": "填充與簡答",
+        "id": "mixed-v2-03-02"
+      },
+      {
+        "type": "multiple",
+        "question": "Which statements are supported by the passage? Select ALL that apply.",
+        "options": [
+          "The library considered storage space before selecting equipment.",
+          "Borrowing figures alone explained why some objects were rarely borrowed.",
+          "Volunteers checked items between loans.",
+          "Some participants suggested clearer photographs, and one workshop was moved to a more convenient time.",
+          "The trial included every object residents requested.",
+          "The librarians treated every low count as proof that an item had no value."
+        ],
+        "answer": [
+          "The library considered storage space before selecting equipment.",
+          "Volunteers checked items between loans.",
+          "Some participants suggested clearer photographs, and one workshop was moved to a more convenient time."
+        ],
+        "acceptable_answers": [],
+        "explanation": "館員先考慮空間，志工在借用之間檢查物品，參與者建議改善照片且工作坊調整時間。借用數字不能單獨解釋原因，試辦也未納入所有要求。",
+        "category": "多選與整合",
+        "id": "mixed-v2-03-03"
+      },
+      {
+        "type": "short",
+        "question": "What two-word phrase in the third paragraph refers to the documents prepared to help borrowers use the items?",
+        "options": [],
+        "answer": "short guides",
+        "acceptable_answers": [
+          "short guides"
+        ],
+        "explanation": "第三段說圖書館選定物品後 prepared short guides，即準備簡短指引。",
+        "category": "填充與簡答",
+        "id": "mixed-v2-03-04"
+      }
+    ]
+  },
+  {
+    "kind": "混合題型",
+    "name": "河岸觀測與防洪溝通",
+    "passage": "A stream beside a town park rose quickly after heavy rain. Engineers had installed devices to record water levels, but some residents still felt uncertain about what those numbers meant. A community group proposed a project that would connect the measurements with clear public explanations. Its aim was not to predict every flood. Instead, the group wanted residents to understand both what the devices could show and what they could not show.\n\nVolunteers checked the devices against marked scales at several times during the day. When a reading seemed unusual, they reported it rather than silently changing it. They also recorded recent rainfall and noted whether leaves or other material blocked the channel. These observations offered context for interpreting the water-level record, although they did not reveal every condition upstream.\n\nThe group then worked with the town office to create a display near the park. It showed the latest reading beside a simple explanation of normal seasonal changes. A separate warning message was reserved for conditions that met the town's established safety rules. The distinction mattered: an unusually high reading could deserve attention without automatically requiring the same response as an official warning.\n\nAt an open meeting, residents asked whether the display made the park completely safe during storms. The organizers answered carefully. The display could provide timely information, but a device could fail, and water could rise rapidly between readings. People should therefore follow official warnings and avoid entering the channel during dangerous weather. The team invited questions so that confusing language on the display could be revised.\n\nAfter the first season, the group compared reports from volunteers with comments from residents. A few people had confused the latest reading with a forecast of future water levels. In response, the team added a label explaining that the display described the present, not a guaranteed prediction. The project demonstrated how a measurement can become more useful when its purpose and limitations are communicated clearly.",
+    "terms": [
+      "measurement",
+      "context",
+      "distinction",
+      "timely",
+      "forecast"
+    ],
+    "shared": false,
+    "questions": [
+      {
+        "type": "short",
+        "question": "Complete with ONE word from the passage. The extra notes gave volunteers ______ for interpreting the water-level record.",
+        "options": [],
+        "answer": "context",
+        "acceptable_answers": [
+          "context"
+        ],
+        "explanation": "第二段指出降雨與通道狀況等補充觀察，為解讀水位紀錄提供 context（脈絡）。",
+        "category": "填充與簡答",
+        "id": "mixed-v2-04-01"
+      },
+      {
+        "type": "short",
+        "question": "Complete with ONE word from the passage. Following the meeting, confusing language on the display could be ______.",
+        "options": [],
+        "answer": "revised",
+        "acceptable_answers": [
+          "revised"
+        ],
+        "explanation": "第四段說明團隊邀請提問，以便修訂展示板令人困惑的文字；could be 後接過去分詞 revised。",
+        "category": "填充與簡答",
+        "id": "mixed-v2-04-02"
+      },
+      {
+        "type": "multiple",
+        "question": "Which statements are supported by the passage? Select ALL that apply.",
+        "options": [
+          "Volunteers reported readings that seemed unusual.",
+          "The display was designed to guarantee that the park was safe during storms.",
+          "An unusual reading was distinguished from an official warning.",
+          "The team revised the display after learning that some residents misunderstood it.",
+          "The devices revealed every upstream condition.",
+          "The latest reading was intended to guarantee a forecast."
+        ],
+        "answer": [
+          "Volunteers reported readings that seemed unusual.",
+          "An unusual reading was distinguished from an official warning.",
+          "The team revised the display after learning that some residents misunderstood it."
+        ],
+        "acceptable_answers": [],
+        "explanation": "志工通報異常讀數，文章區分異常與官方警報，並在發現誤解後修改展示內容；設備不保證安全，也無法涵蓋所有上游情況或保證預測。",
+        "category": "多選與整合",
+        "id": "mixed-v2-04-03"
+      },
+      {
+        "type": "short",
+        "question": "What two-word phrase in the third paragraph refers to the current water-level information shown beside an explanation? Do not include the article.",
+        "options": [],
+        "answer": "latest reading",
+        "acceptable_answers": [
+          "latest reading"
+        ],
+        "explanation": "第三段說展示板把最新讀數（the latest reading）與季節變化說明放在一起。",
+        "category": "填充與簡答",
+        "id": "mixed-v2-04-04"
+      }
+    ]
+  },
+  {
+    "kind": "混合題型",
+    "name": "社區故事與資料保存",
+    "passage": "A neighborhood history project invited residents to share memories of a market that had closed years earlier. The organizers hoped to understand how the market had changed, but they soon discovered that collecting stories raised questions as well as answers. Two people could remember the same event differently, and a photograph did not always show when or why a particular change had occurred.\n\nThe team interviewed former sellers, customers, and nearby residents. Each participant could choose whether a recording would be shared publicly or kept only for the research team. Before an interview, volunteers explained that a person could decline to answer a question. The project also invited participants to review written summaries, so that a mistake in a name or date could be corrected before publication.\n\nWhen accounts disagreed, the team did not automatically choose the story told by the most confident speaker. Instead, they looked for other evidence, such as newspaper notices and dated photographs. Even then, a newspaper might record an official opening while a seller remembered an earlier informal trial. The two dates could differ without either person deliberately giving false information. The team described the uncertainty rather than forcing every account into one exact timeline.\n\nThe collection eventually became an online exhibition. Visitors could explore photographs, listen to selected recordings, and read short notes explaining where the material came from. A few participants allowed their words to be quoted but did not want their full names displayed. The organizers respected those choices and checked permissions again before the exhibition opened.\n\nThe project taught the volunteers that preserving a community's history involves more than gathering a large number of stories. The source and conditions of each account matter, as do the wishes of the people who shared it. A careful account can leave some questions open while making clear what is known, what remains uncertain, and why.",
+    "terms": [
+      "decline",
+      "evidence",
+      "uncertainty",
+      "permissions",
+      "preserving"
+    ],
+    "shared": false,
+    "questions": [
+      {
+        "type": "short",
+        "question": "Complete with ONE word from the passage. Participants could ______ to answer an interview question.",
+        "options": [],
+        "answer": "decline",
+        "acceptable_answers": [
+          "decline"
+        ],
+        "explanation": "第二段明說受訪者可以 decline to answer，即選擇不回答問題。",
+        "category": "填充與簡答",
+        "id": "mixed-v2-05-01"
+      },
+      {
+        "type": "short",
+        "question": "Complete with the verb describe from the passage, changing its form if necessary. When memories differed, the team ______ the uncertainty instead of forcing a single timeline.",
+        "options": [],
+        "answer": "described",
+        "acceptable_answers": [
+          "described"
+        ],
+        "explanation": "第三段寫 the team described the uncertainty；題幹敘述過去動作，應填過去式 described。",
+        "category": "填充與簡答",
+        "id": "mixed-v2-05-02"
+      },
+      {
+        "type": "multiple",
+        "question": "Which statements are supported by the passage? Select ALL that apply.",
+        "options": [
+          "Participants could choose how their recordings would be shared.",
+          "The team accepted the most confident speaker as automatically correct.",
+          "An official opening and an informal trial could occur on different dates.",
+          "Some participants permitted quotations without displaying their full names.",
+          "The organizers resolved every uncertainty before publishing.",
+          "All photographs automatically established the reasons for every change."
+        ],
+        "answer": [
+          "Participants could choose how their recordings would be shared.",
+          "An official opening and an informal trial could occur on different dates.",
+          "Some participants permitted quotations without displaying their full names."
+        ],
+        "acceptable_answers": [],
+        "explanation": "參與者可選擇分享方式，正式開幕與非正式試行可能不同日，部分受訪者允許匿名引用；團隊保留不確定性，也未單憑自信或照片判定所有事實。",
+        "category": "多選與整合",
+        "id": "mixed-v2-05-03"
+      },
+      {
+        "type": "short",
+        "question": "What two-word phrase in the second paragraph refers to the texts participants could check before publication?",
+        "options": [],
+        "answer": "written summaries",
+        "acceptable_answers": [
+          "written summaries"
+        ],
+        "explanation": "第二段指出 participants could review written summaries，以便在發布前更正姓名或日期錯誤。",
+        "category": "填充與簡答",
+        "id": "mixed-v2-05-04"
+      }
     ]
   }
 ]

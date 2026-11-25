@@ -1,6 +1,6 @@
 [
   {
-    "question": "When the director resigned, Maya agreed to _____ responsibility for the unfinished project.",
+    "question": "When the director resigned, Maya agreed to _____ responsibility for the unfinished project and take charge of it herself.",
     "options": [
       "shoulder",
       "avoid",
@@ -8,8 +8,9 @@
       "transfer"
     ],
     "answer": "shoulder",
-    "explanation": "shoulder responsibility 指承擔責任。Maya 同意接手未完成的計畫，因此是承擔責任；avoid 是逃避，transfer 是轉移。",
-    "category": "詞義遷移"
+    "explanation": "shoulder responsibility 指承擔責任。Maya 同意接手未完成的計畫，因此是承擔責任；avoid 是逃避，transfer 是轉移。 選項解析：shoulder：承擔，本題正解；avoid：避免，逃避責任，與親自接手相反；divide：分開，分配責任，非自行承擔；transfer：轉移，轉移責任，與自己負責相反。",
+    "category": "詞義遷移",
+    "id": "vocab-v2-001"
   },
   {
     "question": "Several errors in the experiment have _____ serious doubts about the reliability of its results.",
@@ -20,8 +21,9 @@
       "risen"
     ],
     "answer": "raised",
-    "explanation": "raise doubts 指引起疑慮。lift 偏移動物體；grow 不作此搭配；rise 是不及物動詞。",
-    "category": "搭配精確"
+    "explanation": "raise doubts 指引起疑慮。lift 偏移動物體；grow 不作此搭配；rise 是不及物動詞。 選項解析：lifted：舉起，常指抬起實物，不用來表示引起疑慮；raised：引起；提出（raise 的過去式或過去分詞），本題正解；grown：成長（過去分詞），grow 作不及物動詞時不能直接接 doubts；risen：上升（過去分詞），rise 為不及物動詞，不能直接接受詞。",
+    "category": "搭配精確",
+    "id": "vocab-v2-002"
   },
   {
     "question": "The new wing of the museum _____ a collection of instruments that once belonged to local musicians.",
@@ -32,23 +34,25 @@
       "purchases"
     ],
     "answer": "houses",
-    "explanation": "house 作動詞可指容納或收藏。主詞是博物館的新館，受詞是館藏樂器。",
-    "category": "詞義遷移"
+    "explanation": "house 作動詞可指容納或收藏。主詞是博物館的新館，受詞是館藏樂器。 選項解析：houses：容納；收藏，本題正解；visits：拜訪，館舍不能主動參觀樂器；creates：創造，新館並未創造這批舊樂器；purchases：購買，館舍不能自行購買物品。",
+    "category": "詞義遷移",
+    "id": "vocab-v2-003"
   },
   {
-    "question": "The mayor was asked to explain rising bus fares, but her speech never _____ the issue.",
+    "question": "At its next meeting, the school board will _____ the safety concerns raised by parents and discuss ways to resolve them.",
     "options": [
-      "addressed",
-      "caused",
-      "ignored",
-      "announced"
+      "address",
+      "overlook",
+      "postpone",
+      "translate"
     ],
-    "answer": "addressed",
-    "explanation": "address an issue 是處理或談論議題；but 表示雖然市長被問及票價，演說卻沒有談到這個問題。",
-    "category": "詞義遷移"
+    "answer": "address",
+    "explanation": "address a concern 表處理疑慮，與下一次會議討論問題相符。overlook 是忽略；postpone 常接會議或決定；translate 是翻譯，均不符合此處。",
+    "category": "熟字偏義",
+    "id": "vocab-v2-004"
   },
   {
-    "question": "The plan met with _____ opposition from residents, who organized protests and refused to accept it.",
+    "question": "The plan met with _____ opposition from residents, who organized large, noisy protests and refused to accept it.",
     "options": [
       "fierce",
       "slight",
@@ -56,8 +60,9 @@
       "friendly"
     ],
     "answer": "fierce",
-    "explanation": "fierce opposition 指強烈反對；居民組織抗議並拒絕接受計畫，是反對強烈的線索。",
-    "category": "抽象搭配"
+    "explanation": "fierce opposition 指強烈反對；居民組織抗議並拒絕接受計畫，是反對強烈的線索。 選項解析：fierce：激烈的，本題正解；slight：輕微的，抗議規模大且嘈雜，不屬輕微反對；silent：安靜的，noisy 與安靜相反；friendly：友善的，拒絕計畫並組織大型抗議，不是友善支持。",
+    "category": "抽象搭配",
+    "id": "vocab-v2-005"
   },
   {
     "question": "The police decided that the new evidence was strong enough to _____ a further investigation.",
@@ -68,8 +73,9 @@
       "complete"
     ],
     "answer": "require",
-    "explanation": "require 意為需要。新證據充分到有必要進一步調查；avoid 是避免，replace 是取代，complete 是完成。",
-    "category": "語境判斷"
+    "explanation": "require 意為需要。新證據充分到有必要進一步調查；avoid 是避免，replace 是取代，complete 是完成。 選項解析：require：需要，本題正解；avoid：避免，避免調查與證據足以要求進一步調查相反；replace：取代；更換，新證據不能取代調查程序；complete：完成；完整的，證據充分並不表示調查已完成。",
+    "category": "語境判斷",
+    "id": "vocab-v2-006"
   },
   {
     "question": "The team underestimated the _____ of work involved and had to hire three more assistants.",
@@ -80,8 +86,9 @@
       "age"
     ],
     "answer": "volume",
-    "explanation": "the volume of work 指工作量。work 在此不可數，不能用 number of work；其餘選項與工作量無關。",
-    "category": "抽象搭配"
+    "explanation": "the volume of work 指工作量。work 在此不可數，不能用 number of work；其餘選項與工作量無關。 選項解析：volume：量，本題正解；number：數量，work 在此為不可數名詞，number 不直接接 work；height：高度，高度不表示工作總量；age：年齡，年齡不表示工作總量。",
+    "category": "抽象搭配",
+    "id": "vocab-v2-007"
   },
   {
     "question": "Although she doubts the plan will succeed, the manager is willing to _____ the possibility that she is wrong.",
@@ -92,8 +99,9 @@
       "hide"
     ],
     "answer": "consider",
-    "explanation": "consider the possibility 指考慮某種可能性。although 和 willing 提示她雖然懷疑計畫，仍願意考慮自己可能有錯。",
-    "category": "語境判斷"
+    "explanation": "consider the possibility 指考慮某種可能性。although 和 willing 提示她雖然懷疑計畫，仍願意考慮自己可能有錯。 選項解析：consider：考慮，本題正解；deny：否認，否認自己可能有錯，與願意考慮相反；ignore：忽視，忽視可能性不合 willing to 的轉折；hide：隱藏，隱藏可能性不是思考自己是否有錯。",
+    "category": "語境判斷",
+    "id": "vocab-v2-008"
   },
   {
     "question": "Leo admitted that he had falsely accused his classmate and said he was truly sorry. He offered a _____ apology.",
@@ -104,8 +112,9 @@
       "insincere"
     ],
     "answer": "sincere",
-    "explanation": "sincere 是真誠的；承認錯誤並表示真心抱歉，說明道歉出於真心。forced 是勉強的，insincere 是不真誠的。",
-    "category": "抽象搭配"
+    "explanation": "sincere 是真誠的；承認錯誤並表示真心抱歉，說明道歉出於真心。forced 是勉強的，insincere 是不真誠的。 選項解析：sincere：真誠的，本題正解；forced：被迫的，真心道歉不表示被迫；careless：不小心的，認錯並真心道歉，不是粗心的態度；insincere：不真誠的，真心抱歉與不真誠相反。",
+    "category": "抽象搭配",
+    "id": "vocab-v2-009"
   },
   {
     "question": "The witness gave the police a detailed _____ of what she had seen outside the station.",
@@ -116,8 +125,9 @@
       "score"
     ],
     "answer": "account",
-    "explanation": "an account of an event 是事件敘述。account 不只有銀行帳戶的意思。",
-    "category": "詞義遷移"
+    "explanation": "an account of an event 是事件敘述。account 不只有銀行帳戶的意思。 選項解析：deposit：存款；押金，存款或押金不表示目擊經過；account：敘述，本題正解；bill：帳單；法案，帳單不表示目擊經過；score：分數，分數不表示目擊經過。",
+    "category": "詞義遷移",
+    "id": "vocab-v2-010"
   },
   {
     "question": "The reports seem to disagree, but the _____ contradiction disappears once their different definitions are explained.",
@@ -128,8 +138,9 @@
       "growing"
     ],
     "answer": "apparent",
-    "explanation": "apparent 在此指表面上的；不同定義釐清後矛盾便消失，表示矛盾只是表面現象。",
-    "category": "語境限制"
+    "explanation": "apparent 在此指表面上的；不同定義釐清後矛盾便消失，表示矛盾只是表面現象。 選項解析：apparent：表面上的；明顯的，本題正解；permanent：永久的，永久的矛盾與釐清後消失相反；actual：實際的，實際矛盾不會只因定義澄清而消失；growing：增長的，逐漸擴大的矛盾與後文消失不符。",
+    "category": "語境限制",
+    "id": "vocab-v2-011"
   },
   {
     "question": "To avoid a conflict of interest, committee members should _____ from voting on projects proposed by their relatives.",
@@ -140,20 +151,22 @@
       "recover"
     ],
     "answer": "refrain",
-    "explanation": "refrain from voting 指避免投票；為避免利益衝突，委員應迴避親屬提案的表決。",
-    "category": "搭配與介系詞"
+    "explanation": "refrain from voting 指避免投票；為避免利益衝突，委員應迴避親屬提案的表決。 選項解析：refrain：避免；克制，本題正解；benefit：益處；受益，從投票獲利不等於避免投票；suffer：受苦，因投票受苦不表示迴避表決；recover：恢復，從投票中恢復不合此搭配。",
+    "category": "搭配與介系詞",
+    "id": "vocab-v2-012"
   },
   {
-    "question": "Every repair _____ written permission from the building owner before work can begin.",
+    "question": "The exchange program is designed to give students a chance to collaborate across cultures. By bringing participants together, it will _____ them an opportunity to work with peers from different countries.",
     "options": [
-      "harvests",
-      "collects",
-      "serves",
-      "requires"
+      "afford",
+      "deny",
+      "owe",
+      "cost"
     ],
-    "answer": "requires",
-    "explanation": "require permission 指需要許可。先看 repair 與 permission 的關係，再選可表必要條件的動詞。",
-    "category": "語意角色"
+    "answer": "afford",
+    "explanation": "afford someone an opportunity 為「提供某人機會」。deny 表剝奪機會，與計畫目的相反；owe 是欠；cost 是使付出代價。",
+    "category": "熟字偏義",
+    "id": "vocab-v2-013"
   },
   {
     "question": "The reviewer _____ the guidebook for its clear explanations but criticized its outdated maps.",
@@ -164,20 +177,22 @@
       "rose"
     ],
     "answer": "praised",
-    "explanation": "praise A for B 是因 B 稱讚 A。criticized 的對比提示前半為正面評價；raise、rise、arise 均無此義。",
-    "category": "語境與搭配"
+    "explanation": "praise A for B 是因 B 稱讚 A。criticized 的對比提示前半為正面評價；raise、rise、arise 均無此義。 選項解析：praised：稱讚，本題正解；raised：引起；提出（raise 的過去式或過去分詞），raise 不表示稱讚；arose：出現；產生（過去式），arise 是不及物動詞，不能直接接受詞；rose：上升（過去式），rise 是不及物動詞，不能直接接受詞。",
+    "category": "語境與搭配",
+    "id": "vocab-v2-014"
   },
   {
-    "question": "The engineer proposed a _____ approach that no one in the laboratory had tried before.",
+    "question": "The engineer proposed a _____ approach based on an original idea unlike anything researchers in the field had used before.",
     "options": [
       "routine",
       "conventional",
       "novel",
-      "periodic"
+      "standard"
     ],
     "answer": "novel",
-    "explanation": "novel 作形容詞是新穎的。routine、conventional 與從未試過衝突；periodic 表週期性的。",
-    "category": "詞性與多義"
+    "explanation": "novel 作形容詞是新穎的；題幹明示這是有別於現有方法的原創構想。routine 指例行的，conventional 和 standard 指傳統或標準的，均與獨創的新方法相反。 選項解析：routine：例行的，例行方法與獨創的新方法相反；conventional：傳統的，傳統慣用方法與原創構想相反；novel：新穎的，本題正解；standard：標準的；一般的，標準方法不符合與既有方法不同的線索。",
+    "category": "詞性與多義",
+    "id": "vocab-v2-015"
   },
   {
     "question": "Since she had heard only one side of the story, the teacher decided to _____ her decision until she had spoken to both students.",
@@ -188,8 +203,9 @@
       "repeat"
     ],
     "answer": "delay",
-    "explanation": "delay a decision 指延後決定；老師要先聽取雙方說法，所以暫時不做決定。",
-    "category": "語境判斷"
+    "explanation": "delay a decision 指延後決定；老師要先聽取雙方說法，所以暫時不做決定。 選項解析：delay：延後，本題正解；announce：宣布，在聽完雙方前宣布，違反等待線索；defend：捍衛，捍衛決定不表示延後決定；repeat：重複，重複決定不表示先聽完雙方。",
+    "category": "語境判斷",
+    "id": "vocab-v2-016"
   },
   {
     "question": "Popularity does not necessarily _____ accuracy. A widely shared claim could still lack evidence.",
@@ -200,8 +216,9 @@
       "guarantee"
     ],
     "answer": "guarantee",
-    "explanation": "很多人轉傳不保證真實；guarantee accuracy 合語意。其餘為打斷、取代、借用。",
-    "category": "語境與搭配"
+    "explanation": "很多人轉傳不保證真實；guarantee accuracy 合語意。其餘為打斷、取代、借用。 選項解析：replace：取代；更換，受歡迎不能「取代」正確性，後句談有無保證；borrow：借入，借用不表兩者的保證關係；interrupt：打斷，打斷不表兩者的保證關係；guarantee：保證，本題正解。",
+    "category": "語境與搭配",
+    "id": "vocab-v2-017"
   },
   {
     "question": "The teacher asked students to _____ between direct observations and personal opinions.",
@@ -212,11 +229,12 @@
       "emphasize"
     ],
     "answer": "distinguish",
-    "explanation": "distinguish between A and B 表示區分 A 與 B；此處要區分直接觀察與個人意見。emphasize 是強調，persuade 是說服，participate 是參與。",
-    "category": "語意角色"
+    "explanation": "distinguish between A and B 表示區分 A 與 B；此處要區分直接觀察與個人意見。emphasize 是強調，persuade 是說服，participate 是參與。 選項解析：participate：參與，participate in 是參與，不表區分；distinguish：區分，本題正解；persuade：說服，persuade 是說服，不接 between 表區分；emphasize：強調，emphasize 是強調，不表區分兩類。",
+    "category": "語意角色",
+    "id": "vocab-v2-018"
   },
   {
-    "question": "The students used to ignore evidence, but now they carefully check every claim. The teacher praised this _____ shift in their approach.",
+    "question": "The students used to ignore evidence, but now they carefully check every claim. The teacher praised this lasting _____ shift in their approach, which transformed how the class evaluated information.",
     "options": [
       "significant",
       "temporary",
@@ -224,23 +242,25 @@
       "ordinary"
     ],
     "answer": "significant",
-    "explanation": "significant shift 指重要轉變；從忽略證據到仔細查核每項主張，顯示做法有重大改變。minor 是輕微的。",
-    "category": "抽象搭配"
+    "explanation": "significant shift 指重要轉變；從忽略證據到仔細查核每項主張，顯示做法有重大改變。minor 是輕微的。 選項解析：significant：重要的；重大的，本題正解；temporary：暫時的，lasting 排除暫時性；minor：輕微的，變化已徹底改變評估方式，不只是輕微改變；ordinary：普通的，題幹強調做法被徹底改變，不是平凡例行的變化。",
+    "category": "抽象搭配",
+    "id": "vocab-v2-019"
   },
   {
-    "question": "The school will _____ a new recycling program next semester. It is the first time the school has introduced such a program.",
+    "question": "A careful reader may _____ a mistake in a chart that others have overlooked and point it out to the editor.",
     "options": [
-      "launch",
-      "cancel",
-      "delay",
-      "observe"
+      "spot",
+      "overlook",
+      "create",
+      "repeat"
     ],
-    "answer": "launch",
-    "explanation": "launch a program 指啟動計畫；後句說學校首次推行這類計畫。",
-    "category": "詞義與搭配"
+    "answer": "spot",
+    "explanation": "spot a mistake 指發現錯誤，與 others have overlooked 對比。overlook 是漏看；create 是造成；repeat 是重複，均非此處所指的辨識能力。",
+    "category": "熟字偏義",
+    "id": "vocab-v2-020"
   },
   {
-    "question": "The scientist refused to draw a conclusion until she had collected _____ evidence.",
+    "question": "The scientist refused to draw a conclusion until she had collected _____ evidence to make a reliable decision.",
     "options": [
       "sufficient",
       "unclear",
@@ -248,8 +268,9 @@
       "limited"
     ],
     "answer": "sufficient",
-    "explanation": "sufficient evidence 是充分證據；科學家在收集到足夠證據之前不願下結論。",
-    "category": "語境判斷"
+    "explanation": "sufficient evidence 是充分證據；科學家在收集到足夠證據之前不願下結論。 選項解析：sufficient：充分的，本題正解；unclear：不清楚的，不清楚的證據不能支持可靠結論；conflicting：相互衝突的，彼此衝突的證據不能單憑這點確保可靠結論；limited：有限的，有限的證據不表示已充分到足以判斷。",
+    "category": "語境判斷",
+    "id": "vocab-v2-021"
   },
   {
     "question": "Because the road was blocked by fallen trees, drivers had to take an _____ route.",
@@ -260,8 +281,9 @@
       "invisible"
     ],
     "answer": "alternative",
-    "explanation": "alternative route 指替代路線；道路受阻，所以需要另尋路線。",
-    "category": "語境判斷"
+    "explanation": "alternative route 指替代路線；道路受阻，所以需要另尋路線。 選項解析：alternative：替代的，本題正解；absolute：絕對的，絕對的不是替代路線的意思；ordinary：普通的，原路被擋，需找另一條而非照常路線；invisible：看不見的，看不見的路線不合理。",
+    "category": "語境判斷",
+    "id": "vocab-v2-022"
   },
   {
     "question": "The report _____ that regular exercise can improve health. Its findings show benefits for both the body and the mind.",
@@ -272,8 +294,9 @@
       "overlooks"
     ],
     "answer": "indicates",
-    "explanation": "indicate 表示指出；後句提及研究發現的身心益處，說明報告指出運動有益健康。",
-    "category": "語意角色"
+    "explanation": "indicate 表示指出；後句提及研究發現的身心益處，說明報告指出運動有益健康。 選項解析：indicates：指出；顯示，本題正解；denies：否認，後句說結果顯示益處，與否認相反；questions：質疑；問題，後句支持益處，沒有質疑益處的線索；overlooks：忽略；俯瞰，報告提及身心益處，並非忽略。",
+    "category": "語意角色",
+    "id": "vocab-v2-023"
   },
   {
     "question": "The company promised to _____ the damaged laptop with a new one or return the customer’s money.",
@@ -284,20 +307,22 @@
       "repair"
     ],
     "answer": "replace",
-    "explanation": "replace A with B 指以 B 取代 A；公司承諾換一台新筆電或退款。",
-    "category": "語境判斷"
+    "explanation": "replace A with B 指以 B 取代 A；公司承諾換一台新筆電或退款。 選項解析：replace：取代；更換，本題正解；inspect：檢查，inspect 是檢查，不能以新筆電檢查舊筆電表換貨；deliver：遞送，deliver 是運送，不表以新機替代；repair：修理，repair 是修理，不與 with a new one 表換一台新機。",
+    "category": "語境判斷",
+    "id": "vocab-v2-024"
   },
   {
-    "question": "Before sharing a news story, readers should _____ whether its source is trustworthy.",
+    "question": "Because the medicine may cause a serious reaction, patients should seek _____ medical help if they develop a rash.",
     "options": [
-      "verify",
-      "invent",
-      "spread",
-      "ignore"
+      "prompt",
+      "distant",
+      "limited",
+      "previous"
     ],
-    "answer": "verify",
-    "explanation": "verify 是查證；分享新聞前應確認消息來源是否可信。spread 是傳播，ignore 是忽視。",
-    "category": "語境判斷"
+    "answer": "prompt",
+    "explanation": "prompt medical help 是及時醫療協助；可能出現嚴重反應時應迅速就醫。distant 指距離遠；limited 指有限；previous 指先前，均不表及時。",
+    "category": "語境與搭配",
+    "id": "vocab-v2-025"
   },
   {
     "question": "The student apologized for her mistake and promised to take _____ for it.",
@@ -308,8 +333,9 @@
       "attendance"
     ],
     "answer": "responsibility",
-    "explanation": "take responsibility for 表示對某事負責；take advantage of 則是利用。",
-    "category": "搭配與介系詞"
+    "explanation": "take responsibility for 表示對某事負責；take advantage of 則是利用。 選項解析：responsibility：責任，本題正解；temperature：溫度，take temperature 是量體溫，與承擔錯誤無關；advantage：優勢，take advantage 後常接 of，且指利用，不指負責；attendance：出席，take attendance 是點名，不指承擔錯誤。",
+    "category": "搭配與介系詞",
+    "id": "vocab-v2-026"
   },
   {
     "question": "The new rule is intended to _____ students from using their phones during the exam.",
@@ -320,32 +346,35 @@
       "convince"
     ],
     "answer": "prevent",
-    "explanation": "prevent A from V-ing 表示阻止 A 做某事；enable 接 to V。",
-    "category": "搭配與介系詞"
+    "explanation": "prevent A from V-ing 表示阻止 A 做某事；enable 接 to V。 選項解析：prevent：阻止，本題正解；enable：使能夠，enable A to V 是使能夠，且語意與限制相反；remind：提醒，remind A to V 是提醒，句中沒有 to；convince：使相信，convince A to V 是說服，不能用此處 from V-ing。",
+    "category": "搭配與介系詞",
+    "id": "vocab-v2-027"
   },
   {
-    "question": "The museum offers free admission to children, making art more _____ to young visitors.",
+    "question": "After visitors complained that the explanations were too technical, the museum rewrote them to make the information more _____ to people without specialist training.",
     "options": [
       "accessible",
-      "fragile",
-      "reluctant",
-      "punctual"
+      "confidential",
+      "outdated",
+      "identical"
     ],
     "answer": "accessible",
-    "explanation": "accessible 指容易取得或接觸的；免費入場讓兒童更容易接觸藝術。",
-    "category": "語境判斷"
+    "explanation": "accessible 在此指讓一般人容易理解；原本說明過於專業，因此博物館改寫。confidential 是機密的，outdated 是過時的，identical 是相同的，皆不表可理解性。",
+    "category": "熟字偏義",
+    "id": "vocab-v2-028"
   },
   {
-    "question": "Before setting out on the hike, the group filled their bottles so they could _____ enough water for the long walk.",
+    "question": "After several dry weeks, the farm expects its fields to _____ fewer vegetables than they did last year.",
     "options": [
-      "carry",
-      "waste",
-      "hide",
-      "boil"
+      "yield",
+      "demand",
+      "collect",
+      "consume"
     ],
-    "answer": "carry",
-    "explanation": "carry 是攜帶；出發前裝滿水瓶，是為了在長途步行時帶足飲水。",
-    "category": "語境判斷"
+    "answer": "yield",
+    "explanation": "yield 作動詞指土地或作物「產出」；乾旱可能使田地產量降低。demand 是要求、collect 是收集、consume 是消耗，皆不合田地與蔬菜的主受詞關係。",
+    "category": "語意角色",
+    "id": "vocab-v2-029"
   },
   {
     "question": "The manager rejected the proposal because its estimated cost was far beyond the available _____.",
@@ -356,20 +385,22 @@
       "equipment"
     ],
     "answer": "budget",
-    "explanation": "budget 是預算；估計成本遠超出可用預算，因此經理拒絕提案。",
-    "category": "語境判斷"
+    "explanation": "budget 是預算；估計成本遠超出可用預算，因此經理拒絕提案。 選項解析：budget：預算，本題正解；schedule：時程，費用不能超過時程；staff：員工，費用不能直接與員工人數相比；equipment：設備，費用不能直接與設備相比。",
+    "category": "語境判斷",
+    "id": "vocab-v2-030"
   },
   {
-    "question": "The teacher encouraged students to _____ questions instead of accepting every claim without thought.",
+    "question": "The researchers would not _____ a conclusion until they had checked whether the results could be repeated.",
     "options": [
-      "raise",
-      "rise",
-      "arise",
-      "arouse"
+      "draw",
+      "paint",
+      "borrow",
+      "purchase"
     ],
-    "answer": "raise",
-    "explanation": "raise questions 是提出問題；rise、arise 為不及物動詞。",
-    "category": "易混淆字"
+    "answer": "draw",
+    "explanation": "draw a conclusion 是「得出結論」的固定搭配；研究者先確認結果可重現。paint 是繪畫、borrow 是借入、purchase 是購買，不用來表此意。",
+    "category": "抽象搭配",
+    "id": "vocab-v2-031"
   },
   {
     "question": "Although the two paintings look similar at first, a closer look _____ several differences.",
@@ -380,8 +411,9 @@
       "creates"
     ],
     "answer": "reveals",
-    "explanation": "reveal 是顯露；仔細觀察後可看出兩幅畫的差異。conceal 是隱藏。",
-    "category": "語境判斷"
+    "explanation": "reveal 是顯露；仔細觀察後可看出兩幅畫的差異。conceal 是隱藏。 選項解析：reveals：顯露，本題正解；conceals：隱藏，仔細看是讓差異顯現，不是隱藏差異；reduces：減少，觀察不會減少畫作原有差異；creates：創造，觀察不會創造畫作間的差異。",
+    "category": "語境判斷",
+    "id": "vocab-v2-032"
   },
   {
     "question": "The government introduced a tax on plastic bags in an effort to _____ their use.",
@@ -392,56 +424,61 @@
       "retain"
     ],
     "answer": "reduce",
-    "explanation": "reduce 是減少；課稅目的在降低塑膠袋使用量。",
-    "category": "語境判斷"
+    "explanation": "reduce 是減少；課稅目的在降低塑膠袋使用量。 選項解析：reduce：減少，本題正解；resume：重新開始，重新開始使用與減少塑膠袋政策相反；restore：恢復，恢復使用與降低用量相反；retain：保留，保留使用量不表示降低。",
+    "category": "語境判斷",
+    "id": "vocab-v2-033"
   },
   {
-    "question": "The author supports her argument with examples rather than making a claim without _____.",
+    "question": "Before changing the rule, the committee asked for _____ evidence that the current system was causing harm.",
     "options": [
-      "evidence",
-      "permission",
-      "warning",
-      "difficulty"
+      "solid",
+      "hollow",
+      "portable",
+      "seasonal"
     ],
-    "answer": "evidence",
-    "explanation": "evidence 是證據；作者舉例支持論點，而不是提出沒有證據的主張。",
-    "category": "語境判斷"
+    "answer": "solid",
+    "explanation": "solid evidence 是扎實可靠的證據，委員會需證據支持修改規定。hollow 是空心的；portable 是可攜帶的；seasonal 是季節性的，皆無法描述證據可靠度。",
+    "category": "抽象搭配",
+    "id": "vocab-v2-034"
   },
   {
-    "question": "The athlete's rapid _____ from injury surprised even her doctor.",
+    "question": "Sharing household tasks can _____ the burden on a family member who has been doing most of the work.",
     "options": [
-      "recovery",
-      "discovery",
-      "delivery",
-      "departure"
+      "ease",
+      "increase",
+      "measure",
+      "record"
     ],
-    "answer": "recovery",
-    "explanation": "recovery from injury 指傷後復原；discovery 是發現。",
-    "category": "搭配與介系詞"
+    "answer": "ease",
+    "explanation": "ease the burden 指減輕負擔，分攤家務可減少原先主要負責者的工作量。increase 是增加；measure 是測量；record 是記錄，均不合分攤的直接效果。",
+    "category": "抽象搭配",
+    "id": "vocab-v2-035"
   },
   {
-    "question": "The team needs someone who can work well under _____ when a deadline is near.",
+    "question": "A single unchecked rumor can _____ a threat to a person’s reputation when it spreads widely online.",
     "options": [
-      "pressure",
-      "pleasure",
-      "treasure",
-      "leisure"
+      "pose",
+      "prevent",
+      "remove",
+      "measure"
     ],
-    "answer": "pressure",
-    "explanation": "work under pressure 是在壓力下工作；deadline 提供線索。",
-    "category": "易混淆字"
+    "answer": "pose",
+    "explanation": "pose a threat 是「構成威脅」。謠言在網路廣傳會威脅名譽；prevent 和 remove 表防止或排除，與謠言作為威脅來源的語意角色相反；measure 是衡量。",
+    "category": "搭配與語意角色",
+    "id": "vocab-v2-036"
   },
   {
-    "question": "The witness's description was not _____ with the video, so the police examined both again.",
+    "question": "The two laboratories obtained _____ results even though they conducted their tests independently. Their measurements matched closely.",
     "options": [
       "consistent",
-      "generous",
-      "familiar",
-      "patient"
+      "temporary",
+      "secret",
+      "distant"
     ],
     "answer": "consistent",
-    "explanation": "consistent with 是與……一致；描述和影片不一致，因而重新檢查。",
-    "category": "搭配與介系詞"
+    "explanation": "consistent results 指一致的結果；兩個實驗室獨立進行測試，仍得到相符結果。temporary 是暫時的，secret 是秘密的，distant 是遙遠的，皆不描述兩組結果的關係。",
+    "category": "語境判斷",
+    "id": "vocab-v2-037"
   },
   {
     "question": "The doctor advised him to cut _____ on sugar rather than stop eating all carbohydrates.",
@@ -452,44 +489,48 @@
       "through"
     ],
     "answer": "down",
-    "explanation": "cut down on 表示減少攝取；cut out 常指完全去除。",
-    "category": "片語搭配"
+    "explanation": "cut down on 表示減少攝取；cut out 常指完全去除。 選項解析：down：向下；減少，本題正解；off：離開；停止，cut off 不與 on 組成減少攝取的片語；out：向外，cut out 指去除，但不能填成 cut out on；through：穿過；經由，cut through 不與 on 組成所需片語。",
+    "category": "片語搭配",
+    "id": "vocab-v2-038"
   },
   {
-    "question": "The researchers hope their findings will contribute _____ the development of better treatments.",
+    "question": "Solar power now _____ for nearly half of the electricity used by the community center.",
     "options": [
-      "to",
-      "at",
-      "from",
-      "against"
+      "accounts",
+      "apologizes",
+      "searches",
+      "waits"
     ],
-    "answer": "to",
-    "explanation": "contribute to 是有助於；to 後可接名詞或動名詞。",
-    "category": "搭配與介系詞"
+    "answer": "accounts",
+    "explanation": "account for 表「占（比例）」，此處指太陽能占用電近半。apologize for 是為……道歉；search for 尋找；wait for 等候，皆不合用電比例。",
+    "category": "比例與搭配",
+    "id": "vocab-v2-039"
   },
   {
-    "question": "The school canceled outdoor activities _____ to the approaching typhoon.",
+    "question": "Visitors are advised to _____ a seat online, because the small theater often fills up before the performance.",
     "options": [
-      "due",
-      "according",
-      "similar",
-      "opposed"
+      "reserve",
+      "observe",
+      "deserve",
+      "conserve"
     ],
-    "answer": "due",
-    "explanation": "due to 表示由於；颱風接近是取消活動的原因。",
-    "category": "搭配與介系詞"
+    "answer": "reserve",
+    "explanation": "reserve a seat 是預訂座位；劇院常客滿，建議事先預訂。observe 是觀察，deserve 是值得，conserve 是節省或保護，皆不合座位安排。",
+    "category": "易混淆字",
+    "id": "vocab-v2-040"
   },
   {
-    "question": "The volunteers distributed food and blankets to families _____ by the earthquake.",
+    "question": "The roof _____ serious damage during the storm, so the school had to close the building for repairs.",
     "options": [
-      "affected",
-      "protected",
-      "warned",
-      "guided"
+      "sustained",
+      "prevented",
+      "repaired",
+      "reduced"
     ],
-    "answer": "affected",
-    "explanation": "affected by 表示受到……影響；食物與毛毯分發給受地震影響的家庭。",
-    "category": "語境判斷"
+    "answer": "sustained",
+    "explanation": "sustain damage 指遭受損害，後文關閉建築修理是線索。prevented 是防止、repaired 是修復、reduced 是降低，皆與屋頂已嚴重受損而需修理不符。",
+    "category": "熟字偏義",
+    "id": "vocab-v2-041"
   },
   {
     "question": "The professor asked students to _____ the advantages of the policy against its possible risks.",
@@ -500,80 +541,87 @@
       "separate"
     ],
     "answer": "weigh",
-    "explanation": "weigh A against B 表示權衡 A 和 B；此處比較政策的優點與可能風險。",
-    "category": "詞義遷移"
+    "explanation": "weigh A against B 表示權衡 A 和 B；此處比較政策的優點與可能風險。 選項解析：weigh：權衡；稱重，本題正解；divide：分開，divide 表分開，不是權衡利弊；protect：保護，protect 表保護，不是比較利弊；separate：分開，separate 常接 from，而非 against 表權衡。",
+    "category": "詞義遷移",
+    "id": "vocab-v2-042"
   },
   {
-    "question": "After months of debate, the committee finally _____ an agreement on the project.",
+    "question": "The survey responses may not _____ the views of all residents because only a small group participated.",
     "options": [
-      "reached",
-      "caught",
-      "arrived",
-      "touched"
+      "represent",
+      "persuade",
+      "remove",
+      "purchase"
     ],
-    "answer": "reached",
-    "explanation": "reach an agreement 是達成協議；arrive 需用 at an agreement。",
-    "category": "搭配精確"
+    "answer": "represent",
+    "explanation": "represent the views 指代表意見；只有少數居民參與，結果可能不具代表性。persuade 是說服，通常以人為受詞；remove 是移除；purchase 是購買，均不表示樣本能代表全體居民。",
+    "category": "語境判斷",
+    "id": "vocab-v2-043"
   },
   {
     "question": "The old bridge is no longer safe, so officials plan to _____ it with a stronger one.",
     "options": [
       "replace",
-      "exchange",
+      "inspect",
       "remove",
       "exclude"
     ],
     "answer": "replace",
-    "explanation": "replace A with B 表示用 B 取代 A；橋要換成更堅固的橋。",
-    "category": "搭配與介系詞"
+    "explanation": "replace A with B 表示用 B 取代 A；橋不安全，官員打算以更堅固的橋取代舊橋。inspect 是檢查；remove 是移除，不能接 with 表示以另一座取代；exclude 是排除，皆不符合句意。 選項解析：replace：取代；更換，本題正解；inspect：檢查，檢查不表示用新橋替代舊橋；remove：移除，remove 是移除，不能與 with a stronger one 組成替換搭配；exclude：排除，exclude 是排除，不表重建替換。",
+    "category": "搭配與介系詞",
+    "id": "vocab-v2-044"
   },
   {
-    "question": "Her explanation was so _____ that even the youngest students understood the instructions without asking for help.",
+    "question": "The teacher’s feedback was specific enough to _____ students toward a stronger argument without writing the answer for them.",
     "options": [
-      "clear",
-      "confusing",
-      "incomplete",
-      "misleading"
+      "guide",
+      "mislead",
+      "prevent",
+      "replace"
     ],
-    "answer": "clear",
-    "explanation": "clear 是清楚易懂的；連年幼的學生都不須求助就能理解說明。",
-    "category": "語境判斷"
+    "answer": "guide",
+    "explanation": "guide students toward 指引導學生形成更完整的論點，呼應「不直接代寫答案」。mislead 是誤導，prevent 是阻止，replace 是取代，皆不合回饋的協助角色。",
+    "category": "搭配與語意角色",
+    "id": "vocab-v2-045"
   },
   {
-    "question": "Rather than blame others, the leader admitted that the failure was partly her _____.",
+    "question": "The center must _____ a balance between protecting historical buildings and making them accessible to the public.",
     "options": [
-      "fault",
-      "scene",
-      "event",
-      "device"
+      "maintain",
+      "disrupt",
+      "ignore",
+      "abandon"
     ],
-    "answer": "fault",
-    "explanation": "fault 指過錯；admitted 和 blame 暗示承認自己的責任。",
-    "category": "語境判斷"
+    "answer": "maintain",
+    "explanation": "maintain a balance between A and B 指維持兩者間的平衡。disrupt 是破壞，ignore 是忽視，abandon 是放棄，均與兼顧兩項需求相反。",
+    "category": "抽象搭配",
+    "id": "vocab-v2-046"
   },
   {
-    "question": "The city planted more trees to provide _____ for people walking in the summer heat.",
+    "question": "The builder does not yet know the final costs, so she gave us only a _____ estimate: a wide price range rather than a precise figure.",
     "options": [
-      "shade",
-      "space",
-      "heat",
-      "light"
+      "rough",
+      "precise",
+      "permanent",
+      "exact"
     ],
-    "answer": "shade",
-    "explanation": "shade 是遮蔭；城市種樹可為夏日行人遮擋陽光。",
-    "category": "語境判斷"
+    "answer": "rough",
+    "explanation": "rough estimate 是粗略估計；只有寬廣區間而無精確數字。precise 和 exact 都表示精確，與題意相反；permanent 是永久的，與估算精確度無關。",
+    "category": "搭配與近義辨析",
+    "id": "vocab-v2-047"
   },
   {
-    "question": "After a famous actor recommended the book online, its sales _____ steadily, and it soon became a bestseller.",
+    "question": "A sudden drop in sales _____ the company’s first review of its pricing strategy; before that, no such review had been planned.",
     "options": [
-      "increased",
-      "declined",
-      "disappeared",
-      "stopped"
+      "prompted",
+      "delayed",
+      "concealed",
+      "recorded"
     ],
-    "answer": "increased",
-    "explanation": "increase steadily 是持續增加；這本書後來成為暢銷書，表示銷量上升。",
-    "category": "語境判斷"
+    "answer": "prompted",
+    "explanation": "prompt a review 指促使展開檢討；原本未計畫檢討，銷售下跌成為契機。delayed 是延後，concealed 是隱藏，recorded 是記錄，均不表示引發首次檢討。",
+    "category": "近義辨析",
+    "id": "vocab-v2-048"
   },
   {
     "question": "The school has limited funds, so it must set _____ and decide which projects matter most.",
@@ -584,20 +632,22 @@
       "rumors"
     ],
     "answer": "priorities",
-    "explanation": "set priorities 指排定優先順序；經費有限時要決定哪些計畫最重要。",
-    "category": "抽象搭配"
+    "explanation": "set priorities 指排定優先順序；經費有限時要決定哪些計畫最重要。 選項解析：priorities：優先事項，本題正解；boundaries：界線，設定界線不等於排列各計畫重要順序；proverbs：諺語，設定諺語不合預算分配語境；rumors：傳言，設定謠言不合決策語境。",
+    "category": "抽象搭配",
+    "id": "vocab-v2-049"
   },
   {
-    "question": "The company will _____ each applicant’s skills and experience before deciding whom to hire.",
+    "question": "By testing the bridge model repeatedly, the engineers hoped to _____ weaknesses before construction began.",
     "options": [
-      "evaluate",
+      "detect",
+      "conceal",
       "ignore",
-      "replace",
-      "hide"
+      "produce"
     ],
-    "answer": "evaluate",
-    "explanation": "evaluate 是評估；公司在決定錄用誰之前，先評估應徵者的技能與經驗。",
-    "category": "語意角色"
+    "answer": "detect",
+    "explanation": "detect weaknesses 是在動工前找出弱點；反覆測試是為了發現問題。conceal 是隱藏、ignore 是忽視、produce 是產生，皆與預先檢測的目的不符。",
+    "category": "近義辨析",
+    "id": "vocab-v2-050"
   },
   {
     "question": "The storm caused a power _____, leaving the entire neighborhood without electricity.",
@@ -608,8 +658,9 @@
       "outcome"
     ],
     "answer": "outage",
-    "explanation": "power outage 是停電；後句 without electricity 直接提示。",
-    "category": "抽象搭配"
+    "explanation": "power outage 是停電；後句 without electricity 直接提示。 選項解析：outage：服務中斷，本題正解；output：產出，power output 指發電輸出，不表示無電；outline：大綱，outline 指大綱，不構成停電片語；outcome：結果，outcome 指結果，不構成停電片語。",
+    "category": "抽象搭配",
+    "id": "vocab-v2-051"
   },
   {
     "question": "The coach praised the player for her _____, as she kept practicing despite repeated failures.",
@@ -620,8 +671,9 @@
       "prediction"
     ],
     "answer": "persistence",
-    "explanation": "persistence 是堅持；多次失敗仍持續練習。",
-    "category": "語境判斷"
+    "explanation": "persistence 是堅持；多次失敗仍持續練習。 選項解析：persistence：堅持，本題正解；preference：偏好，偏好不表示反覆失敗後持續練習；permission：許可，許可不表示持續練習的毅力；prediction：預測，預測不表示持續努力。",
+    "category": "語境判斷",
+    "id": "vocab-v2-052"
   },
   {
     "question": "Many species are at risk because their natural _____ are being destroyed by development.",
@@ -632,20 +684,22 @@
       "hobbies"
     ],
     "answer": "habitats",
-    "explanation": "habitat 是棲地；開發破壞物種的自然棲地。habits 是習慣。",
-    "category": "易混淆字"
+    "explanation": "habitat 是棲地；開發破壞物種的自然棲地。habits 是習慣。 選項解析：habitats：棲地，本題正解；habits：習慣，habit 指習慣，不是物種居住環境；climates：氣候，climate 指氣候，並非開發直接破壞的棲地；hobbies：嗜好，嗜好不表示生物自然居所。",
+    "category": "易混淆字",
+    "id": "vocab-v2-053"
   },
   {
-    "question": "The police warned residents to be _____ of messages asking for passwords or bank details.",
+    "question": "The equipment is highly _____ to temperature changes, so it must be kept in a controlled environment.",
     "options": [
-      "suspicious",
-      "suitable",
-      "grateful",
-      "capable"
+      "sensitive",
+      "sensible",
+      "familiar",
+      "suitable"
     ],
-    "answer": "suspicious",
-    "explanation": "be suspicious of 表示對……抱持懷疑；要求密碼的訊息可能有問題。",
-    "category": "搭配與介系詞"
+    "answer": "sensitive",
+    "explanation": "sensitive to 指對……敏感；需要控制環境顯示設備受溫度變化影響。sensible 是明智的，familiar 通常接 with，suitable 通常接 for，均不合。",
+    "category": "易混淆字",
+    "id": "vocab-v2-054"
   },
   {
     "question": "The results of a small survey cannot necessarily be _____ to the whole population.",
@@ -656,20 +710,22 @@
       "referred"
     ],
     "answer": "applied",
-    "explanation": "apply A to B 表示將 A 應用於 B；小型調查結果不一定適用於全體。",
-    "category": "搭配與介系詞"
+    "explanation": "apply A to B 表示將 A 應用於 B；小型調查結果不一定適用於全體。 選項解析：applied：應用，本題正解；occupied：占據，occupied 指占據，不合結果適用於人群的意思；reacted：反應，react to 指反應，不能用被動語態表適用；referred：提及，refer to 指提及，不表將結果推及整體。",
+    "category": "搭配與介系詞",
+    "id": "vocab-v2-055"
   },
   {
-    "question": "The student _____ her opinion after reading new evidence that challenged her original view.",
+    "question": "The unexpected outcome encouraged the team to _____ its approach and test a different method.",
     "options": [
-      "revised",
-      "recycled",
-      "repeated",
-      "resembled"
+      "revise",
+      "maintain",
+      "repeat",
+      "conceal"
     ],
-    "answer": "revised",
-    "explanation": "revise an opinion 指修正看法；新證據挑戰原本觀點。",
-    "category": "語境判斷"
+    "answer": "revise",
+    "explanation": "revise an approach 指修正方法；結果出乎預期，團隊因此試另一個方法。maintain 是維持，repeat 是重複，conceal 是隱藏，均不能表改用不同方法。",
+    "category": "語境判斷",
+    "id": "vocab-v2-056"
   },
   {
     "question": "Passengers are requested to keep their seat belts _____ until the plane has come to a complete stop.",
@@ -680,35 +736,38 @@
       "replaced"
     ],
     "answer": "fastened",
-    "explanation": "keep a seat belt fastened 指保持繫妥安全帶；飛機完全停妥前應持續繫好。",
-    "category": "搭配精確"
+    "explanation": "keep a seat belt fastened 指保持繫妥安全帶；飛機完全停妥前應持續繫好。 選項解析：fastened：繫妥的，本題正解；loosened：鬆開的，鬆開安全帶違反停妥前保持繫妥的要求；removed：移除，移除安全帶不合安全要求；replaced：更換，更換安全帶不是停妥前的安全要求。",
+    "category": "搭配精確",
+    "id": "vocab-v2-057"
   },
   {
-    "question": "The restaurant is known for using _____ ingredients grown by nearby farmers.",
+    "question": "To _____ the source of the leak, the technician tested each pipe separately until water appeared near one joint.",
     "options": [
-      "local",
-      "imported",
-      "processed",
-      "frozen"
+      "identify",
+      "hide",
+      "replace",
+      "ignore"
     ],
-    "answer": "local",
-    "explanation": "local 是當地的；由附近農民種植，說明食材來自當地。",
-    "category": "語境判斷"
+    "answer": "identify",
+    "explanation": "identify the source 指確認來源；逐一測試水管能找出漏水位置。hide 是隱藏、replace 是更換、ignore 是忽略，並非逐一測試的直接目的。",
+    "category": "語境判斷",
+    "id": "vocab-v2-058"
   },
   {
-    "question": "The new policy will take _____ on January 1, so the old rules remain in place until then.",
+    "question": "Although the policy helped some workers, its effect on the total number of jobs was _____: employment changed only slightly.",
     "options": [
-      "effect",
-      "effort",
-      "charge",
-      "place"
+      "modest",
+      "dramatic",
+      "absolute",
+      "substantial"
     ],
-    "answer": "effect",
-    "explanation": "take effect 是生效；take place 是發生，不能用來表示規定生效。",
-    "category": "片語搭配"
+    "answer": "modest",
+    "explanation": "modest effect 是幅度有限的影響；冒號後說工作總數只略有變化。dramatic 是劇烈的，substantial 是重大的，均與小幅變化相反；absolute 是絕對的，不表示影響幅度小。",
+    "category": "近義辨析",
+    "id": "vocab-v2-059"
   },
   {
-    "question": "The teacher asked students to _____ the main idea of the article in one sentence.",
+    "question": "The teacher asked students to _____ the main idea of a long article in one sentence, using fewer words while preserving its key point.",
     "options": [
       "summarize",
       "memorize",
@@ -716,8 +775,9 @@
       "invent"
     ],
     "answer": "summarize",
-    "explanation": "summarize 是摘要；用一句話簡述文章主旨。memorize 是記住，debate 是辯論。",
-    "category": "語境判斷"
+    "explanation": "summarize 是摘要；用一句話簡述文章主旨。memorize 是記住，debate 是辯論。 選項解析：summarize：摘要，本題正解；memorize：記住，memorize 是記住，不能用一句話表達摘要；debate：辯論，debate 是辯論，不是概述；invent：發明，invent 是編造或發明，並非摘述原文。",
+    "category": "語境判斷",
+    "id": "vocab-v2-060"
   },
   {
     "question": "The product is expensive, but its _____ makes it last much longer than cheaper alternatives.",
@@ -728,8 +788,9 @@
       "frequency"
     ],
     "answer": "durability",
-    "explanation": "durability 是耐用性；能使用較久是線索。",
-    "category": "語境判斷"
+    "explanation": "durability 是耐用性；能使用較久是線索。 選項解析：durability：耐用性，本題正解；curiosity：好奇心，好奇心不能讓產品更耐用；popularity：受歡迎程度，受歡迎不一定使產品使用更久；frequency：頻率，頻率不表示產品耐用性。",
+    "category": "語境判斷",
+    "id": "vocab-v2-061"
   },
   {
     "question": "The government must balance economic growth _____ the need to protect the environment.",
@@ -740,35 +801,38 @@
       "under"
     ],
     "answer": "against",
-    "explanation": "balance A against B 表示權衡 A 與 B。",
-    "category": "搭配與介系詞"
+    "explanation": "balance A against B 表示權衡 A 與 B。 選項解析：against：與……相比較；對抗，本題正解；from：從；來自，balance A against B 才是權衡兩者的搭配；into：進入；成為，into 不構成此固定搭配；under：在……之下，under 不構成此固定搭配。",
+    "category": "搭配與介系詞",
+    "id": "vocab-v2-062"
   },
   {
-    "question": "The student's answer was _____ correct, but it did not address every part of the question.",
+    "question": "A photograph can _____ a process more clearly than a long written description when readers are learning to assemble the device.",
     "options": [
-      "partly",
-      "rarely",
-      "formerly",
-      "suddenly"
+      "illustrate",
+      "interrupt",
+      "postpone",
+      "restrict"
     ],
-    "answer": "partly",
-    "explanation": "partly 表示部分地；後句指出未回答所有部分。",
-    "category": "語境判斷"
+    "answer": "illustrate",
+    "explanation": "illustrate a process 指說明或圖示流程；照片可以幫助讀者理解組裝步驟。interrupt 是打斷，postpone 是延後，restrict 是限制，不符合說明作用。",
+    "category": "熟字偏義",
+    "id": "vocab-v2-063"
   },
   {
-    "question": "The fire alarm went off, and everyone was asked to _____ the building immediately.",
+    "question": "The new bus is more _____ on fuel than the older model, using less per trip.",
     "options": [
-      "evacuate",
-      "enter",
-      "inspect",
-      "repair"
+      "economical",
+      "economic",
+      "historical",
+      "seasonal"
     ],
-    "answer": "evacuate",
-    "explanation": "evacuate the building 是撤離大樓；火警響起時大家被要求立即離開。",
-    "category": "語境判斷"
+    "answer": "economical",
+    "explanation": "economical on fuel 指節省燃料，與每趟耗油較少吻合。economic 常指經濟方面，也可指有利可圖，但不作 economical on fuel 這種搭配；historical 是歷史的；seasonal 是季節性的。",
+    "category": "易混淆字",
+    "id": "vocab-v2-064"
   },
   {
-    "question": "It is difficult to _____ the long-term effects of a new technology before it is widely used.",
+    "question": "It is difficult to _____ the long-term effects of a new technology before it is widely used, because no one yet knows what those effects will be.",
     "options": [
       "predict",
       "purchase",
@@ -776,8 +840,9 @@
       "postpone"
     ],
     "answer": "predict",
-    "explanation": "predict 指預測；科技尚未廣泛使用時很難預測長期影響。",
-    "category": "語境判斷"
+    "explanation": "predict 指預測；科技尚未廣泛使用時很難預測長期影響。 選項解析：predict：預測，本題正解；purchase：購買，purchase 是購買，不能購買未來影響；praise：讚美，praise 是讚美，不表事前預測；postpone：延後，postpone 是延後，不表預先判斷未知結果。",
+    "category": "語境判斷",
+    "id": "vocab-v2-065"
   },
   {
     "question": "The speaker used a familiar example to make the abstract concept easier to _____.",
@@ -788,20 +853,22 @@
       "guard"
     ],
     "answer": "grasp",
-    "explanation": "grasp 可指理解；熟悉的例子有助於理解抽象概念。",
-    "category": "詞義遷移"
+    "explanation": "grasp 可指理解；熟悉的例子有助於理解抽象概念。 選項解析：grasp：理解；抓住，本題正解；grind：磨碎，grind 是磨碎，不能磨碎抽象概念；gather：聚集，gather 是蒐集，不是理解概念；guard：守衛，guard 是守衛，不表示理解。",
+    "category": "詞義遷移",
+    "id": "vocab-v2-066"
   },
   {
-    "question": "The charity relies _____ donations from the public to fund its services.",
+    "question": "The scientist was careful not to _____ that one factor caused the change merely because the two occurred together.",
     "options": [
-      "on",
-      "at",
-      "for",
-      "with"
+      "assume",
+      "prove",
+      "measure",
+      "observe"
     ],
-    "answer": "on",
-    "explanation": "rely on 表示依靠；慈善機構依賴公眾捐款。",
-    "category": "搭配與介系詞"
+    "answer": "assume",
+    "explanation": "assume that 指在未充分證明下認定；兩事同時發生不代表有因果關係。prove 是證明、measure 是測量、observe 是觀察；這些行為本身不等於僅憑同時發生就認定因果。",
+    "category": "語意辨析",
+    "id": "vocab-v2-067"
   },
   {
     "question": "The test results _____ widely among students, suggesting that some need more support than others.",
@@ -812,23 +879,25 @@
       "hesitated"
     ],
     "answer": "varied",
-    "explanation": "vary 表示不同、有變化；成績差異大，因此需求不同。",
-    "category": "語境判斷"
+    "explanation": "vary 表示不同、有變化；成績差異大，因此需求不同。 選項解析：varied：不同；變化，本題正解；vanished：消失，消失不合不同學生結果有差異的線索；resigned：辭職，辭職不能以測驗結果為主詞；hesitated：猶豫，猶豫不能以測驗結果為主詞。",
+    "category": "語境判斷",
+    "id": "vocab-v2-068"
   },
   {
-    "question": "The lawyer advised her client to read the contract carefully before _____ it to formally agree to its terms.",
+    "question": "The rebuilt station bears little _____ to the small wooden building that stood there a century ago.",
     "options": [
-      "signing",
-      "copying",
-      "printing",
-      "filing"
+      "resemblance",
+      "resistance",
+      "responsibility",
+      "preference"
     ],
-    "answer": "signing",
-    "explanation": "sign a contract 是簽署合約；律師建議當事人在簽署前仔細閱讀。",
-    "category": "搭配精確"
+    "answer": "resemblance",
+    "explanation": "bear little resemblance to 表示「與……幾乎不像」。resistance 是抵抗，responsibility 是責任，preference 是偏好，皆不表示外觀相似。",
+    "category": "搭配與語境",
+    "id": "vocab-v2-069"
   },
   {
-    "question": "The plan sounds appealing, but we need to consider whether it is _____ with our limited resources.",
+    "question": "The plan sounds appealing, but we need to consider whether it is _____ with our limited resources: do we have enough money and staff to carry it out?",
     "options": [
       "feasible",
       "edible",
@@ -836,8 +905,9 @@
       "flexible"
     ],
     "answer": "feasible",
-    "explanation": "feasible 是可行的；應評估有限資源是否足以實現計畫。",
-    "category": "語境判斷"
+    "explanation": "feasible 是可行的；應評估有限資源是否足以實現計畫。 選項解析：feasible：可行的，本題正解；edible：可食用的，可食用與計畫無關；visible：看得見的，看得見不表示資源足夠執行；flexible：有彈性的，有彈性不等於資源足夠使計畫可行。",
+    "category": "語境判斷",
+    "id": "vocab-v2-070"
   },
   {
     "question": "The researchers found a _____ between sleep duration and concentration, but this alone did not prove cause and effect.",
@@ -848,20 +918,22 @@
       "permission"
     ],
     "answer": "connection",
-    "explanation": "connection 指關聯；有關聯不代表已證明因果。",
-    "category": "語境判斷"
+    "explanation": "connection 指關聯；有關聯不代表已證明因果。 選項解析：connection：關聯；聯繫，本題正解；collision：碰撞，collision 是碰撞，不表睡眠與專注力的關聯；collection：收集；收藏，collection 是收藏，不表變項關聯；permission：許可，permission 是許可，不表變項關聯。",
+    "category": "語境判斷",
+    "id": "vocab-v2-071"
   },
   {
-    "question": "To protect the ancient paintings, the guide asked visitors to _____ them.",
+    "question": "Knowing how to save energy is useful, but that knowledge must be _____ into everyday action.",
     "options": [
-      "avoid touching",
-      "practice copying",
-      "enjoy viewing",
-      "finish painting"
+      "translated",
+      "divided",
+      "transported",
+      "subtracted"
     ],
-    "answer": "avoid touching",
-    "explanation": "avoid touching 指避免觸摸；導覽員為保護古畫而請遊客不要碰觸。",
-    "category": "語境判斷"
+    "answer": "translated",
+    "explanation": "translate knowledge into action 是將知識轉化為行動。divided 指分割，transported 指運送實物，subtracted 指減去，皆不合知識與行動的關係。",
+    "category": "熟字偏義",
+    "id": "vocab-v2-072"
   },
   {
     "question": "The customer asked for a _____ after discovering that she had been charged twice for the tickets.",
@@ -872,8 +944,9 @@
       "reputation"
     ],
     "answer": "refund",
-    "explanation": "refund 是退款；顧客發現票款被重複收取，因此要求退款。",
-    "category": "語境判斷"
+    "explanation": "refund 是退款；顧客發現票款被重複收取，因此要求退款。 選項解析：refund：退款，本題正解；rehearsal：排練，排練不能退回重複收取的款項；reservation：預約；保留意見，預約不是退還款項；reputation：名聲，名聲不是退還款項。",
+    "category": "語境判斷",
+    "id": "vocab-v2-073"
   },
   {
     "question": "The speech _____ attention to the difficulties faced by migrant workers.",
@@ -884,8 +957,9 @@
       "borrowed"
     ],
     "answer": "drew",
-    "explanation": "draw attention to 表示使人注意；此處為過去式 drew。",
-    "category": "詞義遷移"
+    "explanation": "draw attention to 表示使人注意；此處為過去式 drew。 選項解析：drew：引起；畫（draw 的過去式），本題正解；dragged：拖拉，drag 表拖拉，不是引起注意的搭配；painted：繪畫；上漆，paint 表繪畫，不構成 draw attention 的片語；borrowed：借入，borrow 表借入，不構成引起注意的搭配。",
+    "category": "詞義遷移",
+    "id": "vocab-v2-074"
   },
   {
     "question": "The teacher pointed out a logical gap in the student’s argument. This feedback helped her identify a _____ and improve the argument.",
@@ -896,11 +970,12 @@
       "purpose"
     ],
     "answer": "weakness",
-    "explanation": "weakness 是弱點；老師指出論點中的邏輯缺口，幫助學生找出不足。strength 則是優點。",
-    "category": "易混淆字"
+    "explanation": "weakness 是弱點；老師指出論點中的邏輯缺口，幫助學生找出不足。strength 則是優點。 選項解析：weakness：弱點，本題正解；strength：優點；力量，strength 是優點，與邏輯缺口相反；conclusion：結論，conclusion 是結論，不等於推理缺口；purpose：目的，purpose 是目的，不等於推理缺口。",
+    "category": "易混淆字",
+    "id": "vocab-v2-075"
   },
   {
-    "question": "The medicine should be stored out of children's _____ to prevent accidental poisoning.",
+    "question": "The medicine should be stored out of children's _____ to prevent accidental poisoning, even if they can see the container.",
     "options": [
       "reach",
       "sight",
@@ -908,8 +983,9 @@
       "control"
     ],
     "answer": "reach",
-    "explanation": "out of children's reach 是放在兒童拿不到的地方；避免誤食。",
-    "category": "搭配精確"
+    "explanation": "out of children's reach 是放在兒童拿不到的地方；避免誤食。 選項解析：reach：伸手可及範圍，本題正解；sight：視線；視力，題幹允許孩子看見容器，因此不需要 out of sight；range：範圍，range 不構成 out of children’s reach 的自然搭配；control：控制，control 指控制權，不能表兒童碰觸不到。",
+    "category": "搭配精確",
+    "id": "vocab-v2-076"
   },
   {
     "question": "The artist's work was _____ by her childhood memories of the sea.",
@@ -920,11 +996,12 @@
       "inspected"
     ],
     "answer": "inspired",
-    "explanation": "inspire 表示啟發；童年海洋記憶啟發藝術創作。",
-    "category": "易混淆字"
+    "explanation": "inspire 表示啟發；童年海洋記憶啟發藝術創作。 選項解析：inspired：啟發，本題正解；insured：投保，投保與記憶對創作的啟發無關；inserted：插入，插入與創作靈感無關；inspected：檢查，檢查不表示受到童年記憶啟發。",
+    "category": "易混淆字",
+    "id": "vocab-v2-077"
   },
   {
-    "question": "The committee postponed the vote _____ more information about the proposal became available.",
+    "question": "The committee postponed the vote _____ more information about the proposal became available; members would vote only after receiving it.",
     "options": [
       "until",
       "unless",
@@ -932,8 +1009,9 @@
       "whereas"
     ],
     "answer": "until",
-    "explanation": "until 表示直到；委員會延後投票，等候更多資料。",
-    "category": "語境判斷"
+    "explanation": "until 表示直到；委員會延後投票，等候更多資料。 選項解析：until：直到，本題正解；unless：除非，unless 是除非，後句明示一直等到資料到達；although：雖然，although 表雖然，不合等待時間；whereas：然而，whereas 表對比，不表等候時間。",
+    "category": "語境判斷",
+    "id": "vocab-v2-078"
   },
   {
     "question": "The company apologized for the delay and assured customers that their orders would be sent _____.",
@@ -944,8 +1022,9 @@
       "randomly"
     ],
     "answer": "promptly",
-    "explanation": "promptly 是迅速地；道歉後承諾盡快寄出訂單。",
-    "category": "語境判斷"
+    "explanation": "promptly 是迅速地；道歉後承諾盡快寄出訂單。 選項解析：promptly：迅速地，本題正解；barely：幾乎不，barely 表幾乎不，與承諾盡快寄出不符；formerly：以前，formerly 表以前，不能表將來迅速寄出；randomly：隨機地，randomly 表隨機，與處理延誤的承諾不合。",
+    "category": "語境判斷",
+    "id": "vocab-v2-079"
   },
   {
     "question": "The campaign aims to raise public _____ of the importance of mental health.",
@@ -956,8 +1035,9 @@
       "resistance"
     ],
     "answer": "awareness",
-    "explanation": "raise awareness of 表示提升對……的認識。",
-    "category": "搭配精確"
+    "explanation": "raise awareness of 表示提升對……的認識。 選項解析：awareness：認識；意識，本題正解；distance：距離，distance 是距離，不構成提高意識；absence：缺席；不存在，absence 是缺席，不構成提高意識；resistance：抵抗，resistance 是抵抗，不是認識。",
+    "category": "搭配精確",
+    "id": "vocab-v2-080"
   },
   {
     "question": "The boy was _____ to admit that he had broken the window because he feared punishment.",
@@ -968,8 +1048,9 @@
       "qualified"
     ],
     "answer": "reluctant",
-    "explanation": "reluctant 是不願意的；害怕受罰使他不願承認。",
-    "category": "語境判斷"
+    "explanation": "reluctant 是不願意的；害怕受罰使他不願承認。 選項解析：reluctant：不情願的，本題正解；eager：渴望的，eager 是渴望，與害怕受罰不符；grateful：感激的，grateful 是感激，不表不願承認；qualified：有資格的，qualified 是有資格，不表猶豫承認。",
+    "category": "語境判斷",
+    "id": "vocab-v2-081"
   },
   {
     "question": "The editor suggested that the writer _____ unnecessary details to make the article more concise.",
@@ -980,11 +1061,12 @@
       "restore"
     ],
     "answer": "remove",
-    "explanation": "remove 是移除；刪去不必要細節可使文章精簡。",
-    "category": "語境判斷"
+    "explanation": "remove 是移除；刪去不必要細節可使文章精簡。 選項解析：remove：移除，本題正解；reveal：揭露，reveal 是揭露，不能刪除多餘細節；require：需要，require 是要求，不能使文章精簡；restore：恢復，restore 是恢復，與刪去相反。",
+    "category": "語境判斷",
+    "id": "vocab-v2-082"
   },
   {
-    "question": "The new evidence _____ the theory, although it is not enough to prove it.",
+    "question": "The new evidence _____ the theory because it agrees with its predictions, although it is not enough to prove it.",
     "options": [
       "supports",
       "contradicts",
@@ -992,11 +1074,12 @@
       "replaces"
     ],
     "answer": "supports",
-    "explanation": "support a theory 是支持理論；although 表示雖然證據支持理論，但還不足以證明它。",
-    "category": "語意角色"
+    "explanation": "support a theory 是支持理論；although 表示雖然證據支持理論，但還不足以證明它。 選項解析：supports：支持，本題正解；contradicts：與……矛盾，題幹說證據符合預測，與矛盾相反；disproves：證明……錯誤，證據尚不足以證明，不能說已推翻；replaces：取代，支持理論並非取代理論。",
+    "category": "語意角色",
+    "id": "vocab-v2-083"
   },
   {
-    "question": "During the drought, residents were asked to _____ water by taking shorter showers.",
+    "question": "During the drought, residents were urged to _____ water so that limited supplies would last longer; for example, they were asked to take shorter showers.",
     "options": [
       "conserve",
       "consume",
@@ -1004,8 +1087,9 @@
       "scatter"
     ],
     "answer": "conserve",
-    "explanation": "conserve 是節約；縮短淋浴時間可節省用水。",
-    "category": "易混淆字"
+    "explanation": "conserve 是節約；縮短淋浴時間可節省用水。 選項解析：conserve：節省；保護，本題正解；consume：消耗；食用，consume 是消耗，與讓水源維持更久相反；pollute：污染，pollute 是污染，不能節省水；scatter：散布，scatter 是散布，不表示節約。",
+    "category": "易混淆字",
+    "id": "vocab-v2-084"
   },
   {
     "question": "The interviewer asked each candidate the same questions to ensure a _____ comparison.",
@@ -1016,20 +1100,22 @@
       "fragile"
     ],
     "answer": "fair",
-    "explanation": "fair comparison 是公平比較；相同問題有助公平評估。",
-    "category": "語境判斷"
+    "explanation": "fair comparison 是公平比較；相同問題有助公平評估。 選項解析：fair：公平的，本題正解；bitter：苦的；痛苦的，bitter 指苦或痛苦，不表示公平；distant：遙遠的，distant 指遙遠，不描述公平評估；fragile：易碎的，fragile 指易碎，不描述公平評估。",
+    "category": "語境判斷",
+    "id": "vocab-v2-085"
   },
   {
-    "question": "The company issued a public statement to _____ what its advertisement meant after customers misunderstood it.",
+    "question": "The speaker’s remark was taken out of context and made to appear to mean the opposite of what she intended, which _____ its original meaning.",
     "options": [
-      "clarify",
-      "classify",
-      "repeat",
-      "conceal"
+      "distorted",
+      "clarified",
+      "preserved",
+      "confirmed"
     ],
-    "answer": "clarify",
-    "explanation": "clarify 是釐清；顧客誤解廣告後，公司發聲明說明廣告的意思。",
-    "category": "易混淆字"
+    "answer": "distorted",
+    "explanation": "distort the meaning 指扭曲原意；斷章取義可能使真正意思變形。clarify 是釐清、preserve 是保留、confirm 是確認，均不符合斷章取義造成的問題。",
+    "category": "語境判斷",
+    "id": "vocab-v2-086"
   },
   {
     "question": "The rain was so heavy that the river overflowed its banks and _____ nearby roads.",
@@ -1040,8 +1126,9 @@
       "measured"
     ],
     "answer": "flooded",
-    "explanation": "flood 指淹沒；河水氾濫淹沒附近道路。",
-    "category": "語境判斷"
+    "explanation": "flood 指淹沒；河水氾濫淹沒附近道路。 選項解析：flooded：淹沒，本題正解；polished：擦亮，河水無法擦亮道路；folded：摺疊，河水不能把道路摺疊；measured：測量，氾濫不能表示測量道路。",
+    "category": "語境判斷",
+    "id": "vocab-v2-087"
   },
   {
     "question": "The teacher asked the class to _____ a solution that would meet everyone's needs.",
@@ -1052,8 +1139,9 @@
       "oppose"
     ],
     "answer": "propose",
-    "explanation": "propose a solution 是提出解決方案；oppose 是反對。",
-    "category": "易混淆字"
+    "explanation": "propose a solution 是提出解決方案；oppose 是反對。 選項解析：propose：提出，本題正解；suppose：假設，suppose 是假設，不表示提出解決方案；expose：暴露，expose 是揭露，不表示提出解法；oppose：反對，oppose 是反對，與提出解法不同。",
+    "category": "易混淆字",
+    "id": "vocab-v2-088"
   },
   {
     "question": "Although the device is small, it is _____ of storing thousands of photographs.",
@@ -1064,20 +1152,22 @@
       "fond"
     ],
     "answer": "capable",
-    "explanation": "be capable of V-ing 是有能力做某事；裝置能儲存大量照片。",
-    "category": "搭配與介系詞"
+    "explanation": "be capable of V-ing 是有能力做某事；裝置能儲存大量照片。 選項解析：capable：有能力的，本題正解；aware：知道的，aware 是知道，不表儲存能力；afraid：害怕的，afraid 是害怕，不表裝置能力；fond：喜愛的，fond 是喜愛，不表裝置能力。",
+    "category": "搭配與介系詞",
+    "id": "vocab-v2-089"
   },
   {
     "question": "The film is _____ on a true story, although some characters were invented by the writer.",
     "options": [
       "based",
       "depended",
-      "focused",
+      "inspired",
       "insisted"
     ],
     "answer": "based",
-    "explanation": "be based on 表示以……為基礎；部分角色仍可能虛構。",
-    "category": "搭配與介系詞"
+    "explanation": "be based on 表示以……為基礎，電影以真實故事為原型。depend on 是依賴；be inspired by 表示受到啟發，應接 by；insist on 表示堅持，均不符合此處搭配。 選項解析：based：以……為基礎，本題正解；depended：依賴，depend on 表依賴，不能用 be depended on 來表題目所需的故事來源；inspired：啟發，be inspired by 以 by 連接受啟發的來源，不能填在 on 之前；insisted：堅持，insist on 表堅持，不表改編來源。",
+    "category": "搭配與介系詞",
+    "id": "vocab-v2-090"
   },
   {
     "question": "The team made several _____ to the original design after testing the first model.",
@@ -1088,8 +1178,9 @@
       "compliments"
     ],
     "answer": "adjustments",
-    "explanation": "make adjustments to 表示調整；測試模型後修改設計。",
-    "category": "抽象搭配"
+    "explanation": "make adjustments to 表示調整；測試模型後修改設計。 選項解析：adjustments：調整，本題正解；invitations：邀請，邀請不表示測試後修改設計；accidents：意外事故，意外不表示有意調整設計；compliments：讚美，讚美不表示修改設計。",
+    "category": "抽象搭配",
+    "id": "vocab-v2-091"
   },
   {
     "question": "The teacher reminded students never to share their account _____, because someone else could use it to sign in.",
@@ -1100,8 +1191,9 @@
       "opinion"
     ],
     "answer": "password",
-    "explanation": "password 是密碼；別人可能利用它登入帳號，所以不應分享。",
-    "category": "語境判斷"
+    "explanation": "password 是密碼；別人可能利用它登入帳號，所以不應分享。 選項解析：password：密碼，本題正解；nickname：暱稱，暱稱不是登入所需的秘密憑證；photo：照片，照片不表用於登入的秘密憑證；opinion：意見，意見不表用於登入的秘密憑證。",
+    "category": "語境判斷",
+    "id": "vocab-v2-092"
   },
   {
     "question": "The evidence was too _____ for the jury to decide what had happened with confidence.",
@@ -1112,8 +1204,9 @@
       "reliable"
     ],
     "answer": "limited",
-    "explanation": "limited 是有限的；證據不足，使陪審團無法有把握地判斷發生了什麼事。",
-    "category": "語境判斷"
+    "explanation": "limited 是有限的；證據不足，使陪審團無法有把握地判斷發生了什麼事。 選項解析：limited：有限的，本題正解；convincing：有說服力的，有說服力與無法做出有把握結論相反；detailed：詳細的，詳細與證據不足的線索相反；reliable：可靠的，可靠與無法確信的線索相反。",
+    "category": "語境判斷",
+    "id": "vocab-v2-093"
   },
   {
     "question": "The library extended its opening hours in _____ to requests from students preparing for exams.",
@@ -1124,8 +1217,9 @@
       "opposition"
     ],
     "answer": "response",
-    "explanation": "in response to 表示回應；圖書館因學生要求而延長時間。",
-    "category": "片語搭配"
+    "explanation": "in response to 表示回應；圖書館因學生要求而延長時間。 選項解析：response：回應，本題正解；contrast：對比，in contrast to 表與……對照，非回應要求；addition：增加；加法，in addition to 表除……之外，不是因要求而延長；opposition：反對，in opposition to 表反對，與回應學生要求相反。",
+    "category": "片語搭配",
+    "id": "vocab-v2-094"
   },
   {
     "question": "The project was delayed because the team _____ the amount of time needed to complete it.",
@@ -1136,8 +1230,9 @@
       "understood"
     ],
     "answer": "underestimated",
-    "explanation": "underestimate 是低估；低估所需時間導致計畫延遲。",
-    "category": "易混淆字"
+    "explanation": "underestimate 是低估；低估所需時間導致計畫延遲。 選項解析：underestimated：低估，本題正解；underlined：在……下畫線，畫線不能解釋所需時間估計不足；undertook：承擔（過去式），承擔任務不表示低估時間；understood：理解，理解時間不會直接導致估計不足。",
+    "category": "易混淆字",
+    "id": "vocab-v2-095"
   },
   {
     "question": "The principal emphasized that all students should be treated with _____, regardless of their background.",
@@ -1148,11 +1243,12 @@
       "hesitation"
     ],
     "answer": "respect",
-    "explanation": "treat someone with respect 是尊重地對待某人；不因背景不同而差別待遇。",
-    "category": "搭配精確"
+    "explanation": "treat someone with respect 是尊重地對待某人；不因背景不同而差別待遇。 選項解析：respect：尊重，本題正解；departure：離開，departure 指離開，不構成尊重對待；expense：費用，expense 指費用，不表平等對待；hesitation：猶豫，hesitation 指猶豫，不表尊重對待。",
+    "category": "搭配精確",
+    "id": "vocab-v2-096"
   },
   {
-    "question": "The scientist repeated the experiment to see whether the original results could be _____.",
+    "question": "The scientist repeated the experiment to see whether the original results could be _____, or obtained again under the same conditions.",
     "options": [
       "reproduced",
       "predicted",
@@ -1160,8 +1256,9 @@
       "purchased"
     ],
     "answer": "reproduced",
-    "explanation": "reproduce results 指重現結果；科學家重複實驗，檢查原結果能否再次出現。",
-    "category": "語境判斷"
+    "explanation": "reproduce results 指重現結果；科學家重複實驗，檢查原結果能否再次出現。 選項解析：reproduced：重現，本題正解；predicted：預測，題幹說在相同條件下再次得到，而非事先預測；translated：翻譯，翻譯不能表示再次得到結果；purchased：購買，購買不能表示再次得到結果。",
+    "category": "語境判斷",
+    "id": "vocab-v2-097"
   },
   {
     "question": "The company must _____ with safety regulations before selling the product.",
@@ -1172,20 +1269,22 @@
       "complain"
     ],
     "answer": "comply",
-    "explanation": "comply with 表示遵守；產品上市前須符合安全規範。",
-    "category": "搭配與介系詞"
+    "explanation": "comply with 表示遵守；產品上市前須符合安全規範。 選項解析：comply：遵守，本題正解；compete：競爭，compete with 是與……競爭，不是遵守規定；compare：比較，compare with 是與……比較，不是遵守；complain：抱怨，complain with 不是抱怨規定的搭配。",
+    "category": "搭配與介系詞",
+    "id": "vocab-v2-098"
   },
   {
-    "question": "The teacher warned students not to _____ someone else’s essay word for word and present it as their own work.",
+    "question": "The teacher warned students not to _____ an entire online essay word for word and present it as their own work.",
     "options": [
       "copy",
       "discuss",
       "review",
-      "translate"
+      "cite"
     ],
     "answer": "copy",
-    "explanation": "copy 是抄寫或複製；將別人的文章複製並冒充自己的作品，屬於抄襲。",
-    "category": "語境判斷"
+    "explanation": "copy an entire essay word for word 是逐字抄下整篇文章，接著冒充自己的作品屬抄襲。discuss 是討論；review 是評論或檢視；cite 是註明出處，均不表示逐字抄襲冒充。",
+    "category": "語境判斷",
+    "id": "vocab-v2-099"
   },
   {
     "question": "The two sides had different goals, so reaching a _____ required each to give up something.",
@@ -1196,7 +1295,8 @@
       "complaint"
     ],
     "answer": "compromise",
-    "explanation": "compromise 是妥協；雙方各讓一步才能達成共識。",
-    "category": "易混淆字"
+    "explanation": "compromise 是妥協；雙方各讓一步才能達成共識。 選項解析：compromise：妥協，本題正解；compliment：稱讚，compliment 是稱讚，非各退一步；competition：競爭，competition 是競爭，非雙方讓步；complaint：抱怨，complaint 是抱怨，非達成共同協議。",
+    "category": "易混淆字",
+    "id": "vocab-v2-100"
   }
 ]

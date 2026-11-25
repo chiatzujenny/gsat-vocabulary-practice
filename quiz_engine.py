@@ -1,4 +1,5 @@
 """Create complete GSAT-style sections without altering the vocabulary bank."""
+QUIZ_ENGINE_VERSION = 2
 import copy
 import json
 import random
@@ -8,17 +9,25 @@ ROOT = Path(__file__).parent
 VOCABULARY = json.loads((ROOT / "questions.json").read_text(encoding="utf-8"))
 PASSAGES = json.loads((ROOT / "sections.json").read_text(encoding="utf-8"))
 GLOSSARY = json.loads((ROOT / "study_notes.json").read_text(encoding="utf-8"))
-SECTIONS = {"詞彙題": 10, "綜合測驗": 10, "文意選填": 10, "篇章結構": 4, "閱讀測驗": 12}
+SECTIONS = {"詞彙題": 10, "綜合測驗": 10, "文意選填": 10, "篇章結構": 4, "閱讀測驗": 12, "混合題型": 4}
 
 
-def build_section(section, rng=random):
+def build_section(section, rng=random, seen_ids=None):
+    seen_ids = set(seen_ids or ())
     if section == "詞彙題":
-        qs = copy.deepcopy(rng.sample(VOCABULARY, 10))
+        unseen = [q for q in VOCABULARY if q.get("id") not in seen_ids]
+        seen = [q for q in VOCABULARY if q.get("id") in seen_ids]
+        take = min(10, len(unseen))
+        qs = copy.deepcopy(rng.sample(unseen, take) + rng.sample(seen, 10-take))
+        rng.shuffle(qs)
         for q in qs:
             rng.shuffle(q["options"])
         return [dict(name="詞彙題", passage="", questions=qs, shared=False, terms=[])]
-    counts = {"綜合測驗": 2, "文意選填": 1, "篇章結構": 1, "閱讀測驗": 3}
-    groups = copy.deepcopy(rng.sample([p for p in PASSAGES if p["kind"] == section], counts[section]))
+    counts = {"綜合測驗": 2, "文意選填": 1, "篇章結構": 1, "閱讀測驗": 3, "混合題型": 1}
+    candidates = [p for p in PASSAGES if p["kind"] == section]
+    rng.shuffle(candidates)
+    candidates.sort(key=lambda p: sum(q.get("id") not in seen_ids for q in p["questions"]), reverse=True)
+    groups = copy.deepcopy(candidates[:counts[section]])
     for group in groups:
         if section == "文意選填":
             choices = [q["answer"] for q in group["questions"]]
@@ -32,7 +41,8 @@ def build_section(section, rng=random):
                 q["options"] = choices[:]
         else:
             for q in group["questions"]:
-                rng.shuffle(q["options"])
+                if q.get("options"):
+                    rng.shuffle(q["options"])
     assert sum(len(g["questions"]) for g in groups) == SECTIONS[section]
     return groups
 

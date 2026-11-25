@@ -1580,10 +1580,10 @@
   "propose": {
     "meaning": "提出",
     "similar": "suggest",
-    "opposite": "無固定直接反義詞；oppose 指反對提案",
+    "opposite": "無固定直接反義詞",
     "collocation": "propose a solution（提出解法）",
     "example": "She proposed a solution.",
-    "confusion": "propose 是提出；oppose 是反對。"
+    "confusion": "propose 是提出；oppose 是反對。兩詞形式相近，並非所有語境中直接互為反義詞。"
   },
   "protect": {
     "meaning": "保護",
@@ -1654,12 +1654,12 @@
     "confusion": "raise 後可直接接受詞；rise 表「上升」時不直接接受詞。"
   },
   "raised": {
-    "meaning": "引起；提出（raise 的過去式）",
+    "meaning": "引起；提出（raise 的過去式或過去分詞）",
     "similar": "brought up",
     "opposite": "settled",
     "collocation": "raise doubts（引起疑慮）",
     "example": "The errors raised doubts.",
-    "confusion": "raise 是及物動詞，可說 raise doubts；rise 是不及物動詞，不能直接接受詞。"
+    "confusion": "have raised 為現在完成式；raise 是及物動詞，可說 raise doubts，rise 是不及物動詞。"
   },
   "randomly": {
     "meaning": "隨機地",
@@ -1901,7 +1901,7 @@
     "opposite": "不一定有直接反義詞",
     "collocation": "take responsibility for（對……負責）",
     "example": "She took responsibility for the error.",
-    "confusion": "responsibility 常搭配 take 或 shoulder，不搭配 take advantage of。"
+    "confusion": "take responsibility for 是對……負責；take advantage of 是利用，兩個片語意思不同。"
   },
   "restore": {
     "meaning": "恢復",
@@ -2231,7 +2231,8 @@
     "similar": "estimated too low",
     "opposite": "overestimated",
     "collocation": "underestimate the time needed（低估所需時間）",
-    "example": "They underestimated the cost."
+    "example": "They underestimated the cost.",
+    "confusion": "underestimate 指估計過低；underrate 偏指低估價值或能力，兩者不能在所有語境互換。"
   },
   "underlined": {
     "meaning": "在……下畫線",
@@ -2971,5 +2972,1053 @@
     "similar": "natural home",
     "opposite": "無固定反義詞",
     "collocation": "habitat conditions（棲地狀況）"
+  },
+  "disoriented": {
+    "meaning": "迷失方向的",
+    "similar": "confused about direction",
+    "opposite": "oriented（能辨別方向的）",
+    "collocation": "feel disoriented（感到方向混亂）",
+    "example": "The bright lights left the young turtles disoriented."
+  },
+  "however": {
+    "meaning": "然而",
+    "similar": "nevertheless",
+    "opposite": "無固定反義詞",
+    "collocation": "however, the result differed（然而結果不同）"
+  },
+  "for example": {
+    "meaning": "例如",
+    "similar": "for instance",
+    "opposite": "無固定反義詞",
+    "collocation": "for example, one study（例如一項研究）"
+  },
+  "assume": {
+    "meaning": "假設；認為",
+    "similar": "suppose",
+    "opposite": "無固定反義詞",
+    "collocation": "assume that something is true（認為某事為真）"
+  },
+  "did not know": {
+    "meaning": "不知道（know 的過去否定式）",
+    "similar": "was unaware",
+    "opposite": "knew",
+    "collocation": "if people did not know（如果人們不知道）"
+  },
+  "knew": {
+    "meaning": "知道（know 的過去式）",
+    "similar": "was aware",
+    "opposite": "did not know",
+    "collocation": "she knew the answer（她知道答案）"
+  },
+  "were aware of": {
+    "meaning": "知道；意識到",
+    "similar": "knew about",
+    "opposite": "were unaware of",
+    "collocation": "were aware of the risk（意識到風險）"
+  },
+  "had known": {
+    "meaning": "已知道（過去完成式）",
+    "similar": "had been aware",
+    "opposite": "had not known",
+    "collocation": "if she had known（如果她當時知道）"
+  },
+  "would know": {
+    "meaning": "會知道（情態動詞加原形）",
+    "similar": "would be aware",
+    "opposite": "would not know",
+    "collocation": "she would know the result（她會知道結果）"
+  },
+  "have known": {
+    "meaning": "已知道（現在完成式）",
+    "similar": "have been aware",
+    "opposite": "have not known",
+    "collocation": "they have known for years（他們已知道多年）"
+  },
+  "depends on": {
+    "meaning": "取決於；依賴",
+    "similar": "relies on",
+    "opposite": "無固定反義詞",
+    "collocation": "depend on trust（依靠信任）"
+  },
+  "relies on": {
+    "meaning": "依靠；仰賴",
+    "similar": "depends on",
+    "opposite": "無固定反義詞",
+    "collocation": "rely on volunteers（依靠志工）"
+  },
+  "gives rise to": {
+    "meaning": "引起；造成",
+    "similar": "causes",
+    "opposite": "無固定反義詞",
+    "collocation": "give rise to concern（引起關切）"
+  },
+  "makes up for": {
+    "meaning": "彌補",
+    "similar": "compensates for",
+    "opposite": "無固定反義詞",
+    "collocation": "make up for lost time（彌補損失的時間）"
+  },
+  "results in": {
+    "meaning": "導致",
+    "similar": "leads to",
+    "opposite": "無固定反義詞",
+    "collocation": "result in a change（導致改變）"
+  },
+  "consists of": {
+    "meaning": "由……組成",
+    "similar": "is made up of",
+    "opposite": "無固定反義詞",
+    "collocation": "consist of three parts（由三部分組成）"
+  },
+  "accounts for": {
+    "meaning": "解釋；占比",
+    "similar": "explains",
+    "opposite": "無固定反義詞",
+    "collocation": "account for a change（解釋變化）"
+  },
+  "nevertheless": {
+    "meaning": "然而；儘管如此",
+    "similar": "nonetheless",
+    "opposite": "無固定反義詞",
+    "collocation": "nevertheless, the idea helped（然而這個想法有幫助）"
+  },
+  "consequently": {
+    "meaning": "因此；結果",
+    "similar": "as a result",
+    "opposite": "無固定反義詞",
+    "collocation": "consequently, costs fell（因此成本下降）"
+  },
+  "in other words": {
+    "meaning": "換句話說",
+    "similar": "that is",
+    "opposite": "無固定反義詞",
+    "collocation": "in other words, it is limited（換句話說，它有侷限）"
+  },
+  "scatters": {
+    "meaning": "散射；散布",
+    "similar": "disperses",
+    "opposite": "gathers",
+    "collocation": "light scatters in the atmosphere（光在大氣中散射）"
+  },
+  "disappears": {
+    "meaning": "消失",
+    "similar": "vanishes",
+    "opposite": "appears",
+    "collocation": "disappear from view（從視線中消失）"
+  },
+  "settles": {
+    "meaning": "沉降；安頓",
+    "similar": "comes to rest",
+    "opposite": "無固定反義詞",
+    "collocation": "dust settles on a surface（灰塵落在表面）"
+  },
+  "freezes": {
+    "meaning": "凍結",
+    "similar": "solidifies",
+    "opposite": "melts",
+    "collocation": "water freezes（水結冰）"
+  },
+  "but rather": {
+    "meaning": "而是",
+    "similar": "but instead",
+    "opposite": "無固定反義詞",
+    "collocation": "not A but rather B（不是 A 而是 B）"
+  },
+  "so as": {
+    "meaning": "為了（通常與 to 搭配）",
+    "similar": "in order",
+    "opposite": "無固定反義詞",
+    "collocation": "so as to reduce waste（為了減少浪費）"
+  },
+  "that": {
+    "meaning": "關係代名詞，指代前面的事物或人",
+    "similar": "which（事物，部分情況）",
+    "opposite": "無固定反義詞",
+    "collocation": "birds that migrate（遷徙的鳥）"
+  },
+  "what": {
+    "meaning": "所……的事物；什麼",
+    "similar": "the thing that（部分語境）",
+    "opposite": "無固定反義詞",
+    "collocation": "what people need（人們需要的事物）"
+  },
+  "where": {
+    "meaning": "在哪裡；關係副詞",
+    "similar": "in which（地點）",
+    "opposite": "無固定反義詞",
+    "collocation": "the place where they meet（他們見面的地方）"
+  },
+  "whose": {
+    "meaning": "誰的；其……的",
+    "similar": "of whom（部分結構）",
+    "opposite": "無固定反義詞",
+    "collocation": "the student whose book is missing（書遺失的學生）"
+  },
+  "suggest": {
+    "meaning": "顯示；建議",
+    "similar": "indicate",
+    "opposite": "無固定反義詞",
+    "collocation": "results suggest a change（結果顯示變化）"
+  },
+  "disprove": {
+    "meaning": "證明……不成立",
+    "similar": "refute",
+    "opposite": "support（立場對比）",
+    "collocation": "disprove a theory（證明理論錯誤）"
+  },
+  "overlook": {
+    "meaning": "忽略",
+    "similar": "miss",
+    "opposite": "notice",
+    "collocation": "overlook a detail（忽略細節）"
+  },
+  "handing over": {
+    "meaning": "交出；移交",
+    "similar": "giving to another person",
+    "opposite": "無固定反義詞",
+    "collocation": "hand over an item（把物品交給他人）"
+  },
+  "taking apart": {
+    "meaning": "拆開",
+    "similar": "disassembling",
+    "opposite": "putting together",
+    "collocation": "take apart a device（拆開裝置）"
+  },
+  "setting aside": {
+    "meaning": "擱置；保留",
+    "similar": "reserving",
+    "opposite": "無固定反義詞",
+    "collocation": "set aside time（保留時間）"
+  },
+  "putting away": {
+    "meaning": "收好",
+    "similar": "storing",
+    "opposite": "taking out",
+    "collocation": "put away the tools（把工具收好）"
+  },
+  "even when": {
+    "meaning": "即使……的時候",
+    "similar": "even if（部分語境）",
+    "opposite": "無固定反義詞",
+    "collocation": "even when it rains（即使下雨時）"
+  },
+  "as if": {
+    "meaning": "彷彿",
+    "similar": "as though",
+    "opposite": "無固定反義詞",
+    "collocation": "look as if it might rain（看似要下雨）"
+  },
+  "so that": {
+    "meaning": "以便",
+    "similar": "in order that",
+    "opposite": "無固定反義詞",
+    "collocation": "study so that you can improve（讀書以便進步）"
+  },
+  "in case": {
+    "meaning": "以防；萬一",
+    "similar": "as a precaution",
+    "opposite": "無固定反義詞",
+    "collocation": "bring water in case it is hot（帶水以防天熱）"
+  },
+  "results from": {
+    "meaning": "由……造成",
+    "similar": "is caused by",
+    "opposite": "無固定反義詞",
+    "collocation": "result from an error（由錯誤造成）"
+  },
+  "leads to": {
+    "meaning": "導致",
+    "similar": "results in",
+    "opposite": "無固定反義詞",
+    "collocation": "lead to a problem（導致問題）"
+  },
+  "rules out": {
+    "meaning": "排除",
+    "similar": "eliminates",
+    "opposite": "無固定反義詞",
+    "collocation": "rule out a possibility（排除可能性）"
+  },
+  "insist": {
+    "meaning": "堅持",
+    "similar": "maintain",
+    "opposite": "無固定反義詞",
+    "collocation": "insist on a rule（堅持一項規則）"
+  },
+  "demonstrate": {
+    "meaning": "證明；展示",
+    "similar": "show",
+    "opposite": "無固定反義詞",
+    "collocation": "demonstrate a skill（展示技能）"
+  },
+  "confirm": {
+    "meaning": "證實；確認",
+    "similar": "verify",
+    "opposite": "contradict（意見相反）",
+    "collocation": "confirm a finding（確認研究發現）"
+  },
+  "establish": {
+    "meaning": "確立；證實",
+    "similar": "verify",
+    "opposite": "refute（立場對比）",
+    "collocation": "establish a fact（證實事實）"
+  },
+  "measure": {
+    "meaning": "測量",
+    "similar": "quantify",
+    "opposite": "無固定反義詞",
+    "collocation": "measure the distance（測量距離）"
+  },
+  "decline": {
+    "meaning": "下降；減少",
+    "similar": "decrease",
+    "opposite": "increase",
+    "collocation": "attention may decline（注意力可能下降）"
+  },
+  "improve": {
+    "meaning": "改善",
+    "similar": "get better",
+    "opposite": "worsen",
+    "collocation": "improve concentration（改善專注力）"
+  },
+  "demand": {
+    "meaning": "需要；要求",
+    "similar": "require",
+    "opposite": "無固定反義詞",
+    "collocation": "demand attention（需要注意力）"
+  },
+  "release": {
+    "meaning": "釋放",
+    "similar": "let go",
+    "opposite": "retain",
+    "collocation": "release energy（釋放能量）"
+  },
+  "supply": {
+    "meaning": "供應",
+    "similar": "provide",
+    "opposite": "無固定反義詞",
+    "collocation": "supply water（供水）"
+  },
+  "in advance": {
+    "meaning": "事先",
+    "similar": "ahead of time",
+    "opposite": "無固定反義詞",
+    "collocation": "plan in advance（事先規劃）"
+  },
+  "on occasion": {
+    "meaning": "偶爾",
+    "similar": "occasionally",
+    "opposite": "regularly（頻率對比）",
+    "collocation": "visit on occasion（偶爾拜訪）"
+  },
+  "at random": {
+    "meaning": "隨機地",
+    "similar": "randomly",
+    "opposite": "systematically",
+    "collocation": "choose at random（隨機選擇）"
+  },
+  "in return": {
+    "meaning": "作為回報",
+    "similar": "in exchange",
+    "opposite": "無固定反義詞",
+    "collocation": "ask for nothing in return（不要求任何回報）"
+  },
+  "likewise": {
+    "meaning": "同樣地",
+    "similar": "similarly",
+    "opposite": "differently",
+    "collocation": "likewise, others agreed（其他人同樣表示同意）"
+  },
+  "exposure": {
+    "meaning": "暴露；接觸",
+    "similar": "contact",
+    "opposite": "無固定直接反義詞",
+    "collocation": "exposure to extreme heat（暴露在極端高溫中）"
+  },
+  "uneven": {
+    "meaning": "不均勻的",
+    "similar": "unequal",
+    "opposite": "even",
+    "collocation": "uneven distribution（不均勻的分布）"
+  },
+  "vulnerable": {
+    "meaning": "易受傷害的",
+    "similar": "at risk",
+    "opposite": "protected（受保護的）",
+    "collocation": "vulnerable to heat（容易受到高溫影響）"
+  },
+  "maintain": {
+    "meaning": "維護；維持",
+    "similar": "keep in good condition",
+    "opposite": "neglect（忽視照料）",
+    "collocation": "maintain trees（維護樹木）"
+  },
+  "adapt": {
+    "meaning": "調整以適應",
+    "similar": "adjust",
+    "opposite": "無固定直接反義詞",
+    "collocation": "adapt a design to local needs（依當地需求調整設計）"
+  },
+  "lasting": {
+    "meaning": "持久的",
+    "similar": "long-term",
+    "opposite": "temporary",
+    "collocation": "lasting benefits（長久的益處）"
+  },
+  "risk": {
+    "meaning": "風險",
+    "similar": "danger",
+    "opposite": "safety（安全狀態）",
+    "collocation": "health risk（健康風險）"
+  },
+  "indicate": {
+    "meaning": "指出；顯示",
+    "similar": "show",
+    "opposite": "無固定直接反義詞",
+    "collocation": "indicate that ...（表示……）"
+  },
+  "potential": {
+    "meaning": "潛在的；可能的",
+    "similar": "possible",
+    "opposite": "actual（預估與實際的對比）",
+    "collocation": "potential savings（可能的節省量）"
+  },
+  "estimate": {
+    "meaning": "估計",
+    "similar": "calculate approximately",
+    "opposite": "無固定直接反義詞",
+    "collocation": "estimate an amount（估計數量）"
+  },
+  "preserve": {
+    "meaning": "保存；保有",
+    "similar": "maintain",
+    "opposite": "無固定直接反義詞",
+    "collocation": "preserve quality（保有品質）"
+  },
+  "avoidable": {
+    "meaning": "可避免的",
+    "similar": "preventable",
+    "opposite": "unavoidable",
+    "collocation": "avoidable waste（可避免的浪費）"
+  },
+  "observation": {
+    "meaning": "觀察；觀察結果",
+    "similar": "recording",
+    "opposite": "無固定直接反義詞",
+    "collocation": "make an observation（做觀察）"
+  },
+  "gravity": {
+    "meaning": "重力",
+    "similar": "gravitational force",
+    "opposite": "無固定直接反義詞",
+    "collocation": "gravity carries water downward（重力使水向下流）"
+  },
+  "distinction": {
+    "meaning": "區別",
+    "similar": "difference",
+    "opposite": "similarity",
+    "collocation": "make a distinction between A and B（區分 A、B）"
+  },
+  "assess": {
+    "meaning": "評估",
+    "similar": "evaluate",
+    "opposite": "無固定直接反義詞",
+    "collocation": "assess the results（評估結果）"
+  },
+  "contribution": {
+    "meaning": "貢獻；作用",
+    "similar": "input",
+    "opposite": "無固定直接反義詞",
+    "collocation": "make a contribution to（對……作出貢獻）"
+  },
+  "resident": {
+    "meaning": "居民",
+    "similar": "inhabitant",
+    "opposite": "visitor（身分對比）",
+    "collocation": "local residents（當地居民）"
+  },
+  "variety": {
+    "meaning": "多樣性",
+    "similar": "range",
+    "opposite": "uniformity",
+    "collocation": "a variety of choices（多種選擇）"
+  },
+  "approximate": {
+    "meaning": "大約的",
+    "similar": "estimated",
+    "opposite": "exact",
+    "collocation": "the approximate time（大約時間）"
+  },
+  "context": {
+    "meaning": "脈絡；背景",
+    "similar": "surrounding circumstances",
+    "opposite": "無固定直接反義詞",
+    "collocation": "understand something in context（依脈絡理解）"
+  },
+  "distracting": {
+    "meaning": "令人分心的",
+    "similar": "diverting",
+    "opposite": "無固定直接反義詞",
+    "collocation": "a distracting noise（令人分心的噪音）"
+  },
+  "ranking": {
+    "meaning": "排名",
+    "similar": "ordering",
+    "opposite": "無固定直接反義詞",
+    "collocation": "a single ranking（單一排名）"
+  },
+  "familiarity": {
+    "meaning": "熟悉感",
+    "similar": "recognition",
+    "opposite": "unfamiliarity",
+    "collocation": "a sense of familiarity（熟悉感）"
+  },
+  "retrieve": {
+    "meaning": "提取；找回",
+    "similar": "recall",
+    "opposite": "無固定直接反義詞",
+    "collocation": "retrieve an idea from memory（從記憶中提取想法）"
+  },
+  "approach": {
+    "meaning": "方法",
+    "similar": "method",
+    "opposite": "無固定直接反義詞",
+    "collocation": "a different approach（不同方法）"
+  },
+  "cycle": {
+    "meaning": "循環",
+    "similar": "repeating process",
+    "opposite": "無固定直接反義詞",
+    "collocation": "a cycle of review（複習循環）"
+  },
+  "availability": {
+    "meaning": "可取得性",
+    "similar": "accessibility",
+    "opposite": "unavailability",
+    "collocation": "the availability of bicycles（單車可取得性）"
+  },
+  "anticipate": {
+    "meaning": "預期；預測",
+    "similar": "expect",
+    "opposite": "無固定直接反義詞",
+    "collocation": "anticipate demand（預估需求）"
+  },
+  "shortage": {
+    "meaning": "短缺",
+    "similar": "lack",
+    "opposite": "surplus",
+    "collocation": "a shortage of bicycles（單車短缺）"
+  },
+  "flexibility": {
+    "meaning": "彈性",
+    "similar": "adaptability",
+    "opposite": "rigidity",
+    "collocation": "greater flexibility（更大的彈性）"
+  },
+  "route": {
+    "meaning": "路線",
+    "similar": "path",
+    "opposite": "無固定直接反義詞",
+    "collocation": "a safe route（安全的路線）"
+  },
+  "courtyard": {
+    "meaning": "庭院",
+    "similar": "open court",
+    "opposite": "無固定直接反義詞",
+    "collocation": "school courtyard（校園庭院）"
+  },
+  "pattern": {
+    "meaning": "模式；規律",
+    "similar": "recurring arrangement",
+    "opposite": "無固定直接反義詞",
+    "collocation": "a pattern of changes（變化規律）"
+  },
+  "concentrate": {
+    "meaning": "專注",
+    "similar": "focus",
+    "opposite": "無固定直接反義詞",
+    "collocation": "concentrate on a task（專注於工作）"
+  },
+  "adopt": {
+    "meaning": "採納；採用",
+    "similar": "accept",
+    "opposite": "reject",
+    "collocation": "adopt a proposal（採納提議）"
+  },
+  "premature": {
+    "meaning": "過早的",
+    "similar": "too early",
+    "opposite": "無固定直接反義詞",
+    "collocation": "a premature conclusion（過早下的結論）"
+  },
+  "dimension": {
+    "meaning": "面向；層面",
+    "similar": "aspect",
+    "opposite": "無固定直接反義詞",
+    "collocation": "another dimension of a problem（問題的另一面向）"
+  },
+  "mature": {
+    "meaning": "成熟的",
+    "similar": "fully developed",
+    "opposite": "immature",
+    "collocation": "mature trees（成熟樹木）"
+  },
+  "revise": {
+    "meaning": "修訂",
+    "similar": "amend",
+    "opposite": "無固定直接反義詞",
+    "collocation": "revise a plan（修訂計畫）"
+  },
+  "evaluated": {
+    "meaning": "評估",
+    "similar": "assessed",
+    "opposite": "無固定直接反義詞",
+    "collocation": "evaluate a request（評估需求）"
+  },
+  "measurement": {
+    "meaning": "測量；測量結果",
+    "similar": "reading",
+    "opposite": "無固定直接反義詞",
+    "collocation": "a temperature measurement（溫度測量結果）"
+  },
+  "timely": {
+    "meaning": "及時的",
+    "similar": "prompt",
+    "opposite": "late",
+    "collocation": "timely information（及時資訊）"
+  },
+  "forecast": {
+    "meaning": "預測",
+    "similar": "prediction",
+    "opposite": "無固定直接反義詞",
+    "collocation": "a weather forecast（天氣預報）"
+  },
+  "uncertainty": {
+    "meaning": "不確定性",
+    "similar": "doubt",
+    "opposite": "certainty",
+    "collocation": "acknowledge uncertainty（承認不確定性）"
+  },
+  "permissions": {
+    "meaning": "許可",
+    "similar": "authorizations",
+    "opposite": "無固定直接反義詞",
+    "collocation": "check permissions（核查許可）"
+  },
+  "preserving": {
+    "meaning": "保存",
+    "similar": "maintaining",
+    "opposite": "destroying",
+    "collocation": "preserve a record（保存紀錄）"
+  },
+  "address": {
+    "meaning": "處理；談及",
+    "similar": "deal with",
+    "opposite": "ignore",
+    "collocation": "address a concern（處理疑慮）"
+  },
+  "afford": {
+    "meaning": "提供（機會）；負擔得起",
+    "similar": "provide",
+    "opposite": "deny（機會對比）",
+    "collocation": "afford someone an opportunity（提供某人機會）"
+  },
+  "owe": {
+    "meaning": "欠；歸功於",
+    "similar": "be indebted for",
+    "opposite": "無固定直接反義詞",
+    "collocation": "owe someone an apology（欠某人一個道歉）"
+  },
+  "cost": {
+    "meaning": "使付出代價",
+    "similar": "require payment",
+    "opposite": "無固定直接反義詞",
+    "collocation": "cost someone money（花費某人金錢）"
+  },
+  "standard": {
+    "meaning": "標準的；一般的",
+    "similar": "usual",
+    "opposite": "unconventional",
+    "collocation": "standard procedure（標準程序）"
+  },
+  "spot": {
+    "meaning": "發現",
+    "similar": "notice",
+    "opposite": "overlook",
+    "collocation": "spot a mistake（發現錯誤）"
+  },
+  "create": {
+    "meaning": "創造；造成",
+    "similar": "produce",
+    "opposite": "destroy",
+    "collocation": "create a problem（造成問題）"
+  },
+  "prompt": {
+    "meaning": "迅速的",
+    "similar": "quick",
+    "opposite": "delayed",
+    "collocation": "prompt medical attention（及時就醫）"
+  },
+  "previous": {
+    "meaning": "先前的",
+    "similar": "earlier",
+    "opposite": "subsequent",
+    "collocation": "previous experience（先前經驗）"
+  },
+  "confidential": {
+    "meaning": "機密的",
+    "similar": "secret",
+    "opposite": "public",
+    "collocation": "confidential information（機密資訊）"
+  },
+  "outdated": {
+    "meaning": "過時的",
+    "similar": "old-fashioned",
+    "opposite": "current",
+    "collocation": "outdated information（過時資訊）"
+  },
+  "yield": {
+    "meaning": "產出",
+    "similar": "produce",
+    "opposite": "無固定直接反義詞",
+    "collocation": "yield crops（產出作物）"
+  },
+  "collect": {
+    "meaning": "收集",
+    "similar": "gather",
+    "opposite": "distribute",
+    "collocation": "collect donations（募集捐款）"
+  },
+  "draw": {
+    "meaning": "得出（結論）",
+    "similar": "reach",
+    "opposite": "無固定直接反義詞",
+    "collocation": "draw a conclusion（得出結論）"
+  },
+  "paint": {
+    "meaning": "塗畫",
+    "similar": "color",
+    "opposite": "無固定直接反義詞",
+    "collocation": "paint a picture（繪畫）"
+  },
+  "solid": {
+    "meaning": "可靠扎實的（如證據）",
+    "similar": "strong",
+    "opposite": "weak",
+    "collocation": "solid evidence（可靠證據）"
+  },
+  "hollow": {
+    "meaning": "中空的",
+    "similar": "empty",
+    "opposite": "solid（實體意義）",
+    "collocation": "a hollow tree（空心樹）"
+  },
+  "portable": {
+    "meaning": "可攜帶的",
+    "similar": "movable",
+    "opposite": "無固定直接反義詞",
+    "collocation": "portable equipment（攜帶式設備）"
+  },
+  "seasonal": {
+    "meaning": "季節性的",
+    "similar": "periodic by season",
+    "opposite": "無固定直接反義詞",
+    "collocation": "seasonal changes（季節變化）"
+  },
+  "ease": {
+    "meaning": "減輕",
+    "similar": "reduce",
+    "opposite": "increase",
+    "collocation": "ease the burden（減輕負擔）"
+  },
+  "increase": {
+    "meaning": "增加",
+    "similar": "raise",
+    "opposite": "decrease",
+    "collocation": "increase the burden（增加負擔）"
+  },
+  "record": {
+    "meaning": "記錄",
+    "similar": "document",
+    "opposite": "erase（記錄與擦除對比）",
+    "collocation": "record a result（記錄結果）"
+  },
+  "pose": {
+    "meaning": "構成",
+    "similar": "present",
+    "opposite": "無固定直接反義詞",
+    "collocation": "pose a threat（構成威脅）"
+  },
+  "secret": {
+    "meaning": "秘密的",
+    "similar": "private",
+    "opposite": "public",
+    "collocation": "secret information（秘密資訊）"
+  },
+  "accounts": {
+    "meaning": "占（一定比例）",
+    "similar": "makes up",
+    "opposite": "無固定直接反義詞",
+    "collocation": "account for half（占一半）"
+  },
+  "apologizes": {
+    "meaning": "道歉",
+    "similar": "says sorry",
+    "opposite": "無固定直接反義詞",
+    "collocation": "apologize for a mistake（為錯誤道歉）"
+  },
+  "searches": {
+    "meaning": "尋找",
+    "similar": "looks",
+    "opposite": "無固定直接反義詞",
+    "collocation": "search for a key（尋找鑰匙）"
+  },
+  "waits": {
+    "meaning": "等候",
+    "similar": "stays until",
+    "opposite": "無固定直接反義詞",
+    "collocation": "wait for a bus（等公車）"
+  },
+  "reserve": {
+    "meaning": "預訂",
+    "similar": "book",
+    "opposite": "cancel（預訂的相反行動）",
+    "collocation": "reserve a seat（預訂座位）"
+  },
+  "deserve": {
+    "meaning": "值得",
+    "similar": "merit",
+    "opposite": "無固定直接反義詞",
+    "collocation": "deserve a reward（值得獎勵）"
+  },
+  "sustained": {
+    "meaning": "遭受（損害）",
+    "similar": "suffered",
+    "opposite": "avoided（結果對比）",
+    "collocation": "sustain damage（遭受損害）"
+  },
+  "prevented": {
+    "meaning": "阻止",
+    "similar": "stopped",
+    "opposite": "allowed",
+    "collocation": "prevent damage（防止損害）"
+  },
+  "reduced": {
+    "meaning": "減少",
+    "similar": "decreased",
+    "opposite": "increased",
+    "collocation": "reduce damage（減少損害）"
+  },
+  "represent": {
+    "meaning": "代表",
+    "similar": "stand for",
+    "opposite": "無固定直接反義詞",
+    "collocation": "represent a group（代表群體）"
+  },
+  "guide": {
+    "meaning": "引導",
+    "similar": "direct",
+    "opposite": "mislead",
+    "collocation": "guide someone toward a goal（引導某人朝目標前進）"
+  },
+  "mislead": {
+    "meaning": "誤導",
+    "similar": "deceive",
+    "opposite": "guide",
+    "collocation": "mislead readers（誤導讀者）"
+  },
+  "disrupt": {
+    "meaning": "破壞；打亂",
+    "similar": "disturb",
+    "opposite": "maintain",
+    "collocation": "disrupt a schedule（打亂行程）"
+  },
+  "abandon": {
+    "meaning": "放棄",
+    "similar": "give up",
+    "opposite": "continue",
+    "collocation": "abandon a plan（放棄計畫）"
+  },
+  "rough": {
+    "meaning": "粗略的",
+    "similar": "approximate",
+    "opposite": "precise",
+    "collocation": "a rough estimate（粗略估計）"
+  },
+  "precise": {
+    "meaning": "精確的",
+    "similar": "exact",
+    "opposite": "rough（估計程度）",
+    "collocation": "precise measurements（精確測量）"
+  },
+  "exact": {
+    "meaning": "精確的",
+    "similar": "precise",
+    "opposite": "approximate",
+    "collocation": "an exact figure（精確數字）"
+  },
+  "prompted": {
+    "meaning": "促使",
+    "similar": "caused",
+    "opposite": "discouraged（依語境）",
+    "collocation": "prompt a review（促使展開檢討）"
+  },
+  "delayed": {
+    "meaning": "延後",
+    "similar": "postponed",
+    "opposite": "advanced",
+    "collocation": "delay a review（延後檢討）"
+  },
+  "concealed": {
+    "meaning": "隱藏",
+    "similar": "hid",
+    "opposite": "revealed",
+    "collocation": "conceal information（隱藏資訊）"
+  },
+  "recorded": {
+    "meaning": "記錄",
+    "similar": "documented",
+    "opposite": "erased（記錄與擦除對比）",
+    "collocation": "record a result（記錄結果）"
+  },
+  "detect": {
+    "meaning": "察覺；偵測",
+    "similar": "identify",
+    "opposite": "overlook",
+    "collocation": "detect a weakness（發現弱點）"
+  },
+  "produce": {
+    "meaning": "生產；產生",
+    "similar": "create",
+    "opposite": "無固定直接反義詞",
+    "collocation": "produce goods（生產貨物）"
+  },
+  "sensitive": {
+    "meaning": "敏感的",
+    "similar": "responsive",
+    "opposite": "insensitive",
+    "collocation": "sensitive to temperature（對溫度敏感）"
+  },
+  "sensible": {
+    "meaning": "明智的",
+    "similar": "reasonable",
+    "opposite": "unwise",
+    "collocation": "a sensible decision（明智的決定）"
+  },
+  "identify": {
+    "meaning": "確認",
+    "similar": "determine",
+    "opposite": "無固定直接反義詞",
+    "collocation": "identify a source（確認來源）"
+  },
+  "modest": {
+    "meaning": "有限的；不大的",
+    "similar": "moderate",
+    "opposite": "substantial",
+    "collocation": "a modest effect（有限的影響）"
+  },
+  "dramatic": {
+    "meaning": "劇烈的",
+    "similar": "striking",
+    "opposite": "slight",
+    "collocation": "a dramatic change（劇烈改變）"
+  },
+  "substantial": {
+    "meaning": "重大的；大量的",
+    "similar": "considerable",
+    "opposite": "slight",
+    "collocation": "a substantial increase（大幅增加）"
+  },
+  "illustrate": {
+    "meaning": "說明；圖示",
+    "similar": "demonstrate",
+    "opposite": "obscure（效果對比）",
+    "collocation": "illustrate a process（說明過程）"
+  },
+  "restrict": {
+    "meaning": "限制",
+    "similar": "limit",
+    "opposite": "expand",
+    "collocation": "restrict access（限制存取）"
+  },
+  "economical": {
+    "meaning": "節省的",
+    "similar": "cost-saving",
+    "opposite": "wasteful",
+    "collocation": "economical to operate（營運成本節省）",
+    "confusion": "economical 指節省成本或資源；economic 通常指經濟方面，也可指有利可圖。"
+  },
+  "economic": {
+    "meaning": "經濟的",
+    "similar": "financial",
+    "opposite": "無固定直接反義詞",
+    "collocation": "economic growth（經濟成長）",
+    "confusion": "economic 通常指經濟方面，亦可指有利可圖；economical 指節省成本或資源。"
+  },
+  "historical": {
+    "meaning": "歷史的",
+    "similar": "related to history",
+    "opposite": "無固定直接反義詞",
+    "collocation": "historical records（歷史紀錄）"
+  },
+  "prove": {
+    "meaning": "證明",
+    "similar": "demonstrate",
+    "opposite": "disprove",
+    "collocation": "prove a claim（證明說法）"
+  },
+  "resemblance": {
+    "meaning": "相似之處",
+    "similar": "similarity",
+    "opposite": "difference",
+    "collocation": "bear a resemblance to（與……相似）"
+  },
+  "divided": {
+    "meaning": "分開",
+    "similar": "split",
+    "opposite": "combined",
+    "collocation": "divide a group into teams（將群體分組）"
+  },
+  "transported": {
+    "meaning": "運送",
+    "similar": "carried",
+    "opposite": "無固定直接反義詞",
+    "collocation": "transport goods（運送貨物）"
+  },
+  "subtracted": {
+    "meaning": "減去",
+    "similar": "deducted",
+    "opposite": "added",
+    "collocation": "subtract five from ten（十減五）"
+  },
+  "distorted": {
+    "meaning": "扭曲",
+    "similar": "misrepresented",
+    "opposite": "clarified（語意對比）",
+    "collocation": "distort the meaning（扭曲意思）"
+  },
+  "clarified": {
+    "meaning": "釐清",
+    "similar": "explained",
+    "opposite": "confused",
+    "collocation": "clarify a statement（釐清聲明）"
+  },
+  "preserved": {
+    "meaning": "保留",
+    "similar": "maintained",
+    "opposite": "destroyed",
+    "collocation": "preserve a record（保存紀錄）"
+  },
+  "confirmed": {
+    "meaning": "確認",
+    "similar": "verified",
+    "opposite": "disproved",
+    "collocation": "confirm a report（確認報導）"
+  },
+  "cite": {
+    "meaning": "引用並註明來源",
+    "similar": "reference",
+    "opposite": "無固定直接反義詞",
+    "collocation": "cite a source（註明來源）",
+    "confusion": "cite 著重註明出處；copy 是複製，未必有註明來源。"
   }
 }
