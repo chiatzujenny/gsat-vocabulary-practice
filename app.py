@@ -29,6 +29,8 @@ def get_settings():
                 or parsed.query.get("sslmode") not in ("require", "verify-ca", "verify-full")
                 or len(password) < 24):
             return None
+        if parsed.drivername == "postgresql":
+            url = "postgresql+psycopg2://" + url[len("postgresql://"):]
         return url, password
     except (ArgumentError, KeyError, FileNotFoundError, TypeError, ValueError):
         return None
