@@ -144,7 +144,10 @@ class ProgressStore:
     def save_section(self, attempt_id, student_id, student_name, section, questions, responses, duration_seconds):
         details = [{"question": q["question"], "selected": responses[i],
                     "answer": q["answer"], "correct": responses[i] == q["answer"],
-                    "category": q.get("category", section)} for i, q in enumerate(questions)]
+                    "category": q.get("category", section),
+                    "group_name": q.get("group_name", ""),
+                    "passage": q.get("passage", ""),
+                    "options": q.get("options", [])} for i, q in enumerate(questions)]
         row = dict(attempt_id=attempt_id, student_id=student_id, student_name=student_name,
                    submitted_at=datetime.now(timezone.utc).isoformat(timespec="seconds"),
                    section=section, score=sum(x["correct"] for x in details), total=len(details),

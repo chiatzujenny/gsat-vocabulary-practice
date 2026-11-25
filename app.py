@@ -60,8 +60,10 @@ def save_run(store):
     run = st.session_state.run
     try:
         label = run['section'] + ('｜錯題重練' if run['review'] else '')
+        snapshot = [dict(q, group_name=g['name'] if g['passage'] else '', passage=g['passage'])
+                    for g in run['groups'] for q in g['questions']]
         store.save_section(run['attempt_id'], st.session_state.student_id,
-                           st.session_state.student_name, label, flatten_questions(run['groups']),
+                           st.session_state.student_name, label, snapshot,
                            run['responses'], run['duration'])
         run['saved'] = True
     except Exception:
@@ -187,8 +189,16 @@ if st.session_state.role == 'admin':
         for row in selected_rows:
             timing = '舊紀錄未計時' if row['duration_seconds'] is None else duration_text(row['duration_seconds'])
             with st.expander(f"{time_label(row['submitted_at'])} · {row['student_name']} · {row['section']} · {row['score']}/{row['total']} · {timing}"):
+                last_group = None
                 for i, answer in enumerate(row['answers'], 1):
+                    group_name = answer.get('group_name', '')
+                    if group_name and group_name != last_group:
+                        st.markdown(f'**題組：{group_name}**')
+                        st.write(answer.get('passage', ''))
+                        last_group = group_name
                     st.write(f"{'✅' if answer['correct'] else '❌'} {i}. {answer['question']}")
+                    if answer.get('options'):
+                        st.write('選項：' + ' / '.join(answer['options']))
                     st.write(f"作答：{answer['selected']}　｜　正確答案：{answer['answer']}")
     st.stop()
 

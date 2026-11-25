@@ -59,7 +59,8 @@ class WorkflowTests(unittest.TestCase):
         code = self.store.create_student_code()
         sid = self.store.authenticate_student(code)
         self.assertTrue(self.store.resolve_student_name(sid, '').startswith('學生-'))
-        q = [{'question':'Q', 'answer':'yes', 'category':'test'}]
+        q = [{'question':'Q', 'answer':'yes', 'category':'test', 'group_name':'測試文章',
+              'passage':'The original passage.', 'options':['yes','no']}]
         self.store.save('legacy-1', sid, '原有學生', '一般練習', q, {0:'yes'})
         self.assertEqual(self.store.resolve_student_name(sid, ''), '原有學生')
         self.assertEqual(self.store.resolve_student_name(sid, '新名稱'), '新名稱')
@@ -68,7 +69,8 @@ class WorkflowTests(unittest.TestCase):
     def test_saved_attempts_are_deduplicated_and_filtered_by_student(self):
         first = self.store.authenticate_student(self.store.create_student_code())
         second = self.store.authenticate_student(self.store.create_student_code())
-        q = [{'question':'Q', 'answer':'yes', 'category':'test'}]
+        q = [{'question':'Q', 'answer':'yes', 'category':'test', 'group_name':'測試文章',
+              'passage':'The original passage.', 'options':['yes','no']}]
         self.store.save_section('run-1', first, '小明', '詞彙題', q, {0:'yes'}, 75)
         self.store.save_section('run-1', first, '小明', '詞彙題', q, {0:'yes'}, 75)
         self.store.save_section('run-2', second, '小華', '閱讀測驗', q, {0:'no'}, 130)
@@ -76,11 +78,13 @@ class WorkflowTests(unittest.TestCase):
         self.assertEqual(len(rows), 1)
         self.assertEqual(rows[0]['duration_seconds'], 75)
         self.assertEqual(rows[0]['answers'][0]['selected'], 'yes')
+        self.assertEqual(rows[0]['answers'][0]['passage'], 'The original passage.')
         self.assertEqual(len(self.store.list_section_runs()), 2)
 
     def test_admin_can_view_old_and_new_records_with_time(self):
         sid = self.store.authenticate_student(self.store.create_student_code())
-        q = [{'question':'Q', 'answer':'yes', 'category':'test'}]
+        q = [{'question':'Q', 'answer':'yes', 'category':'test', 'group_name':'測試文章',
+              'passage':'The original passage.', 'options':['yes','no']}]
         self.store.save('legacy-1', sid, '小明', '一般練習', q, {0:'yes'})
         self.store.save_section('new-1', sid, '小明', '閱讀測驗', q, {0:'no'}, 130)
         with patch('progress_store.ProgressStore', return_value=self.store):
@@ -93,6 +97,8 @@ class WorkflowTests(unittest.TestCase):
             labels = [e.label for e in app.expander]
             self.assertTrue(any('舊紀錄未計時' in label for label in labels))
             self.assertTrue(any('閱讀測驗' in label and '2 分 10 秒' in label for label in labels))
+            self.assertTrue(any('題組：測試文章' in x.value for x in app.markdown))
+            self.assertTrue(any('The original passage.' in x.value for x in app.markdown))
 
     def test_save_failure_keeps_answers_available_for_retry(self):
         code = self.store.create_student_code()
