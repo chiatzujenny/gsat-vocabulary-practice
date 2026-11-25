@@ -1,5 +1,6 @@
 import hmac
 import json
+import logging
 import time
 import uuid
 from datetime import datetime
@@ -75,7 +76,18 @@ if settings is None:
     st.stop()
 try:
     store = connect_store(settings[0])
-except Exception:
+except Exception as exc:
+    # Never log credentials or raw connection errors. Classify common failures
+    # without exposing the URL, query parameters, or database password.
+    detail = str(getattr(exc, "orig", exc)).lower()
+    reasons = [label for label, phrase in (
+        ("authentication", "authentication"), ("password", "password"),
+        ("ssl", "ssl"), ("channel_binding", "channel binding"),
+        ("timeout", "timed out"), ("resolution", "translate host name"),
+        ("permission", "permission denied"), ("unsupported_parameter", "invalid connection option"),
+    ) if phrase in detail]
+    logging.error("Progress store initialization failed: %s (%s); categories=%s",
+                  type(exc).__name__, type(getattr(exc, "orig", exc)).__name__, reasons)
     st.error("目前無法連線作答紀錄，請稍後再試或聯絡網站管理員。")
     st.stop()
 
