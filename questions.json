@@ -816,7 +816,7 @@
     "category": "語境判斷"
   },
   {
-    "question": "The lawyer advised her client to read the contract carefully before _____ it.",
+    "question": "The lawyer advised her client to read the contract carefully before _____ it to formally agree to its terms.",
     "options": [
       "signing",
       "copying",
@@ -1176,7 +1176,7 @@
     "category": "搭配與介系詞"
   },
   {
-    "question": "The teacher warned students not to _____ someone else’s essay and present it as their own work.",
+    "question": "The teacher warned students not to _____ someone else’s essay word for word and present it as their own work.",
     "options": [
       "copy",
       "discuss",
