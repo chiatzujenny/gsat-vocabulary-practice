@@ -259,7 +259,7 @@ with st.sidebar:
     if st.button('登出', disabled=pending):
         logout()
     st.caption(f"目前登入：{st.session_state.student_name}")
-    page = st.radio('選擇頁面', ['練習進度'] + list(SECTIONS))
+    page = st.radio('選擇頁面', ['練習進度'] + list(SECTIONS), key='navigation_page')
 
 run = st.session_state.get('run')
 if run and page != run['section'] and (not run['submitted'] or not run['saved']):
@@ -289,6 +289,8 @@ if page == '練習進度':
         if info['duration'] is not None:
             summary += f" · 平均時間 {duration_text(info['duration'])}"
         st.caption(summary)
+        st.button(f'練習{label}', key=f'practice_{label}', use_container_width=True,
+                  on_click=lambda target=label: st.session_state.update(navigation_page=target))
     st.caption('優先安排尚未做過的題目或題組；題組需完整出題，重複練習不會重複計入覆蓋率。舊版及無法對應新版題庫的作答仍計入回數，但不列入覆蓋率。混合題含學生自評，分數須由教師覆核。')
     st.caption('計時從開始該大題起至交卷為止；重新整理或關閉頁面前，未交卷的進度不會保存。')
     st.stop()
