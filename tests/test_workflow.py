@@ -184,6 +184,37 @@ class WorkflowTests(unittest.TestCase):
             self.assertTrue(any('題組：測試文章' in x.value for x in app.markdown))
             self.assertTrue(any('The original passage.' in x.value for x in app.markdown))
 
+    def test_admin_delete_requires_confirmation_and_targets_one_record(self):
+        sid = self.store.authenticate_student(self.store.create_student_code())
+        other = self.store.authenticate_student(self.store.create_student_code())
+        q = [{'question':'Q', 'answer':'yes', 'category':'test', 'options':['yes','no']}]
+        self.store.save('legacy-1', sid, '小明', '一般練習', q, {0:'yes'})
+        self.store.save_section('new-1', sid, '小明', '閱讀測驗', q, {0:'yes'}, 30)
+        self.store.save_section('new-2', other, '小華', '閱讀測驗', q, {0:'yes'}, 40)
+        self.assertFalse(self.store.delete_attempt('section', 'new-1', other))
+        with patch('progress_store.ProgressStore', return_value=self.store):
+            app = AppTest.from_file(str(Path(__file__).resolve().parents[1] / 'app.py'), default_timeout=20)
+            app.secrets['progress'] = {'database_url':f'postgresql://test/{os.path.basename(self.tmp.name)}?sslmode=require',
+                                       'admin_password':'c'*32}
+            app.run()
+            app.text_input[2].set_value('c'*32)
+            next(b for b in app.button if b.label == '登入管理頁面 / Sign in').click().run()
+            app.selectbox[0].set_value(sid).run()
+            app.button(key='delete_section_new-1').click().run()
+            self.assertEqual(len(self.store.list_section_runs(sid)), 1)
+            self.assertTrue(any('小明' in m.value for m in app.markdown))
+            next(b for b in app.button if b.label == '取消刪除').click().run()
+            self.assertEqual(len(self.store.list_section_runs(sid)), 1)
+            app.button(key='delete_section_new-1').click().run()
+            next(b for b in app.button if b.label == '確認刪除此紀錄').click().run()
+            self.assertEqual(len(self.store.list_section_runs(sid)), 0)
+            self.assertEqual(len(self.store.list_section_runs(other)), 1)
+            self.assertEqual(len(self.store.list_attempts(sid)), 1)
+            app.button(key='delete_legacy_legacy-1').click().run()
+            next(b for b in app.button if b.label == '確認刪除此紀錄').click().run()
+            self.assertEqual(len(self.store.list_attempts(sid)), 0)
+            self.assertEqual(len(self.store.list_section_runs(other)), 1)
+
     def test_save_failure_keeps_answers_available_for_retry(self):
         code = self.store.create_student_code()
         with patch('progress_store.ProgressStore', return_value=self.store):

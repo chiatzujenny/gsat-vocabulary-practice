@@ -1,5 +1,5 @@
 """Persistent quiz attempts; connection credentials are supplied by the host."""
-PROGRESS_STORE_VERSION = 2
+PROGRESS_STORE_VERSION = 3
 
 import hashlib
 import json
@@ -176,6 +176,16 @@ class ProgressStore:
         with self.engine.connect() as connection:
             return [dict(row, answers=json.loads(row["answers_json"]))
                     for row in connection.execute(statement).mappings()]
+
+    def delete_attempt(self, source, attempt_id, student_id):
+        tables = {'legacy': attempts, 'section': section_runs}
+        if source not in tables:
+            raise ValueError('Unknown attempt source')
+        table = tables[source]
+        with self.engine.begin() as connection:
+            result = connection.execute(table.delete().where(
+                table.c.attempt_id == attempt_id, table.c.student_id == student_id))
+            return result.rowcount == 1
 
     def legacy_completed(self, student_id):
         with self.engine.connect() as connection:

@@ -15,10 +15,10 @@ import importlib
 import quiz_engine as _quiz_engine
 import progress_store as _progress_store
 import pdf_export as _pdf_export
-for _module, _marker in ((_quiz_engine, 'QUIZ_ENGINE_VERSION'),
-                         (_progress_store, 'PROGRESS_STORE_VERSION'),
-                         (_pdf_export, 'PDF_EXPORT_VERSION')):
-    if getattr(_module, _marker, 0) < 2:
+for _module, _marker, _version in ((_quiz_engine, 'QUIZ_ENGINE_VERSION', 2),
+                                   (_progress_store, 'PROGRESS_STORE_VERSION', 3),
+                                   (_pdf_export, 'PDF_EXPORT_VERSION', 2)):
+    if getattr(_module, _marker, 0) < _version:
         importlib.reload(_module)
 
 from catalog_refresh import refresh_catalog
@@ -52,7 +52,7 @@ def get_settings():
 
 
 @st.cache_resource(show_spinner=False)
-def connect_store(url, schema_version=2):
+def connect_store(url, schema_version=3):
     store = ProgressStore(url)
     store.initialize()
     return store
@@ -206,8 +206,10 @@ if st.session_state.role == 'admin':
         st.stop()
     rows = []
     for row in legacy:
-        row.update(section='詞彙題（舊版）', duration_seconds=None)
+        row.update(section='詞彙題（舊版）', duration_seconds=None, source='legacy')
         rows.append(row)
+    for row in new:
+        row['source'] = 'section'
     rows.extend(new)
     rows.sort(key=lambda item: item['submitted_at'], reverse=True)
     if not rows:
@@ -218,6 +220,35 @@ if st.session_state.role == 'admin':
         selected = st.selectbox('選擇學生', list(labels), format_func=lambda sid: labels[sid])
         selected_rows = [row for row in rows if row['student_id'] == selected]
         st.write(f'共 {len(selected_rows)} 次作答；同一代碼會歸在同一位學生。')
+        if st.session_state.pop('delete_success', False):
+            st.success('該筆作答紀錄已刪除，相關統計已更新。')
+        pending_delete = st.session_state.get('pending_delete')
+        if pending_delete:
+            match = next((r for r in selected_rows if
+                          (r['source'], r['attempt_id'], r['student_id']) == pending_delete), None)
+            if match is None:
+                del st.session_state.pending_delete
+            else:
+                st.warning('確認刪除這筆作答紀錄？刪除後無法在網站復原，學生的進度和統計也會更新。')
+                st.write(f"學生：{match['student_name']}（代碼識別 {match['student_id'][:8]}）")
+                st.write(f"題型：{match['section']}　｜　時間：{time_label(match['submitted_at'])}")
+                match_score = points_text(match['answers']) or f"{match['score']}/{match['total']}"
+                st.write(f'成績：{match_score}')
+                if st.button('確認刪除此紀錄', type='primary'):
+                    try:
+                        deleted = store.delete_attempt(*pending_delete)
+                    except Exception:
+                        st.error('無法確認刪除結果，請重新檢查紀錄後再試。')
+                    else:
+                        del st.session_state.pending_delete
+                        if deleted:
+                            st.session_state.delete_success = True
+                            st.rerun()
+                        else:
+                            st.warning('找不到這筆紀錄，可能已被其他管理員刪除。')
+                if st.button('取消刪除'):
+                    del st.session_state.pending_delete
+                    st.rerun()
         with st.expander('各題型統計'):
             student_new = [r for r in new if r['student_id'] == selected]
             student_old = [r for r in legacy if r['student_id'] == selected]
@@ -251,6 +282,9 @@ if st.session_state.role == 'admin':
                     if grade is not None:
                         remark = '（學生自評，需教師覆核）' if grade.get('self_assessed') else ''
                         st.caption(f"得分 {grade['points']:g}/{grade['max_points']:g} {remark}")
+                if st.button('刪除此筆紀錄', key=f"delete_{row['source']}_{row['attempt_id']}"):
+                    st.session_state.pending_delete = (row['source'], row['attempt_id'], row['student_id'])
+                    st.rerun()
     st.stop()
 
 with st.sidebar:
