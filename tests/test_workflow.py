@@ -215,6 +215,39 @@ class WorkflowTests(unittest.TestCase):
             self.assertEqual(len(self.store.list_attempts(sid)), 0)
             self.assertEqual(len(self.store.list_section_runs(other)), 1)
 
+    def test_remove_student_requires_confirmation_and_revokes_code(self):
+        code = self.store.create_student_code()
+        sid = self.store.authenticate_student(code)
+        self.store.resolve_student_name(sid, '測試學生')
+        other_code = self.store.create_student_code()
+        other = self.store.authenticate_student(other_code)
+        q = [{'question':'Q', 'answer':'yes', 'category':'test', 'options':['yes','no']}]
+        self.store.save('legacy-a', sid, '測試學生', '一般練習', q, {0:'yes'})
+        self.store.save_section('new-a', sid, '測試學生', '閱讀測驗', q, {0:'yes'}, 30)
+        self.store.save_section('other-a', other, '小華', '閱讀測驗', q, {0:'yes'}, 40)
+        with patch('progress_store.ProgressStore', return_value=self.store):
+            app = AppTest.from_file(str(Path(__file__).resolve().parents[1] / 'app.py'), default_timeout=20)
+            app.secrets['progress'] = {'database_url':f'postgresql://test/{os.path.basename(self.tmp.name)}?sslmode=require',
+                                       'admin_password':'d'*32}
+            app.run()
+            app.text_input[2].set_value('d'*32)
+            next(b for b in app.button if b.label == '登入管理頁面 / Sign in').click().run()
+            app.selectbox[0].set_value(sid).run()
+            next(b for b in app.button if b.label == '移除這位學生及全部紀錄').click().run()
+            self.assertIsNotNone(self.store.authenticate_student(code))
+            next(b for b in app.button if b.label == '取消移除學生').click().run()
+            self.assertEqual(len(self.store.list_attempts(sid)), 1)
+            next(b for b in app.button if b.label == '移除這位學生及全部紀錄').click().run()
+            next(b for b in app.button if b.label == '確認移除學生及全部紀錄').click().run()
+            self.assertFalse(app.exception)
+            self.assertIsNone(self.store.authenticate_student(code))
+            self.assertEqual(self.store.list_attempts(sid), [])
+            self.assertEqual(self.store.list_section_runs(sid), [])
+            self.assertEqual(len(self.store.list_section_runs(other)), 1)
+            self.assertEqual(self.store.authenticate_student(other_code), other)
+            with self.assertRaises(ValueError):
+                self.store.save_section('after-delete', sid, '測試學生', '詞彙題', q, {0:'yes'}, 20)
+
     def test_save_failure_keeps_answers_available_for_retry(self):
         code = self.store.create_student_code()
         with patch('progress_store.ProgressStore', return_value=self.store):

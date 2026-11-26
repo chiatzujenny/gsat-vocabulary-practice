@@ -16,7 +16,7 @@ import quiz_engine as _quiz_engine
 import progress_store as _progress_store
 import pdf_export as _pdf_export
 for _module, _marker, _version in ((_quiz_engine, 'QUIZ_ENGINE_VERSION', 2),
-                                   (_progress_store, 'PROGRESS_STORE_VERSION', 3),
+                                   (_progress_store, 'PROGRESS_STORE_VERSION', 4),
                                    (_pdf_export, 'PDF_EXPORT_VERSION', 2)):
     if getattr(_module, _marker, 0) < _version:
         importlib.reload(_module)
@@ -52,7 +52,7 @@ def get_settings():
 
 
 @st.cache_resource(show_spinner=False)
-def connect_store(url, schema_version=3):
+def connect_store(url, schema_version=4):
     store = ProgressStore(url)
     store.initialize()
     return store
@@ -201,6 +201,7 @@ if st.session_state.role == 'admin':
     try:
         legacy = store.list_attempts()
         new = store.list_section_runs()
+        students_list = store.list_students()
     except Exception:
         st.error('目前無法讀取作答紀錄，請稍後再試。')
         st.stop()
@@ -212,14 +213,40 @@ if st.session_state.role == 'admin':
         row['source'] = 'section'
     rows.extend(new)
     rows.sort(key=lambda item: item['submitted_at'], reverse=True)
-    if not rows:
-        st.info('目前尚無已完成的測驗。')
+    if st.session_state.pop('student_delete_success', False):
+        st.success('學生代碼及該學生的所有作答紀錄已刪除。')
+    if not rows and not students_list:
+        st.info('目前沒有學生或作答紀錄。')
     else:
         names = {row['student_id']: row['student_name'] for row in reversed(rows)}
+        for student in students_list:
+            sid = student['student_id']
+            names[sid] = student['display_name'] or names.get(sid, f'學生-{sid[:8]}')
         labels = {sid: f'{name}（代碼識別 {sid[:8]}）' for sid, name in names.items()}
         selected = st.selectbox('選擇學生', list(labels), format_func=lambda sid: labels[sid])
         selected_rows = [row for row in rows if row['student_id'] == selected]
         st.write(f'共 {len(selected_rows)} 次作答；同一代碼會歸在同一位學生。')
+        if st.session_state.get('pending_student_delete') == selected:
+            st.warning('確認移除這位學生？其個人代碼、名稱及所有作答紀錄將永久刪除，無法在網站復原。')
+            st.write(f"學生：{labels[selected]}　｜　作答紀錄：{len(selected_rows)} 筆")
+            if st.button('確認移除學生及全部紀錄', type='primary'):
+                try:
+                    store.delete_student_and_attempts(selected)
+                except Exception:
+                    st.error('無法確認移除結果，請重新檢查後再試。')
+                else:
+                    del st.session_state.pending_student_delete
+                    st.session_state.pop('pending_delete', None)
+                    st.session_state.student_delete_success = True
+                    st.rerun()
+            if st.button('取消移除學生'):
+                del st.session_state.pending_student_delete
+                st.rerun()
+        else:
+            st.session_state.pop('pending_student_delete', None)
+            if st.button('移除這位學生及全部紀錄'):
+                st.session_state.pending_student_delete = selected
+                st.rerun()
         if st.session_state.pop('delete_success', False):
             st.success('該筆作答紀錄已刪除，相關統計已更新。')
         pending_delete = st.session_state.get('pending_delete')
@@ -285,6 +312,17 @@ if st.session_state.role == 'admin':
                 if st.button('刪除此筆紀錄', key=f"delete_{row['source']}_{row['attempt_id']}"):
                     st.session_state.pending_delete = (row['source'], row['attempt_id'], row['student_id'])
                     st.rerun()
+    st.stop()
+
+try:
+    active_student = store.student_exists(st.session_state.student_id)
+except Exception:
+    st.error('目前無法確認學生代碼，請稍後再試。')
+    st.stop()
+if not active_student:
+    st.warning('這組學生代碼已停用，請向老師確認。')
+    if st.button('返回登入頁'):
+        logout()
     st.stop()
 
 with st.sidebar:

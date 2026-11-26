@@ -1,5 +1,5 @@
 """Persistent quiz attempts; connection credentials are supplied by the host."""
-PROGRESS_STORE_VERSION = 3
+PROGRESS_STORE_VERSION = 4
 
 import hashlib
 import json
@@ -78,9 +78,35 @@ class ProgressStore:
         with self.engine.connect() as connection:
             return connection.execute(select(students.c.student_id).where(students.c.code_hash == digest)).scalar_one_or_none()
 
+    def student_exists(self, student_id):
+        with self.engine.connect() as connection:
+            return connection.execute(select(students.c.student_id).where(
+                students.c.student_id == student_id)).scalar_one_or_none() is not None
+
+    def list_students(self):
+        statement = select(students.c.student_id, student_profiles.c.display_name).select_from(
+            students.outerjoin(student_profiles, students.c.student_id == student_profiles.c.student_id))
+        with self.engine.connect() as connection:
+            return [dict(row) for row in connection.execute(statement).mappings()]
+
+    def delete_student_and_attempts(self, student_id):
+        with self.engine.begin() as connection:
+            connection.execute(select(students.c.student_id).where(
+                students.c.student_id == student_id).with_for_update()).first()
+            for table in (section_runs, attempts, student_profiles, students):
+                connection.execute(table.delete().where(table.c.student_id == student_id))
+
+    @staticmethod
+    def _require_active_student(connection, student_id):
+        found = connection.execute(select(students.c.student_id).where(
+            students.c.student_id == student_id).with_for_update()).scalar_one_or_none()
+        if found is None:
+            raise ValueError('Student code is no longer active')
+
     def resolve_student_name(self, student_id, provided_name):
         name = provided_name.strip()
         with self.engine.begin() as connection:
+            self._require_active_student(connection, student_id)
             if name:
                 changed = connection.execute(update(student_profiles).where(
                     student_profiles.c.student_id == student_id).values(display_name=name))
@@ -127,6 +153,7 @@ class ProgressStore:
         )
         try:
             with self.engine.begin() as connection:
+                self._require_active_student(connection, student_id)
                 connection.execute(attempts.insert().values(**record))
         except IntegrityError:
             # A retry after a successful write must not duplicate an attempt.
@@ -161,6 +188,7 @@ class ProgressStore:
                    answers_json=json.dumps(details, ensure_ascii=False))
         try:
             with self.engine.begin() as connection:
+                self._require_active_student(connection, student_id)
                 connection.execute(section_runs.insert().values(**row))
         except IntegrityError:
             with self.engine.connect() as connection:
